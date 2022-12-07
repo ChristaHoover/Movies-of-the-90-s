@@ -1,0 +1,1051 @@
+,movie_title,release_year,movie_rating,director,star_one,star_two,star_three,star_four,movie_length,genre,imdb_metascore,imdb_stars,imdb_votes,imdb_gross
+0,Titanic,1997,PG-13,James Cameron,Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates,194,"Drama, Romance            ",75,7.9,"1,168,794",$659.33M
+1,Star Wars: Episode I - The Phantom Menace,1999,PG,George Lucas,Ewan McGregor,Liam Neeson,Natalie Portman,Jake Lloyd,136,"Action, Adventure, Fantasy            ",51,6.5,"805,014",$474.54M
+2,The Lion King,1994,G,Roger Allers,Rob Minkoff,Matthew Broderick,Jeremy Irons,James Earl Jones,88,"Animation, Adventure, Drama            ",88,8.5,"1,054,327",$422.78M
+3,Jurassic Park,1993,PG-13,Steven Spielberg,Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough,127,"Action, Adventure, Sci-Fi            ",68,8.2,"985,839",$402.45M
+4,Forrest Gump,1994,PG-13,Robert Zemeckis,Tom Hanks,Robin Wright,Gary Sinise,Sally Field,142,"Drama, Romance            ",82,8.8,"2,067,035",$330.25M
+5,Independence Day,1996,PG-13,Roland Emmerich,Will Smith,Bill Pullman,Jeff Goldblum,Mary McDonnell,145,"Action, Adventure, Sci-Fi            ",59,7.0,"576,330",$306.17M
+6,The Sixth Sense,1999,PG-13,M. Night Shyamalan,Bruce Willis,Haley Joel Osment,Toni Collette,Olivia Williams,107,"Drama, Mystery, Thriller            ",64,8.2,"990,567",$293.51M
+7,Home Alone,1990,PG,Chris Columbus,Macaulay Culkin,Joe Pesci,Daniel Stern,John Heard,103,"Comedy, Family            ",63,7.7,"568,228",$285.76M
+8,Men in Black,1997,PG-13,Barry Sonnenfeld,Tommy Lee Jones,Will Smith,Linda Fiorentino,Vincent D'Onofrio,98,"Action, Adventure, Comedy            ",71,7.3,"569,457",$250.69M
+9,Toy Story 2,1999,G,John Lasseter,Ash Brannon,Lee Unkrich,Tom Hanks,Tim Allen,92,"Animation, Adventure, Comedy            ",88,7.9,"581,251",$245.85M
+10,Twister,1996,PG-13,Jan de Bont,Helen Hunt,Bill Paxton,Cary Elwes,Jami Gertz,113,"Action, Adventure, Thriller            ",68,6.4,"197,988",$241.72M
+11,The Lost World: Jurassic Park,1997,PG-13,Steven Spielberg,Jeff Goldblum,Julianne Moore,Pete Postlethwaite,Vince Vaughn,129,"Action, Adventure, Sci-Fi            ",59,6.5,"419,132",$229.09M
+12,Mrs. Doubtfire,1993,PG-13,Chris Columbus,Robin Williams,Sally Field,Pierce Brosnan,Harvey Fierstein,125,"Comedy, Drama            ",53,7.1,"269,382",$219.20M
+13,Beauty and the Beast,1991,G,Gary Trousdale,Kirk Wise,Paige O'Hara,Robby Benson,Jesse Corti,84,"Animation, Family, Fantasy            ",95,8.0,"455,187",$218.97M
+14,Ghost,1990,PG-13,Jerry Zucker,Patrick Swayze,Demi Moore,Whoopi Goldberg,Tony Goldwyn,127,"Drama, Fantasy, Romance            ",52,7.1,"218,674",$217.63M
+15,Aladdin,1992,G,Ron Clements,John Musker,Scott Weinger,Robin Williams,Linda Larkin,90,"Animation, Adventure, Comedy            ",86,8.0,"420,039",$217.35M
+16,Saving Private Ryan,1998,R,Steven Spielberg,Tom Hanks,Matt Damon,Tom Sizemore,Edward Burns,169,"Drama, War            ",91,8.6,"1,385,899",$216.54M
+17,Austin Powers: The Spy Who Shagged Me,1999,PG-13,Jay Roach,Mike Myers,Heather Graham,Michael York,Robert Wagner,95,"Action, Adventure, Comedy            ",59,6.6,"235,197",$206.04M
+18,Terminator 2: Judgment Day,1991,R,James Cameron,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick,137,"Action, Sci-Fi            ",75,8.6,"1,095,556",$204.84M
+19,Armageddon,1998,PG-13,Michael Bay,Bruce Willis,Billy Bob Thornton,Ben Affleck,Liv Tyler,151,"Action, Adventure, Sci-Fi            ",42,6.7,"427,477",$201.57M
+20,Toy Story,1995,G,John Lasseter,Tom Hanks,Tim Allen,Don Rickles,Jim Varney,81,"Animation, Adventure, Comedy            ",95,8.3,"991,061",$191.80M
+21,Dances with Wolves,1990,PG-13,Kevin Costner,Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant,181,"Adventure, Drama, Western            ",72,8.0,"266,391",$184.21M
+22,Batman Forever,1995,PG-13,Joel Schumacher,Val Kilmer,Tommy Lee Jones,Jim Carrey,Nicole Kidman,121,"Action, Adventure            ",51,5.4,"254,336",$184.03M
+23,The Fugitive,1993,PG-13,Andrew Davis,Harrison Ford,Tommy Lee Jones,Sela Ward,Julianne Moore,130,"Action, Crime, Drama            ",87,7.8,"296,505",$183.88M
+24,Liar Liar,1997,PG-13,Tom Shadyac,Jim Carrey,Maura Tierney,Amanda Donohoe,Jennifer Tilly,86,"Comedy, Fantasy            ",70,6.9,"310,691",$181.41M
+25,Mission: Impossible,1996,PG-13,Brian De Palma,Tom Cruise,Jon Voight,Emmanuelle Béart,Henry Czerny,110,"Action, Adventure, Thriller            ",59,7.1,"427,599",$180.98M
+26,Pretty Woman,1990,R,Garry Marshall,Richard Gere,Julia Roberts,Jason Alexander,Laura San Giacomo,119,"Comedy, Romance            ",51,7.1,"326,623",$178.41M
+27,There's Something About Mary,1998,R,Bobby Farrelly,Peter Farrelly,Cameron Diaz,Matt Dillon,Ben Stiller,119,"Comedy, Romance            ",69,7.1,"312,895",$176.48M
+28,Apollo 13,1995,PG,Ron Howard,Tom Hanks,Bill Paxton,Kevin Bacon,Gary Sinise,140,"Adventure, Drama, History            ",77,7.7,"296,440",$173.84M
+29,Home Alone 2: Lost in New York,1992,PG,Chris Columbus,Macaulay Culkin,Joe Pesci,Daniel Stern,Catherine O'Hara,120,"Adventure, Comedy, Crime            ",46,6.8,"355,379",$173.59M
+30,Air Force One,1997,R,Wolfgang Petersen,Harrison Ford,Gary Oldman,Glenn Close,Wendy Crewson,124,"Action, Drama, Thriller            ",61,6.5,"197,676",$172.96M
+31,The Matrix,1999,R,Lana Wachowski,Lilly Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,136,"Action, Sci-Fi            ",73,8.7,"1,905,126",$171.48M
+32,Tarzan,1999,G,Chris Buck,Kevin Lima,Tony Goldwyn,Minnie Driver,Brian Blessed,88,"Animation, Adventure, Comedy            ",79,7.3,"227,887",$171.09M
+33,Robin Hood: Prince of Thieves,1991,PG-13,Kevin Reynolds,Kevin Costner,Morgan Freeman,Mary Elizabeth Mastrantonio,Christian Slater,143,"Action, Adventure, Drama            ",51,6.9,"195,222",$165.50M
+34,Big Daddy,1999,PG-13,Dennis Dugan,Adam Sandler,Joey Lauren Adams,Jon Stewart,Cole Sprouse,93,"Comedy, Drama            ",41,6.4,"219,104",$163.48M
+35,Batman Returns,1992,PG-13,Tim Burton,Michael Keaton,Danny DeVito,Michelle Pfeiffer,Christopher Walken,126,"Action, Crime, Fantasy            ",68,7.1,"306,629",$162.83M
+36,A Bug's Life,1998,G,John Lasseter,Andrew Stanton,Kevin Spacey,David Foley,Julia Louis-Dreyfus,95,"Animation, Adventure, Comedy            ",77,7.2,"294,266",$162.80M
+37,The Waterboy,1998,PG-13,Frank Coraci,Adam Sandler,Kathy Bates,Henry Winkler,Fairuza Balk,90,"Comedy, Sport            ",41,6.1,"165,888",$161.49M
+38,The Firm,1993,R,Sydney Pollack,Tom Cruise,Jeanne Tripplehorn,Gene Hackman,Hal Holbrook,154,"Drama, Mystery, Thriller            ",58,6.8,"136,450",$158.35M
+39,The Mummy,1999,PG-13,Stephen Sommers,Brendan Fraser,Rachel Weisz,John Hannah,Arnold Vosloo,124,"Action, Adventure, Fantasy            ",48,7.1,"430,960",$155.25M
+40,Jerry Maguire,1996,R,Cameron Crowe,Tom Cruise,Cuba Gooding Jr.,Renée Zellweger,Kelly Preston,139,"Comedy, Drama, Romance            ",77,7.3,"267,986",$153.95M
+41,Runaway Bride,1999,PG,Garry Marshall,Julia Roberts,Richard Gere,Joan Cusack,Hector Elizondo,116,"Comedy, Romance            ",39,5.6,"99,559",$152.26M
+42,As Good as It Gets,1997,PG-13,James L. Brooks,Jack Nicholson,Helen Hunt,Greg Kinnear,Cuba Gooding Jr.,139,"Comedy, Drama, Romance            ",67,7.7,"300,084",$148.48M
+43,True Lies,1994,R,James Cameron,Arnold Schwarzenegger,Jamie Lee Curtis,Tom Arnold,Bill Paxton,141,"Action, Comedy, Thriller            ",63,7.3,"260,353",$146.28M
+44,The Santa Clause,1994,PG,John Pasquin,Tim Allen,Judge Reinhold,Wendy Crewson,Eric Lloyd,97,"Comedy, Drama, Family            ",57,6.5,"118,037",$144.83M
+45,Lethal Weapon 3,1992,R,Richard Donner,Mel Gibson,Danny Glover,Joe Pesci,Rene Russo,118,"Action, Crime, Thriller            ",40,6.7,"169,713",$144.73M
+46,Doctor Dolittle,1998,PG-13,Betty Thomas,Eddie Murphy,Peter Boyle,Ossie Davis,Oliver Platt,85,"Comedy, Family, Fantasy            ",46,5.4,"97,858",$144.16M
+47,Pocahontas,1995,G,Mike Gabriel,Eric Goldberg,Mel Gibson,Linda Hunt,Christian Bale,81,"Animation, Adventure, Drama            ",58,6.7,"188,702",$141.60M
+48,A Few Good Men,1992,R,Rob Reiner,Tom Cruise,Jack Nicholson,Demi Moore,Kevin Bacon,138,"Drama, Thriller            ",62,7.7,"265,680",$141.34M
+49,Rush Hour,1998,PG-13,Brett Ratner,Jackie Chan,Chris Tucker,Ken Leung,Tom Wilkinson,98,"Action, Comedy, Crime            ",60,7.0,"270,343",$141.15M
+50,The Blair Witch Project,1999,R,Daniel Myrick,Eduardo Sánchez,Heather Donahue,Michael C. Williams,Joshua Leonard,81,"Horror, Mystery            ",81,6.5,"263,651",$140.54M
+51,Deep Impact,1998,PG-13,Mimi Leder,Robert Duvall,Téa Leoni,Elijah Wood,Morgan Freeman,120,"Action, Drama, Sci-Fi            ",40,6.2,"179,920",$140.46M
+52,Stuart Little,1999,PG,Rob Minkoff,Michael J. Fox,Geena Davis,Hugh Laurie,Jonathan Lipnicki,84,"Adventure, Comedy, Family            ",61,6.0,"136,802",$140.04M
+53,Sister Act,1992,PG,Emile Ardolino,Whoopi Goldberg,Maggie Smith,Kathy Najimy,Wendy Makkena,100,"Comedy, Family, Music            ",51,6.5,"100,299",$139.61M
+54,Good Will Hunting,1997,R,Gus Van Sant,Robin Williams,Matt Damon,Ben Affleck,Stellan Skarsgård,126,"Drama, Romance            ",70,8.3,"964,388",$138.43M
+55,The Green Mile,1999,R,Frank Darabont,Tom Hanks,Michael Clarke Duncan,David Morse,Bonnie Hunt,189,"Crime, Drama, Fantasy            ",61,8.6,"1,295,810",$136.80M
+56,Ransom,1996,R,Ron Howard,Mel Gibson,Gary Sinise,Rene Russo,Brawley Nolte,121,"Action, Crime, Thriller            ",60,6.7,"129,452",$136.49M
+57,Godzilla,1998,PG-13,Roland Emmerich,Matthew Broderick,Jean Reno,Maria Pitillo,Hank Azaria,139,"Action, Sci-Fi, Thriller            ",32,5.4,"194,720",$136.31M
+58,101 Dalmatians,1996,G,Stephen Herek,Glenn Close,Jeff Daniels,Joely Richardson,Joan Plowright,103,"Adventure, Comedy, Crime            ",49,5.7,"112,098",$136.19M
+59,Teenage Mutant Ninja Turtles,1990,PG,Steve Barron,Judith Hoag,Elias Koteas,Josh Pais,David Forman,93,"Action, Adventure, Comedy            ",51,6.7,"95,258",$135.27M
+60,Patch Adams,1998,PG-13,Tom Shadyac,Robin Williams,Daniel London,Monica Potter,Philip Seymour Hoffman,115,"Biography, Comedy, Drama            ",25,6.8,"114,686",$135.03M
+61,The Rock,1996,R,Michael Bay,Sean Connery,Nicolas Cage,Ed Harris,John Spencer,136,"Action, Adventure, Thriller            ",58,7.4,"339,628",$134.07M
+62,The Silence of the Lambs,1991,R,Jonathan Demme,Jodie Foster,Anthony Hopkins,Lawrence A. Bonney,Kasi Lemmons,118,"Crime, Drama, Thriller            ",85,8.6,"1,426,694",$130.74M
+63,The Flintstones,1994,PG,Brian Levant,John Goodman,Rick Moranis,Rosie O'Donnell,Halle Berry,91,"Comedy, Family, Fantasy            ",38,5.0,"81,971",$130.51M
+64,Lethal Weapon 4,1998,R,Richard Donner,Mel Gibson,Danny Glover,Joe Pesci,Rene Russo,127,"Action, Crime, Thriller            ",37,6.6,"164,490",$130.44M
+65,American Beauty,1999,R,Sam Mendes,Kevin Spacey,Annette Bening,Thora Birch,Wes Bentley,122,Drama            ,84,8.4,"1,152,955",$130.10M
+66,The Nutty Professor,1996,PG-13,Tom Shadyac,Eddie Murphy,Jada Pinkett Smith,James Coburn,Larry Miller,95,"Comedy, Romance, Sci-Fi            ",62,5.7,"118,004",$128.81M
+67,Dumb and Dumber,1994,PG-13,Peter Farrelly,Bobby Farrelly,Jim Carrey,Jeff Daniels,Lauren Holly,107,Comedy            ,41,7.3,"386,722",$127.18M
+68,My Best Friend's Wedding,1997,PG-13,P.J. Hogan,Julia Roberts,Dermot Mulroney,Cameron Diaz,Rupert Everett,105,"Comedy, Drama, Romance            ",50,6.3,"144,001",$127.12M
+69,The World Is Not Enough,1999,PG-13,Michael Apted,Pierce Brosnan,Sophie Marceau,Robert Carlyle,Denise Richards,128,"Action, Adventure, Thriller            ",57,6.4,"202,105",$126.94M
+70,Sleepless in Seattle,1993,PG,Nora Ephron,Tom Hanks,Meg Ryan,Ross Malinger,Rita Wilson,105,"Comedy, Drama, Romance            ",72,6.8,"177,570",$126.53M
+71,The Truman Show,1998,PG,Peter Weir,Jim Carrey,Ed Harris,Laura Linney,Noah Emmerich,103,"Comedy, Drama            ",90,8.2,"1,076,599",$125.62M
+72,Tomorrow Never Dies,1997,PG-13,Roger Spottiswoode,Pierce Brosnan,Jonathan Pryce,Michelle Yeoh,Teri Hatcher,119,"Action, Adventure, Thriller            ",52,6.5,"195,911",$125.33M
+73,The Birdcage,1996,R,Mike Nichols,Robin Williams,Nathan Lane,Gene Hackman,Dianne Wiest,117,Comedy            ,72,7.2,"90,962",$124.06M
+74,City Slickers,1991,PG-13,Ron Underwood,Billy Crystal,Jack Palance,Daniel Stern,Bruno Kirby,113,"Comedy, Western            ",70,6.8,"58,388",$124.03M
+75,Clear and Present Danger,1994,PG-13,Phillip Noyce,Harrison Ford,Willem Dafoe,Anne Archer,Joaquim de Almeida,141,"Action, Crime, Drama            ",74,6.9,"100,927",$122.19M
+76,The Hunt for Red October,1990,PG,John McTiernan,Sean Connery,Alec Baldwin,Scott Glenn,Sam Neill,135,"Action, Adventure, Thriller            ",58,7.5,"201,626",$122.01M
+77,The Bodyguard,1992,R,Mick Jackson,Kevin Costner,Whitney Houston,Gary Kemp,Bill Cobbs,129,"Action, Drama, Music            ",39,6.3,"136,306",$121.95M
+78,Wayne's World,1992,PG-13,Penelope Spheeris,Mike Myers,Dana Carvey,Rob Lowe,Tia Carrere,94,"Comedy, Music            ",57,7.0,"158,614",$121.70M
+79,Speed,1994,R,Jan de Bont,Keanu Reeves,Dennis Hopper,Sandra Bullock,Joe Morton,116,"Action, Adventure, Thriller            ",78,7.3,"365,443",$121.25M
+80,Mulan,1998,G,Tony Bancroft,Barry Cook,Ming-Na Wen,Eddie Murphy,BD Wong,88,"Animation, Adventure, Comedy            ",71,7.6,"289,172",$120.62M
+81,The Mask,1994,PG-13,Chuck Russell,Jim Carrey,Cameron Diaz,Peter Riegert,Peter Greene,101,"Action, Comedy, Crime            ",56,6.9,"387,594",$119.94M
+82,Hook,1991,PG,Steven Spielberg,Dustin Hoffman,Robin Williams,Julia Roberts,Bob Hoskins,142,"Adventure, Comedy, Family            ",52,6.8,"255,730",$119.65M
+83,Total Recall,1990,R,Paul Verhoeven,Arnold Schwarzenegger,Sharon Stone,Michael Ironside,Rachel Ticotin,113,"Action, Adventure, Sci-Fi            ",57,7.5,"332,320",$119.39M
+84,Basic Instinct,1992,R,Paul Verhoeven,Michael Douglas,Sharon Stone,George Dzundza,Jeanne Tripplehorn,127,"Drama, Mystery, Thriller            ",41,7.0,"201,754",$117.73M
+85,Die Hard 2,1990,R,Renny Harlin,Bruce Willis,William Atherton,Bonnie Bedelia,Reginald VelJohnson,124,"Action, Thriller            ",67,7.1,"362,736",$117.54M
+86,Double Jeopardy,1999,R,Bruce Beresford,Ashley Judd,Tommy Lee Jones,Bruce Greenwood,Benjamin Weir,105,"Crime, Drama, Mystery            ",40,6.5,"87,951",$116.74M
+87,Notting Hill,1999,PG-13,Roger Michell,Hugh Grant,Julia Roberts,Richard McCabe,Rhys Ifans,124,"Comedy, Drama, Romance            ",68,7.2,"313,295",$116.09M
+88,You've Got Mail,1998,PG,Nora Ephron,Tom Hanks,Meg Ryan,Greg Kinnear,Parker Posey,119,"Comedy, Drama, Romance            ",57,6.7,"215,574",$115.82M
+89,Wild Wild West,1999,PG-13,Barry Sonnenfeld,Will Smith,Kevin Kline,Kenneth Branagh,Salma Hayek,106,"Action, Comedy, Sci-Fi            ",38,4.9,"161,909",$113.81M
+90,The Addams Family,1991,PG-13,Barry Sonnenfeld,Anjelica Huston,Raul Julia,Christopher Lloyd,Dan Hedaya,99,"Comedy, Fantasy            ",57,6.9,"159,630",$113.50M
+91,Face/Off,1997,R,John Woo,John Travolta,Nicolas Cage,Joan Allen,Alessandro Nivola,138,"Action, Crime, Sci-Fi            ",82,7.3,"378,950",$112.23M
+92,Enemy of the State,1998,R,Tony Scott,Will Smith,Gene Hackman,Jon Voight,Lisa Bonet,132,"Action, Thriller            ",67,7.3,"245,788",$111.55M
+93,A Time to Kill,1996,R,Joel Schumacher,Matthew McConaughey,Sandra Bullock,Samuel L. Jackson,Kevin Spacey,149,"Crime, Drama, Thriller            ",54,7.5,"162,405",$108.77M
+94,Ace Ventura: When Nature Calls,1995,PG-13,Steve Oedekerk,Jim Carrey,Ian McNeice,Simon Callow,Maynard Eziashi,90,"Adventure, Comedy, Crime            ",45,6.4,"219,144",$108.39M
+95,Pulp Fiction,1994,R,Quentin Tarantino,John Travolta,Uma Thurman,Samuel L. Jackson,Bruce Willis,154,"Crime, Drama            ",94,8.9,"2,041,195",$107.93M
+96,A League of Their Own,1992,PG,Penny Marshall,Tom Hanks,Geena Davis,Lori Petty,Madonna,128,"Comedy, Drama, Sport            ",69,7.3,"110,406",$107.53M
+97,Batman & Robin,1997,PG-13,Joel Schumacher,Arnold Schwarzenegger,George Clooney,Chris O'Donnell,Uma Thurman,125,"Action, Sci-Fi            ",28,3.7,"254,942",$107.33M
+98,Analyze This,1999,R,Harold Ramis,Robert De Niro,Billy Crystal,Lisa Kudrow,Chazz Palminteri,103,"Comedy, Crime            ",61,6.7,"155,439",$106.89M
+99,Indecent Proposal,1993,R,Adrian Lyne,Robert Redford,Demi Moore,Woody Harrelson,Seymour Cassel,117,"Drama, Romance            ",35,6.0,"72,440",$106.61M
+100,GoldenEye,1995,PG-13,Martin Campbell,Pierce Brosnan,Sean Bean,Izabella Scorupco,Famke Janssen,130,"Action, Adventure, Thriller            ",65,7.2,"258,611",$106.60M
+101,The First Wives Club,1996,PG,Hugh Wilson,Goldie Hawn,Bette Midler,Diane Keaton,Maggie Smith,103,Comedy            ,58,6.4,"50,097",$105.49M
+102,Interview with the Vampire: The Vampire Chronicles,1994,R,Neil Jordan,Brad Pitt,Tom Cruise,Antonio Banderas,Kirsten Dunst,123,"Drama, Fantasy, Horror            ",59,7.5,"325,713",$105.26M
+103,George of the Jungle,1997,PG,Sam Weisman,Brendan Fraser,Leslie Mann,Thomas Haden Church,Richard Roundtree,92,"Action, Adventure, Comedy            ",53,5.5,"79,043",$105.26M
+104,Phenomenon,1996,PG,Jon Turteltaub,John Travolta,Kyra Sedgwick,Forest Whitaker,Robert Duvall,123,"Drama, Fantasy, Romance            ",41,6.4,"80,416",$104.64M
+105,Dick Tracy,1990,PG,Warren Beatty,Warren Beatty,Madonna,Al Pacino,Charlie Korsmo,105,"Action, Comedy, Crime            ",68,6.2,"62,573",$103.74M
+106,Scream,1996,R,Wes Craven,Neve Campbell,Courteney Cox,David Arquette,Skeet Ulrich,111,"Horror, Mystery            ",65,7.4,"344,693",$103.05M
+107,The General's Daughter,1999,R,Simon West,John Travolta,Madeleine Stowe,James Cromwell,Timothy Hutton,116,"Crime, Drama, Mystery            ",47,6.4,"60,119",$102.71M
+108,American Pie,1999,R,Paul Weitz,Chris Weitz,Jason Biggs,Chris Klein,Thomas Ian Nicholas,95,Comedy            ,58,7.0,"408,433",$102.56M
+109,In the Line of Fire,1993,R,Wolfgang Petersen,Clint Eastwood,John Malkovich,Rene Russo,Dylan McDermott,128,"Action, Crime, Drama            ",74,7.2,"105,172",$102.31M
+110,Maverick,1994,PG,Richard Donner,Mel Gibson,Jodie Foster,James Garner,Graham Greene,127,"Action, Adventure, Comedy            ",62,7.0,"112,915",$101.63M
+111,Sleeping with the Enemy,1991,R,Joseph Ruben,Julia Roberts,Patrick Bergin,Kevin Anderson,Elizabeth Lawrence,99,"Drama, Thriller            ",48,6.2,"59,047",$101.60M
+112,Scream 2,1997,R,Wes Craven,Neve Campbell,Courteney Cox,David Arquette,Jada Pinkett Smith,120,"Horror, Mystery            ",63,6.3,"185,596",$101.36M
+113,Eraser,1996,R,Chuck Russell,Arnold Schwarzenegger,Vanessa Williams,James Caan,James Coburn,115,"Action, Crime, Thriller            ",56,6.2,"112,852",$101.30M
+114,The Prince of Egypt,1998,PG,Brenda Chapman,Steve Hickner,Simon Wells,Val Kilmer,Ralph Fiennes,99,"Animation, Adventure, Drama            ",64,7.1,"133,569",$101.22M
+115,Unforgiven,1992,R,Clint Eastwood,Clint Eastwood,Gene Hackman,Morgan Freeman,Richard Harris,130,"Drama, Western            ",85,8.2,"412,616",$101.16M
+116,Con Air,1997,R,Simon West,Nicolas Cage,John Cusack,John Malkovich,Colm Meaney,115,"Action, Crime, Thriller            ",52,6.9,"301,160",$101.12M
+117,Sleepy Hollow,1999,R,Tim Burton,Johnny Depp,Christina Ricci,Miranda Richardson,Michael Gambon,105,"Fantasy, Horror, Mystery            ",65,7.3,"362,566",$101.07M
+118,Contact,1997,PG,Robert Zemeckis,Jodie Foster,Matthew McConaughey,Tom Skerritt,John Hurt,150,"Drama, Mystery, Sci-Fi            ",62,7.5,"276,230",$100.92M
+119,The Pelican Brief,1993,PG-13,Alan J. Pakula,Julia Roberts,Denzel Washington,Sam Shepard,John Heard,141,"Crime, Drama, Mystery            ",50,6.6,"88,730",$100.77M
+120,The Rugrats Movie,1998,G,Igor Kovalyov,Norton Virgien,Elizabeth Daily,Christine Cavanaugh,Kath Soucie,79,"Animation, Adventure, Comedy            ",62,5.9,"19,640",$100.49M
+121,Jumanji,1995,PG,Joe Johnston,Robin Williams,Kirsten Dunst,Bonnie Hunt,Jonathan Hyde,104,"Adventure, Comedy, Family            ",39,7.0,"347,075",$100.48M
+122,Casper,1995,PG,Brad Silberling,Bill Pullman,Christina Ricci,Cathy Moriarty,Eric Idle,100,"Comedy, Family, Fantasy            ",49,6.1,"136,229",$100.33M
+123,Shakespeare in Love,1998,R,John Madden,Gwyneth Paltrow,Joseph Fiennes,Geoffrey Rush,Tom Wilkinson,123,"Comedy, Drama, History            ",87,7.1,"226,005",$100.32M
+124,The Hunchback of Notre Dame,1996,G,Gary Trousdale,Kirk Wise,Demi Moore,Jason Alexander,Mary Kay Bergman,91,"Animation, Drama, Family            ",74,7.0,"159,005",$100.14M
+125,Se7en,1995,R,David Fincher,Morgan Freeman,Brad Pitt,Kevin Spacey,Andrew Kevin Walker,127,"Crime, Drama, Mystery            ",65,8.6,"1,643,813",$100.13M
+126,Die Hard with a Vengeance,1995,R,John McTiernan,Bruce Willis,Jeremy Irons,Samuel L. Jackson,Graham Greene,128,"Action, Adventure, Thriller            ",58,7.6,"388,434",$100.01M
+127,Hercules,1997,G,Ron Clements,John Musker,Tate Donovan,Susan Egan,James Woods,93,"Animation, Adventure, Comedy            ",74,7.3,"232,846",$99.05M
+128,Inspector Gadget,1999,PG,David Kellogg,Matthew Broderick,Rupert Everett,Joely Fisher,Michelle Trachtenberg,78,"Action, Adventure, Comedy            ",36,4.1,"48,721",$97.40M
+129,Schindler's List,1993,R,Steven Spielberg,Liam Neeson,Ralph Fiennes,Ben Kingsley,Caroline Goodall,195,"Biography, Drama, History            ",94,9.0,"1,350,142",$96.90M
+130,Michael,1996,PG,Nora Ephron,John Travolta,Andie MacDowell,William Hurt,Bob Hoskins,105,"Comedy, Drama, Fantasy            ",38,5.7,"43,582",$95.32M
+131,The Mask of Zorro,1998,PG-13,Martin Campbell,Antonio Banderas,Anthony Hopkins,Catherine Zeta-Jones,José María de Tavira,136,"Action, Adventure, Comedy            ",63,6.8,"185,925",$94.10M
+132,Flubber,1997,PG,Les Mayfield,Robin Williams,Marcia Gay Harden,Christopher McDonald,Ted Levine,93,"Comedy, Family, Sci-Fi            ",37,5.3,"90,443",$92.98M
+133,The Client,1994,PG-13,Joel Schumacher,Susan Sarandon,Tommy Lee Jones,Brad Renfro,Mary-Louise Parker,119,"Crime, Drama, Mystery            ",65,6.7,"67,496",$92.12M
+134,Star Trek: First Contact,1996,PG-13,Jonathan Frakes,Patrick Stewart,Jonathan Frakes,Brent Spiner,LeVar Burton,111,"Action, Adventure, Drama            ",71,7.6,"126,258",$92.00M
+135,Kindergarten Cop,1990,PG-13,Ivan Reitman,Arnold Schwarzenegger,Penelope Ann Miller,Pamela Reed,Linda Hunt,111,"Action, Comedy, Crime            ",61,6.2,"151,093",$91.46M
+136,The Haunting,1999,PG-13,Jan de Bont,Liam Neeson,Catherine Zeta-Jones,Owen Wilson,Lili Taylor,113,"Fantasy, Horror, Mystery            ",42,5.0,"77,052",$91.41M
+137,Crimson Tide,1995,R,Tony Scott,Gene Hackman,Denzel Washington,Matt Craven,George Dzundza,116,"Action, Drama, Thriller            ",66,7.3,"114,241",$91.40M
+138,Stepmom,1998,PG-13,Chris Columbus,Julia Roberts,Susan Sarandon,Ed Harris,Jena Malone,125,"Comedy, Drama            ",58,6.8,"69,312",$91.14M
+139,Antz,1998,PG,Eric Darnell,Tim Johnson,Woody Allen,Sharon Stone,Gene Hackman,83,"Animation, Adventure, Comedy            ",72,6.6,"156,443",$90.76M
+140,Space Jam,1996,PG,Joe Pytka,Michael Jordan,Wayne Knight,Theresa Randle,Manner Washington,88,"Animation, Adventure, Comedy            ",59,6.5,"198,933",$90.46M
+141,Father of the Bride,1991,PG,Charles Shyer,Steve Martin,Diane Keaton,Martin Short,Kimberly Williams-Paisley,105,"Comedy, Family, Romance            ",51,6.5,"78,172",$89.33M
+142,Waterworld,1995,PG-13,Kevin Reynolds,Kevin Costner,Jeanne Tripplehorn,Dennis Hopper,Tina Majorino,177,"Action, Adventure, Sci-Fi            ",56,6.2,"197,768",$88.25M
+143,The Hand that Rocks the Cradle,1992,R,Curtis Hanson,Annabella Sciorra,Rebecca De Mornay,Matt McCoy,Ernie Hudson,110,"Drama, Thriller            ",64,6.7,"45,136",$88.04M
+144,Back to the Future Part III,1990,PG,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,Mary Steenburgen,Tom Wilson,118,"Adventure, Comedy, Sci-Fi            ",55,7.4,"447,750",$87.73M
+145,Entrapment,1999,PG-13,Jon Amiel,Sean Connery,Catherine Zeta-Jones,Ving Rhames,Will Patton,113,"Action, Crime, Romance            ",54,6.3,"117,069",$87.70M
+146,The Naked Gun 2½: The Smell of Fear,1991,PG-13,David Zucker,Leslie Nielsen,Priscilla Presley,George Kennedy,O.J. Simpson,85,"Comedy, Crime            ",65,6.9,"114,619",$86.93M
+147,Presumed Innocent,1990,R,Alan J. Pakula,Harrison Ford,Raul Julia,Greta Scacchi,Brian Dennehy,127,"Mystery, Thriller            ",72,6.9,"42,790",$86.30M
+148,Pokémon: The First Movie - Mewtwo Strikes Back,1998,G,Kunihiko Yuyama,Michael Haigney,Veronica Taylor,Rachael Lillis,Eric Stuart,96,"Animation, Action, Adventure            ",35,6.2,"43,544",$85.74M
+149,Dangerous Minds,1995,R,John N. Smith,Michelle Pfeiffer,George Dzundza,Courtney B. Vance,Robin Bartlett,99,"Biography, Drama            ",47,6.5,"53,694",$84.92M
+150,Cliffhanger,1993,R,Renny Harlin,Sylvester Stallone,John Lithgow,Michael Rooker,Janine Turner,113,"Action, Adventure, Thriller            ",60,6.5,"131,248",$84.05M
+151,The X Files,1998,PG-13,Rob Bowman,David Duchovny,Gillian Anderson,John Neville,William B. Davis,121,"Drama, Mystery, Sci-Fi            ",60,7.0,"106,459",$83.90M
+152,Under Siege,1992,R,Andrew Davis,Steven Seagal,Gary Busey,Tommy Lee Jones,Erika Eleniak,103,"Action, Thriller            ",58,6.5,"88,275",$83.36M
+153,Patriot Games,1992,R,Phillip Noyce,Harrison Ford,Sean Bean,Anne Archer,Patrick Bergin,117,"Action, Thriller            ",64,6.8,"113,338",$83.29M
+154,Disclosure,1994,R,Barry Levinson,Michael Douglas,Demi Moore,Donald Sutherland,Caroline Goodall,128,"Drama, Thriller            ",58,6.1,"51,015",$83.02M
+155,Days of Thunder,1990,PG-13,Tony Scott,Tom Cruise,Nicole Kidman,Robert Duvall,Randy Quaid,107,"Action, Drama, Sport            ",60,6.1,"89,885",$82.67M
+156,Mr. Holland's Opus,1995,PG,Stephen Herek,Richard Dreyfuss,Glenne Headly,Jay Thomas,Olympia Dukakis,143,"Drama, Music            ",59,7.3,"39,930",$82.57M
+157,Dracula,1992,R,Francis Ford Coppola,Gary Oldman,Winona Ryder,Anthony Hopkins,Keanu Reeves,128,"Drama, Fantasy, Horror            ",57,7.4,"219,837",$82.52M
+158,Fried Green Tomatoes,1991,PG-13,Jon Avnet,Kathy Bates,Jessica Tandy,Mary Stuart Masterson,Mary-Louise Parker,130,Drama            ,64,7.7,"75,792",$82.42M
+159,Payback,1999,R,Brian Helgeland,Mel Gibson,Gregg Henry,Maria Bello,David Paymer,100,"Action, Crime, Drama            ",46,7.1,"139,634",$81.53M
+160,The Talented Mr. Ripley,1999,R,Anthony Minghella,Matt Damon,Gwyneth Paltrow,Jude Law,Cate Blanchett,139,"Crime, Drama, Thriller            ",76,7.4,"213,614",$81.30M
+161,While You Were Sleeping,1995,PG,Jon Turteltaub,Sandra Bullock,Bill Pullman,Peter Gallagher,Peter Boyle,103,"Comedy, Drama, Romance            ",67,6.7,"104,327",$81.06M
+162,Congo,1995,PG-13,Frank Marshall,Laura Linney,Tim Curry,Dylan Walsh,Ernie Hudson,109,"Action, Adventure, Mystery            ",22,5.2,"46,218",$81.02M
+163,Another 48 Hrs.,1990,R,Walter Hill,Eddie Murphy,Nick Nolte,Brion James,Kevin Tighe,95,"Action, Comedy, Crime            ",23,5.9,"42,194",$80.82M
+164,The Wedding Singer,1998,PG-13,Frank Coraci,Adam Sandler,Drew Barrymore,Christine Taylor,Allen Covert,97,"Comedy, Music, Romance            ",59,6.9,"151,870",$80.25M
+165,Cape Fear,1991,R,Martin Scorsese,Robert De Niro,Nick Nolte,Jessica Lange,Juliette Lewis,128,"Crime, Thriller            ",73,7.3,"196,848",$79.10M
+166,City of Angels,1998,PG-13,Brad Silberling,Nicolas Cage,Meg Ryan,Andre Braugher,Dennis Franz,114,"Drama, Fantasy, Romance            ",54,6.7,"121,776",$78.69M
+167,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991,PG,Michael Pressman,Paige Turco,David Warner,Michelan Sisti,Leif Tilden,88,"Action, Adventure, Comedy            ",45,6.0,"56,863",$78.66M
+168,The English Patient,1996,R,Anthony Minghella,Ralph Fiennes,Juliette Binoche,Willem Dafoe,Kristin Scott Thomas,162,"Drama, Romance, War            ",87,7.4,"191,263",$78.65M
+169,Backdraft,1991,R,Ron Howard,Kurt Russell,William Baldwin,Robert De Niro,Donald Sutherland,137,"Action, Drama, Mystery            ",38,6.7,"81,374",$77.87M
+170,Free Willy,1993,PG,Simon Wincer,Jason James Richter,Lori Petty,Michael Madsen,Jayne Atkinson,112,"Adventure, Drama, Family            ",79,6.0,"77,475",$77.70M
+171,Philadelphia,1993,PG-13,Jonathan Demme,Tom Hanks,Denzel Washington,Roberta Maxwell,Buzz Kilman,125,Drama            ,66,7.7,"243,334",$77.32M
+172,Father of the Bride Part II,1995,PG,Charles Shyer,Steve Martin,Diane Keaton,Martin Short,Kimberly Williams-Paisley,106,"Comedy, Family, Romance            ",49,6.0,"38,958",$76.59M
+173,White Men Can't Jump,1992,R,Ron Shelton,Wesley Snipes,Woody Harrelson,Rosie Perez,Tyra Ferrell,115,"Comedy, Sport            ",65,6.8,"87,915",$76.25M
+174,Conspiracy Theory,1997,R,Richard Donner,Mel Gibson,Julia Roberts,Patrick Stewart,Cylk Cozart,135,"Action, Mystery, Thriller            ",49,6.7,"101,618",$75.98M
+175,Star Trek: Generations,1994,PG,David Carson,Patrick Stewart,William Shatner,Malcolm McDowell,Jonathan Frakes,118,"Action, Adventure, Mystery            ",55,6.6,"82,715",$75.67M
+176,Braveheart,1995,R,Mel Gibson,Mel Gibson,Sophie Marceau,Patrick McGoohan,Angus Macfadyen,178,"Biography, Drama, History            ",68,8.4,"1,036,083",$75.60M
+177,Any Given Sunday,1999,R,Oliver Stone,Al Pacino,Dennis Quaid,Cameron Diaz,James Woods,162,"Drama, Sport            ",52,6.9,"120,780",$75.53M
+178,The Last of the Mohicans,1992,R,Michael Mann,Daniel Day-Lewis,Madeleine Stowe,Russell Means,Eric Schweig,112,"Action, Adventure, Drama            ",76,7.7,"171,771",$75.51M
+179,The Horse Whisperer,1998,PG-13,Robert Redford,Robert Redford,Kristin Scott Thomas,Sam Neill,Dianne Wiest,169,"Drama, Romance, Western            ",65,6.7,"41,681",$75.38M
+180,The Nightmare Before Christmas,1993,PG,Henry Selick,Danny Elfman,Chris Sarandon,Catherine O'Hara,William Hickey,76,"Animation, Family, Fantasy            ",82,7.9,"340,324",$75.08M
+181,Star Trek VI: The Undiscovered Country,1991,PG,Nicholas Meyer,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,110,"Action, Adventure, Sci-Fi            ",65,7.2,"76,617",$74.89M
+182,The Prince of Tides,1991,R,Barbra Streisand,Barbra Streisand,Nick Nolte,Blythe Danner,Kate Nelligan,132,"Drama, Romance            ",65,6.8,"18,409",$74.79M
+183,Six Days Seven Nights,1998,PG-13,Ivan Reitman,Harrison Ford,Anne Heche,David Schwimmer,Jacqueline Obradors,102,"Action, Adventure, Comedy            ",51,5.9,"79,125",$74.33M
+184,Deep Blue Sea,1999,R,Renny Harlin,Thomas Jane,Saffron Burrows,Samuel L. Jackson,Jacqueline McKenzie,105,"Action, Adventure, Sci-Fi            ",54,5.9,"134,979",$73.65M
+185,I Know What You Did Last Summer,1997,R,Jim Gillespie,Jennifer Love Hewitt,Sarah Michelle Gellar,Anne Heche,Ryan Phillippe,101,"Horror, Mystery            ",52,5.8,"148,114",$72.59M
+186,Ace Ventura: Pet Detective,1994,PG-13,Tom Shadyac,Jim Carrey,Courteney Cox,Sean Young,Tone Loc,86,Comedy            ,37,6.9,"303,408",$72.22M
+187,Get Shorty,1995,R,Barry Sonnenfeld,Gene Hackman,Rene Russo,Danny DeVito,John Travolta,105,"Comedy, Crime, Thriller            ",82,6.9,"84,671",$72.08M
+188,Three Men and a Little Lady,1990,PG,Emile Ardolino,Tom Selleck,Steve Guttenberg,Ted Danson,Nancy Travis,104,"Comedy, Drama, Family            ",51,5.4,"25,128",$71.61M
+189,Galaxy Quest,1999,PG,Dean Parisot,Tim Allen,Sigourney Weaver,Alan Rickman,Tony Shalhoub,102,"Adventure, Comedy, Sci-Fi            ",70,7.4,"165,125",$71.58M
+190,Stargate,1994,PG-13,Roland Emmerich,Kurt Russell,James Spader,Jaye Davidson,Viveca Lindfors,116,"Action, Adventure, Sci-Fi            ",42,7.0,"192,238",$71.57M
+191,The Bridges of Madison County,1995,PG-13,Clint Eastwood,Clint Eastwood,Meryl Streep,Annie Corley,Victor Slezak,135,"Drama, Romance            ",69,7.6,"82,604",$71.52M
+192,Bird on a Wire,1990,PG-13,John Badham,Mel Gibson,Goldie Hawn,David Carradine,Bill Duke,110,"Action, Comedy            ",36,6.0,"45,226",$70.98M
+193,Groundhog Day,1993,PG,Harold Ramis,Bill Murray,Andie MacDowell,Chris Elliott,Stephen Tobolowsky,101,"Comedy, Drama, Fantasy            ",72,8.1,"631,068",$70.91M
+194,Broken Arrow,1996,R,John Woo,John Travolta,Christian Slater,Samantha Mathis,Delroy Lindo,108,"Action, Adventure, Thriller            ",61,6.1,"99,728",$70.77M
+195,Mortal Kombat,1995,PG-13,Paul W.S. Anderson,Christopher Lambert,Robin Shou,Linden Ashby,Cary-Hiroyuki Tagawa,101,"Action, Adventure, Fantasy            ",60,5.8,"118,933",$70.45M
+196,JFK,1991,R,Oliver Stone,Kevin Costner,Gary Oldman,Jack Lemmon,Walter Matthau,189,"Drama, History, Thriller            ",72,8.0,"157,202",$70.41M
+197,Grumpy Old Men,1993,PG-13,Donald Petrie,Jack Lemmon,Walter Matthau,Ann-Margret,Burgess Meredith,103,"Comedy, Drama, Romance            ",53,7.0,"50,030",$70.17M
+198,Star Trek: Insurrection,1998,PG,Jonathan Frakes,Patrick Stewart,Jonathan Frakes,Brent Spiner,LeVar Burton,103,"Action, Adventure, Sci-Fi            ",64,6.4,"75,849",$70.12M
+199,Boomerang,1992,R,Reginald Hudlin,Eddie Murphy,Robin Givens,Halle Berry,David Alan Grier,117,"Comedy, Drama, Romance            ",45,5.6,"29,839",$70.10M
+200,Blade,1998,R,Stephen Norrington,Wesley Snipes,Stephen Dorff,Kris Kristofferson,N'Bushe Wright,120,"Action, Horror, Sci-Fi            ",47,7.1,"276,612",$70.09M
+201,Grumpier Old Men,1995,PG-13,Howard Deutch,Walter Matthau,Jack Lemmon,Ann-Margret,Sophia Loren,101,"Comedy, Romance            ",46,6.6,"28,020",$69.87M
+202,Nine Months,1995,PG-13,Chris Columbus,Hugh Grant,Julianne Moore,Tom Arnold,Joan Cusack,103,"Comedy, Romance            ",47,5.5,"37,295",$69.70M
+203,Hot Shots!,1991,PG-13,Jim Abrahams,Charlie Sheen,Cary Elwes,Valeria Golino,Lloyd Bridges,84,"Action, Comedy            ",61,6.7,"109,587",$69.47M
+204,The Thomas Crown Affair,1999,R,John McTiernan,Pierce Brosnan,Rene Russo,Denis Leary,Ben Gazzara,113,"Crime, Romance, Thriller            ",72,6.8,"94,580",$69.30M
+205,Lost in Space,1998,PG-13,Stephen Hopkins,Gary Oldman,William Hurt,Matt LeBlanc,Mimi Rogers,130,"Action, Adventure, Family            ",42,5.2,"72,960",$69.12M
+206,Cool Runnings,1993,PG,Jon Turteltaub,John Candy,Leon,Doug E. Doug,Rawle D. Lewis,98,"Adventure, Comedy, Family            ",60,7.0,"105,283",$68.86M
+207,Blue Streak,1999,PG-13,Les Mayfield,Martin Lawrence,Luke Wilson,Peter Greene,Dave Chappelle,93,"Action, Comedy, Crime            ",46,6.3,"83,928",$68.52M
+208,Outbreak,1995,R,Wolfgang Petersen,Dustin Hoffman,Rene Russo,Morgan Freeman,Kevin Spacey,127,"Action, Drama, Thriller            ",64,6.6,"130,843",$67.82M
+209,A Perfect Murder,1998,R,Andrew Davis,Michael Douglas,Gwyneth Paltrow,Viggo Mortensen,David Suchet,107,"Crime, Drama, Thriller            ",50,6.6,"86,578",$67.64M
+210,Heat,1995,R,Michael Mann,Al Pacino,Robert De Niro,Val Kilmer,Jon Voight,170,"Action, Crime, Drama            ",76,8.3,"653,817",$67.44M
+211,Dante's Peak,1997,PG-13,Roger Donaldson,Pierce Brosnan,Linda Hamilton,Jamie Renée Smith,Jeremy Foley,108,"Action, Adventure, Thriller            ",43,6.0,"91,857",$67.13M
+212,Waiting to Exhale,1995,R,Forest Whitaker,Whitney Houston,Angela Bassett,Loretta Devine,Lela Rochon,124,"Comedy, Drama, Romance            ",none,5.9,"11,178",$67.05M
+213,End of Days,1999,R,Peter Hyams,Arnold Schwarzenegger,Gabriel Byrne,Robin Tunney,Kevin Pollak,122,"Action, Fantasy, Horror            ",33,5.8,"111,605",$66.89M
+214,The Godfather Part III,1990,R,Francis Ford Coppola,Al Pacino,Diane Keaton,Andy Garcia,Talia Shire,162,"Crime, Drama            ",60,7.6,"397,696",$66.67M
+215,Legends of the Fall,1994,R,Edward Zwick,Brad Pitt,Anthony Hopkins,Aidan Quinn,Julia Ormond,133,"Drama, Romance, War            ",45,7.5,"168,049",$66.64M
+216,Babe,1995,G,Chris Noonan,James Cromwell,Magda Szubanski,Christine Cavanaugh,Miriam Margolyes,91,"Comedy, Drama, Family            ",83,6.9,"126,633",$66.60M
+217,The Bone Collector,1999,R,Phillip Noyce,Denzel Washington,Angelina Jolie,Queen Latifah,Michael Rooker,118,"Crime, Drama, Mystery            ",45,6.7,"171,439",$66.52M
+218,Bowfinger,1999,PG-13,Frank Oz,Steve Martin,Eddie Murphy,Heather Graham,Christine Baranski,97,Comedy            ,71,6.5,"71,231",$66.38M
+219,The Parent Trap,1998,PG,Nancy Meyers,Lindsay Lohan,Dennis Quaid,Natasha Richardson,Elaine Hendrix,128,"Adventure, Comedy, Drama            ",64,6.6,"139,670",$66.31M
+220,Anaconda,1997,PG-13,Luis Llosa,Jon Voight,Jennifer Lopez,Eric Stoltz,Ice Cube,89,"Action, Adventure, Horror            ",37,4.8,"105,768",$65.89M
+221,Bad Boys,1995,R,Michael Bay,Will Smith,Martin Lawrence,Lisa Boyle,Michael Taliferro,119,"Action, Comedy, Crime            ",41,6.8,"266,793",$65.81M
+222,Ever After: A Cinderella Story,1998,PG-13,Andy Tennant,Drew Barrymore,Anjelica Huston,Dougray Scott,Patrick Godfrey,121,"Comedy, Drama, Romance            ",66,7.1,"76,607",$65.71M
+223,Deuce Bigalow: Male Gigolo,1999,R,Mike Mitchell,Rob Schneider,William Forsythe,Eddie Griffin,Arija Bareikis,88,"Comedy, Romance            ",30,5.7,"76,098",$65.54M
+224,Wolf,1994,R,Mike Nichols,Jack Nicholson,Michelle Pfeiffer,James Spader,Kate Nelligan,125,"Drama, Horror, Romance            ",none,6.2,"57,286",$65.01M
+225,The American President,1995,PG-13,Rob Reiner,Michael Douglas,Annette Bening,Martin Sheen,Michael J. Fox,114,"Comedy, Drama, Romance            ",67,6.8,"58,042",$65.00M
+226,L.A. Confidential,1997,R,Curtis Hanson,Kevin Spacey,Russell Crowe,Guy Pearce,Kim Basinger,138,"Crime, Drama, Mystery            ",90,8.2,"583,245",$64.62M
+227,Scent of a Woman,1992,R,Martin Brest,Al Pacino,Chris O'Donnell,James Rebhorn,Gabrielle Anwar,156,Drama            ,59,8.0,"297,565",$63.90M
+228,In & Out,1997,PG-13,Frank Oz,Kevin Kline,Joan Cusack,Tom Selleck,Matt Dillon,90,"Comedy, Romance            ",70,6.4,"42,154",$63.86M
+229,Life,1999,R,Ted Demme,Eddie Murphy,Martin Lawrence,Obba Babatundé,Nick Cassavetes,108,"Comedy, Crime, Drama            ",63,6.7,"51,004",$63.84M
+230,What About Bob?,1991,PG,Frank Oz,Bill Murray,Richard Dreyfuss,Julie Hagerty,Charlie Korsmo,99,Comedy            ,60,7.0,"70,443",$63.71M
+231,The Fifth Element,1997,PG-13,Luc Besson,Bruce Willis,Milla Jovovich,Gary Oldman,Ian Holm,126,"Action, Adventure, Sci-Fi            ",52,7.6,"474,895",$63.54M
+232,She's All That,1999,PG-13,Robert Iscove,Freddie Prinze Jr.,Rachael Leigh Cook,Matthew Lillard,Paul Walker,95,"Comedy, Romance            ",51,5.9,"97,235",$63.37M
+233,Dave,1993,PG-13,Ivan Reitman,Kevin Kline,Sigourney Weaver,Frank Langella,Kevin Dunn,110,"Comedy, Romance            ",76,6.9,"54,261",$63.27M
+234,Rising Sun,1993,R,Philip Kaufman,Sean Connery,Wesley Snipes,Harvey Keitel,Cary-Hiroyuki Tagawa,129,"Action, Crime, Drama            ",56,6.2,"46,258",$63.10M
+235,Beavis and Butt-Head Do America,1996,PG-13,Mike Judge,Mike de Seve,Brian Mulroney,Yvette Kaplan,Mike Judge,81,"Animation, Adventure, Comedy            ",64,6.8,"57,855",$63.07M
+236,The Crying Game,1992,R,Neil Jordan,Stephen Rea,Jaye Davidson,Forest Whitaker,Miranda Richardson,112,"Crime, Drama, Romance            ",90,7.2,"56,242",$62.55M
+237,Mousehunt,1997,PG,Gore Verbinski,Nathan Lane,Lee Evans,Vicki Lewis,Maury Chaykin,98,Comedy            ,54,6.5,"57,317",$61.92M
+238,Flatliners,1990,R,Joel Schumacher,Kiefer Sutherland,Kevin Bacon,Julia Roberts,William Baldwin,115,"Drama, Horror, Sci-Fi            ",55,6.5,"88,077",$61.49M
+239,The Saint,1997,PG-13,Phillip Noyce,Val Kilmer,Elisabeth Shue,Rade Serbedzija,Valeriy Nikolaev,116,"Action, Adventure, Romance            ",50,6.2,"69,276",$61.36M
+240,Misery,1990,R,Rob Reiner,James Caan,Kathy Bates,Richard Farnsworth,Frances Sternhagen,107,"Drama, Thriller            ",75,7.8,"213,654",$61.28M
+241,The Devil's Advocate,1997,R,Taylor Hackford,Keanu Reeves,Al Pacino,Charlize Theron,Jeffrey Jones,144,"Drama, Mystery, Thriller            ",60,7.5,"373,393",$60.98M
+242,Fantasia 2000,1999,G,James Algar,Gaëtan Brizzi,Paul Brizzi,Hendel Butoy,Francis Glebas,75,"Animation, Family, Fantasy            ",59,7.1,"39,019",$60.66M
+243,Three Kings,1999,R,David O. Russell,George Clooney,Mark Wahlberg,Ice Cube,Spike Jonze,114,"Action, Adventure, Comedy            ",82,7.1,"173,235",$60.65M
+244,Jingle All the Way,1996,PG,Brian Levant,Arnold Schwarzenegger,Sinbad,Phil Hartman,Rita Wilson,89,"Adventure, Comedy, Family            ",34,5.7,"105,005",$60.57M
+245,Kiss the Girls,1997,R,Gary Fleder,Morgan Freeman,Ashley Judd,Cary Elwes,Alex McArthur,115,"Crime, Drama, Mystery            ",46,6.6,"74,974",$60.53M
+246,The Cable Guy,1996,PG-13,Ben Stiller,Jim Carrey,Matthew Broderick,Leslie Mann,Jack Black,96,"Comedy, Drama, Thriller            ",56,6.1,"166,766",$60.24M
+247,Species,1995,R,Roger Donaldson,Natasha Henstridge,Michael Madsen,Ben Kingsley,Alfred Molina,108,"Action, Horror, Sci-Fi            ",49,5.8,"81,121",$60.07M
+248,Hope Floats,1998,PG-13,Forest Whitaker,Sandra Bullock,Harry Connick Jr.,Gena Rowlands,Mae Whitman,114,"Drama, Romance            ",42,6.0,"28,187",$60.05M
+249,Jungle 2 Jungle,1997,PG,John Pasquin,Tim Allen,Martin Short,JoBeth Williams,Lolita Davidovich,105,"Comedy, Family            ",42,5.2,"24,714",$59.93M
+250,My Girl,1991,PG,Howard Zieff,Anna Chlumsky,Macaulay Culkin,Dan Aykroyd,Jamie Lee Curtis,102,"Comedy, Drama, Family            ",56,6.9,"82,126",$59.85M
+251,The Last Boy Scout,1991,R,Tony Scott,Bruce Willis,Damon Wayans,Chelsea Field,Noble Willingham,105,"Action, Comedy, Crime            ",52,7.0,"104,438",$59.51M
+252,Courage Under Fire,1996,R,Edward Zwick,Denzel Washington,Meg Ryan,Lou Diamond Phillips,Michael Moriarty,116,"Action, Drama, Mystery            ",77,6.6,"55,769",$59.03M
+253,Far and Away,1992,PG-13,Ron Howard,Tom Cruise,Nicole Kidman,Thomas Gibson,Robert Prosky,140,"Adventure, Drama, Romance            ",49,6.6,"64,658",$58.88M
+254,"Honey, I Blew Up the Kid",1992,PG,Randal Kleiser,Rick Moranis,Marcia Strassman,Robert Oliveri,Daniel Shalikar,89,"Adventure, Comedy, Family            ",50,4.9,"44,735",$58.66M
+255,Jack,1996,PG-13,Francis Ford Coppola,Robin Williams,Diane Lane,Brian Kerwin,Jennifer Lopez,113,"Comedy, Drama, Fantasy            ",31,5.8,"61,205",$58.62M
+256,HouseSitter,1992,PG,Frank Oz,Steve Martin,Goldie Hawn,Dana Delany,Julie Harris,102,"Comedy, Romance            ",52,6.1,"25,468",$58.50M
+257,Death Becomes Her,1992,PG-13,Robert Zemeckis,Meryl Streep,Bruce Willis,Goldie Hawn,Isabella Rossellini,104,"Comedy, Fantasy, Horror            ",56,6.6,"120,924",$58.42M
+258,Anastasia,1997,G,Don Bluth,Gary Goldman,Meg Ryan,John Cusack,Christopher Lloyd,94,"Animation, Adventure, Drama            ",61,7.1,"125,215",$58.41M
+259,Bicentennial Man,1999,PG,Chris Columbus,Robin Williams,Embeth Davidtz,Sam Neill,Oliver Platt,132,"Drama, Sci-Fi            ",42,6.9,"118,461",$58.22M
+260,Demolition Man,1993,R,Marco Brambilla,Sylvester Stallone,Wesley Snipes,Sandra Bullock,Nigel Hawthorne,115,"Action, Sci-Fi, Thriller            ",34,6.7,"178,213",$58.06M
+261,Life Is Beautiful,1997,PG-13,Roberto Benigni,Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini,Giustino Durano,116,"Comedy, Drama, Romance            ",59,8.6,"693,256",$57.60M
+262,The Cider House Rules,1999,PG-13,Lasse Hallström,Tobey Maguire,Charlize Theron,Michael Caine,Delroy Lindo,126,"Drama, Romance            ",75,7.4,"100,115",$57.55M
+263,Boyz n the Hood,1991,R,John Singleton,Cuba Gooding Jr.,Laurence Fishburne,Hudhail Al-Amir,Lloyd Avery II,112,"Crime, Drama            ",76,7.8,"141,891",$57.50M
+264,The Specialist,1994,R,Luis Llosa,Sylvester Stallone,Sharon Stone,James Woods,Rod Steiger,110,"Action, Drama, Thriller            ",none,5.6,"66,754",$57.36M
+265,Sister Act 2: Back in the Habit,1993,PG,Bill Duke,Whoopi Goldberg,Kathy Najimy,Maggie Smith,Barnard Hughes,107,"Comedy, Family, Music            ",38,5.6,"54,748",$57.32M
+266,U.S. Marshals,1998,PG-13,Stuart Baird,Tommy Lee Jones,Wesley Snipes,Robert Downey Jr.,Joe Pantoliano,131,"Action, Crime, Thriller            ",47,6.5,"106,886",$57.17M
+267,12 Monkeys,1995,R,Terry Gilliam,Bruce Willis,Madeleine Stowe,Brad Pitt,Joseph Melito,129,"Mystery, Sci-Fi, Thriller            ",74,8.0,"618,605",$57.14M
+268,Unlawful Entry,1992,R,Jonathan Kaplan,Kurt Russell,Ray Liotta,Madeleine Stowe,Roger E. Mosley,111,"Crime, Drama, Thriller            ",61,6.4,"17,437",$57.14M
+269,Beethoven,1992,PG,Brian Levant,Charles Grodin,Bonnie Hunt,Dean Jones,Nicholle Tom,87,"Comedy, Drama, Family            ",none,5.7,"72,342",$57.11M
+270,The Man in the Iron Mask,1998,PG-13,Randall Wallace,Leonardo DiCaprio,Jeremy Irons,John Malkovich,Gérard Depardieu,132,"Action, Adventure, Drama            ",48,6.5,"168,826",$56.97M
+271,A Civil Action,1998,PG-13,Steven Zaillian,John Travolta,Robert Duvall,Kathleen Quinlan,Tony Shalhoub,115,Drama            ,68,6.6,"29,661",$56.70M
+272,Clueless,1995,PG-13,Amy Heckerling,Alicia Silverstone,Stacey Dash,Brittany Murphy,Paul Rudd,97,"Comedy, Romance            ",68,6.9,"220,183",$56.63M
+273,Executive Decision,1996,R,Stuart Baird,Kurt Russell,Halle Berry,John Leguizamo,Oliver Platt,133,"Action, Adventure, Thriller            ",62,6.5,"58,246",$56.57M
+274,Tombstone,1993,R,George P. Cosmatos,Kevin Jarre,Kurt Russell,Val Kilmer,Sam Elliott,130,"Biography, Drama, History            ",50,7.8,"150,312",$56.51M
+275,Edward Scissorhands,1990,PG-13,Tim Burton,Johnny Depp,Winona Ryder,Dianne Wiest,Anthony Michael Hall,105,"Drama, Fantasy, Romance            ",74,7.9,"492,035",$56.36M
+276,Primal Fear,1996,R,Gregory Hoblit,Richard Gere,Laura Linney,Edward Norton,John Mahoney,129,"Crime, Drama, Mystery            ",47,7.7,"219,344",$56.12M
+277,Forever Young,1992,PG,Steve Miner,Mel Gibson,Jamie Lee Curtis,Elijah Wood,Isabel Glasser,102,"Drama, Romance, Sci-Fi            ",none,6.3,"48,002",$55.96M
+278,Eyes Wide Shut,1999,R,Stanley Kubrick,Tom Cruise,Nicole Kidman,Todd Field,Sydney Pollack,159,"Drama, Mystery, Thriller            ",68,7.5,"342,637",$55.69M
+279,Snake Eyes,1998,R,Brian De Palma,Nicolas Cage,Gary Sinise,John Heard,Carla Gugino,98,"Crime, Mystery, Thriller            ",52,6.1,"82,650",$55.59M
+280,What Dreams May Come,1998,PG-13,Vincent Ward,Robin Williams,Cuba Gooding Jr.,Annabella Sciorra,Max von Sydow,113,"Drama, Fantasy, Romance            ",44,6.9,"109,635",$55.49M
+281,Never Been Kissed,1999,PG-13,Raja Gosnell,Drew Barrymore,David Arquette,Michael Vartan,Molly Shannon,107,"Comedy, Drama, Romance            ",60,6.0,"91,798",$55.47M
+282,Alien³,1992,R,David Fincher,Sigourney Weaver,Charles S. Dutton,Charles Dance,Paul McGann,114,"Action, Horror, Sci-Fi            ",59,6.4,"301,722",$55.47M
+283,Halloween H20: 20 Years Later,1998,R,Steve Miner,Jamie Lee Curtis,Josh Hartnett,Adam Arkin,Michelle Williams,86,"Horror, Thriller            ",52,5.8,"77,211",$55.04M
+284,Spawn,1997,PG-13,Mark A.Z. Dippé,Michael Jai White,John Leguizamo,Martin Sheen,Theresa Randle,96,"Action, Drama, Horror            ",34,5.2,"68,960",$54.97M
+285,The Jackal,1997,R,Michael Caton-Jones,Bruce Willis,Richard Gere,Sidney Poitier,Diane Venora,124,"Action, Crime, Drama            ",36,6.4,"118,207",$54.93M
+286,Doc Hollywood,1991,PG-13,Michael Caton-Jones,Michael J. Fox,Julie Warner,Barnard Hughes,Woody Harrelson,104,"Comedy, Drama, Romance            ",56,6.3,"37,642",$54.83M
+287,Starship Troopers,1997,R,Paul Verhoeven,Casper Van Dien,Denise Richards,Dina Meyer,Jake Busey,129,"Action, Adventure, Sci-Fi            ",51,7.3,"297,514",$54.81M
+288,Small Soldiers,1998,PG-13,Joe Dante,Kirsten Dunst,Gregory Smith,David Cross,Jay Mohr,110,"Action, Adventure, Comedy            ",none,6.2,"100,281",$54.68M
+289,The Three Musketeers,1993,PG,Stephen Herek,Charlie Sheen,Kiefer Sutherland,Chris O'Donnell,Oliver Platt,105,"Action, Adventure, Comedy            ",43,6.4,"55,737",$53.90M
+290,Austin Powers: International Man of Mystery,1997,PG-13,Jay Roach,Mike Myers,Elizabeth Hurley,Michael York,Mimi Rogers,89,"Adventure, Comedy            ",51,7.0,"242,074",$53.88M
+291,Tin Cup,1996,R,Ron Shelton,Kevin Costner,Rene Russo,Don Johnson,Cheech Marin,135,"Comedy, Drama, Romance            ",60,6.4,"50,955",$53.85M
+292,Sabrina,1995,PG,Sydney Pollack,Harrison Ford,Julia Ormond,Greg Kinnear,Nancy Marchand,127,"Comedy, Drama, Romance            ",56,6.3,"41,718",$53.67M
+293,Rookie of the Year,1993,PG,Daniel Stern,Thomas Ian Nicholas,Gary Busey,Albert Hall,Amy Morton,103,"Comedy, Family, Fantasy            ",53,6.1,"28,847",$53.58M
+294,Problem Child,1990,PG,Dennis Dugan,Michael Oliver,John Ritter,Jack Warden,Gilbert Gottfried,81,"Comedy, Family            ",27,5.4,"31,150",$53.47M
+295,Beethoven's 2nd,1993,PG,Rod Daniel,Charles Grodin,Bonnie Hunt,Nicholle Tom,Christopher Castile,89,"Comedy, Family, Romance            ",none,4.9,"28,357",$53.35M
+296,T-Rex: Back to the Cretaceous,1998,None,Brett Leonard,Peter Horton,Liz Stauber,Kari Coleman,Charlene Sashuk,45,"Adventure, Family, Fantasy            ",none,4.7,775,$53.35M
+297,Arachnophobia,1990,PG-13,Frank Marshall,Jeff Daniels,Julian Sands,John Goodman,Harley Jane Kozak,109,"Comedy, Horror, Thriller            ",67,6.5,"71,010",$53.21M
+298,My Cousin Vinny,1992,R,Jonathan Lynn,Joe Pesci,Marisa Tomei,Ralph Macchio,Mitchell Whitfield,120,"Comedy, Crime            ",68,7.6,"126,158",$52.93M
+299,Forces of Nature,1999,PG-13,Bronwen Hughes,Sandra Bullock,Ben Affleck,Maura Tierney,Steve Zahn,105,"Comedy, Romance            ",46,5.5,"34,612",$52.89M
+300,Varsity Blues,1999,R,Brian Robbins,James Van Der Beek,Jon Voight,Paul Walker,Ron Lester,106,"Comedy, Drama, Romance            ",50,6.5,"46,632",$52.89M
+301,Message in a Bottle,1999,PG-13,Luis Mandoki,Kevin Costner,Robin Wright,Paul Newman,John Savage,126,"Drama, Romance            ",39,6.2,"38,855",$52.88M
+302,Four Weddings and a Funeral,1994,R,Mike Newell,Hugh Grant,Andie MacDowell,James Fleet,Simon Callow,117,"Comedy, Drama, Romance            ",81,7.1,"154,101",$52.70M
+303,Awakenings,1990,PG-13,Penny Marshall,Robert De Niro,Robin Williams,Julie Kavner,Ruth Nelson,121,"Biography, Drama            ",74,7.8,"142,817",$52.10M
+304,"South Park: Bigger, Longer & Uncut",1999,R,Trey Parker,Trey Parker,Matt Stone,Mary Kay Bergman,Isaac Hayes,81,"Animation, Comedy, Fantasy            ",73,7.7,"205,736",$52.04M
+305,The Little Rascals,1994,PG,Penelope Spheeris,Travis Tedford,Bug Hall,Brittany Ashton Holmes,Kevin Jamal Woods,82,"Comedy, Family, Romance            ",45,6.3,"50,929",$51.76M
+306,Sneakers,1992,PG-13,Phil Alden Robinson,Robert Redford,Dan Aykroyd,Sidney Poitier,Jo Marr,126,"Comedy, Crime, Drama            ",65,7.1,"59,471",$51.43M
+307,DragonHeart,1996,PG-13,Rob Cohen,Dennis Quaid,Sean Connery,Dina Meyer,Pete Postlethwaite,103,"Action, Adventure, Fantasy            ",49,6.4,"98,136",$51.37M
+308,Dennis the Menace,1993,PG,Nick Castle,Walter Matthau,Mason Gamble,Joan Plowright,Christopher Lloyd,94,"Comedy, Family            ",49,5.6,"61,939",$51.27M
+309,Naked Gun 33 1/3: The Final Insult,1994,PG-13,Peter Segal,Leslie Nielsen,Priscilla Presley,George Kennedy,O.J. Simpson,83,"Comedy, Crime            ",63,6.5,"105,400",$51.13M
+310,Up Close & Personal,1996,PG-13,Jon Avnet,Robert Redford,Michelle Pfeiffer,Stockard Channing,Joe Mantegna,124,"Drama, Romance            ",none,6.1,"14,738",$51.09M
+311,Something to Talk About,1995,R,Lasse Hallström,Julia Roberts,Dennis Quaid,Robert Duvall,Gena Rowlands,106,"Comedy, Drama, Romance            ",62,5.7,"15,220",$50.89M
+312,The Mighty Ducks,1992,PG,Stephen Herek,Emilio Estevez,Joss Ackland,Lane Smith,Heidi Kling,104,"Comedy, Drama, Family            ",46,6.5,"67,292",$50.75M
+313,The Net,1995,PG-13,Irwin Winkler,Sandra Bullock,Jeremy Northam,Dennis Miller,Diane Baker,114,"Action, Crime, Drama            ",51,5.9,"68,637",$50.73M
+314,The Crow,1994,R,Alex Proyas,Brandon Lee,Michael Wincott,Rochelle Davis,Ernie Hudson,102,"Action, Crime, Drama            ",71,7.5,"186,051",$50.69M
+315,The Hurricane,1999,R,Norman Jewison,Denzel Washington,Vicellous Shannon,Deborah Kara Unger,Liev Schreiber,146,"Biography, Drama, Sport            ",74,7.6,"97,899",$50.67M
+316,Mighty Joe Young,1998,PG,Ron Underwood,Bill Paxton,Charlize Theron,Rade Serbedzija,Peter Firth,114,"Action, Adventure, Family            ",51,5.7,"29,494",$50.63M
+317,Natural Born Killers,1994,R,Oliver Stone,Woody Harrelson,Juliette Lewis,Tom Sizemore,Rodney Dangerfield,119,"Action, Crime, Drama            ",74,7.2,"236,732",$50.28M
+318,Angels in the Outfield,1994,PG,William Dear,Danny Glover,Brenda Fricker,Tony Danza,Christopher Lloyd,102,"Comedy, Family, Fantasy            ",44,6.2,"32,561",$50.24M
+319,Breakdown,1997,R,Jonathan Mostow,Kurt Russell,J.T. Walsh,Kathleen Quinlan,M.C. Gainey,93,"Crime, Drama, Mystery            ",73,7.0,"55,872",$50.13M
+320,Little Women,1994,PG,Gillian Armstrong,Susan Sarandon,Winona Ryder,Kirsten Dunst,Claire Danes,115,"Drama, Family, Romance            ",87,7.3,"59,468",$50.08M
+321,Sommersby,1993,PG-13,Jon Amiel,Richard Gere,Jodie Foster,Lanny Flaherty,Wendell Wellman,114,"Drama, Mystery, Romance            ",none,6.2,"22,145",$50.08M
+322,Evita,1996,PG,Alan Parker,Madonna,Jonathan Pryce,Antonio Banderas,Jimmy Nail,135,"Biography, Drama, History            ",45,6.3,"36,093",$50.05M
+323,Stigmata,1999,R,Rupert Wainwright,Patricia Arquette,Gabriel Byrne,Jonathan Pryce,Nia Long,103,Horror            ,28,6.2,"69,329",$50.05M
+324,Under Siege 2: Dark Territory,1995,R,Geoff Murphy,Steven Seagal,Eric Bogosian,Everett McGill,Katherine Heigl,100,"Action, Adventure, Thriller            ",52,5.5,"47,456",$50.02M
+325,When a Man Loves a Woman,1994,R,Luis Mandoki,Meg Ryan,Andy Garcia,Ellen Burstyn,Tina Majorino,126,"Drama, Romance            ",none,6.5,"22,500",$50.02M
+326,Last Action Hero,1993,PG-13,John McTiernan,Arnold Schwarzenegger,F. Murray Abraham,Art Carney,Charles Dance,130,"Action, Adventure, Comedy            ",44,6.4,"153,200",$50.02M
+327,A Walk in the Clouds,1995,PG-13,Alfonso Arau,Keanu Reeves,Aitana Sánchez-Gijón,Anthony Quinn,Giancarlo Giannini,102,"Drama, Romance            ",54,6.7,"34,629",$50.01M
+328,Absolute Power,1997,R,Clint Eastwood,Clint Eastwood,Gene Hackman,Ed Harris,Laura Linney,121,"Action, Crime, Drama            ",52,6.7,"56,083",$50.01M
+329,Volcano,1997,PG-13,Mick Jackson,Tommy Lee Jones,Anne Heche,Gaby Hoffmann,Don Cheadle,104,"Action, Drama, Sci-Fi            ",55,5.5,"77,555",$49.32M
+330,Homeward Bound II: Lost in San Francisco,1996,G,David R. Ellis,Michael J. Fox,Sally Field,Ralph Waite,Al Michaels,88,"Adventure, Comedy, Family            ",none,5.9,"15,332",$49.14M
+331,Bugsy,1991,R,Barry Levinson,Warren Beatty,Annette Bening,Harvey Keitel,Ben Kingsley,136,"Biography, Crime, Drama            ",80,6.8,"29,562",$49.11M
+332,Sleepers,1996,R,Barry Levinson,Robert De Niro,Kevin Bacon,Brad Pitt,Jason Patric,147,"Crime, Drama, Thriller            ",49,7.5,"224,380",$49.10M
+333,Addams Family Values,1993,PG-13,Barry Sonnenfeld,Anjelica Huston,Raul Julia,Christopher Lloyd,Joan Cusack,94,"Comedy, Fantasy            ",61,6.8,"96,418",$48.92M
+334,Speed 2: Cruise Control,1997,PG-13,Jan de Bont,Sandra Bullock,Jason Patric,Willem Dafoe,Temuera Morrison,121,"Action, Adventure, Crime            ",23,3.9,"81,987",$48.61M
+335,The Game,1997,R,David Fincher,Michael Douglas,Deborah Kara Unger,Sean Penn,James Rebhorn,129,"Drama, Mystery, Thriller            ",61,7.7,"397,528",$48.32M
+336,Wayne's World 2,1993,PG-13,Stephen Surjik,Mike Myers,Dana Carvey,Christopher Walken,Tia Carrere,95,"Comedy, Music            ",60,6.2,"83,520",$48.20M
+337,Malcolm X,1992,PG-13,Spike Lee,Denzel Washington,Angela Bassett,Delroy Lindo,Spike Lee,202,"Biography, Drama, History            ",73,7.7,"95,494",$48.17M
+338,G.I. Jane,1997,R,Ridley Scott,Demi Moore,Viggo Mortensen,Anne Bancroft,Jason Beghe,125,"Action, Drama, War            ",62,6.0,"82,676",$48.17M
+339,The Preacher's Wife,1996,PG,Penny Marshall,Denzel Washington,Whitney Houston,Courtney B. Vance,Gregory Hines,123,"Comedy, Drama, Fantasy            ",none,5.6,"12,524",$48.10M
+340,Single White Female,1992,R,Barbet Schroeder,Bridget Fonda,Jennifer Jason Leigh,Steven Weber,Peter Friedman,107,"Drama, Thriller            ",63,6.4,"38,174",$47.92M
+341,Alien: Resurrection,1997,R,Jean-Pierre Jeunet,Sigourney Weaver,Winona Ryder,Dominique Pinon,Ron Perlman,109,"Action, Horror, Sci-Fi            ",63,6.2,"249,109",$47.75M
+342,New Jack City,1991,R,Mario Van Peebles,Wesley Snipes,Ice-T,Allen Payne,Chris Rock,97,"Action, Crime, Drama            ",61,6.6,"35,890",$47.62M
+343,Look Who's Talking Too,1990,PG-13,Amy Heckerling,John Travolta,Kirstie Alley,Olympia Dukakis,Elias Koteas,81,"Comedy, Family, Romance            ",none,4.6,"47,087",$47.49M
+344,Hard to Kill,1990,R,Bruce Malmuth,Steven Seagal,Kelly LeBrock,William Sadler,Frederick Coffin,96,"Action, Crime, Drama            ",41,5.8,"30,610",$47.41M
+345,Goodfellas,1990,R,Martin Scorsese,Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco,145,"Biography, Crime, Drama            ",90,8.7,"1,155,816",$46.84M
+346,The River Wild,1994,PG-13,Curtis Hanson,Meryl Streep,Kevin Bacon,David Strathairn,Joseph Mazzello,111,"Adventure, Crime, Thriller            ",63,6.5,"47,070",$46.82M
+347,The Rocketeer,1991,PG,Joe Johnston,Billy Campbell,Jennifer Connelly,Alan Arkin,Timothy Dalton,108,"Action, Adventure, Family            ",61,6.5,"58,532",$46.70M
+348,Practical Magic,1998,PG-13,Griffin Dunne,Sandra Bullock,Nicole Kidman,Stockard Channing,Dianne Wiest,104,"Comedy, Drama, Fantasy            ",46,6.2,"84,414",$46.68M
+349,The Distinguished Gentleman,1992,R,Jonathan Lynn,Eddie Murphy,Lane Smith,Sheryl Lee Ralph,Joe Don Baker,112,"Comedy, Crime            ",45,5.9,"16,269",$46.67M
+350,The Brady Bunch Movie,1995,PG-13,Betty Thomas,Shelley Long,Gary Cole,Christine Taylor,Christopher Daniel Barnes,90,Comedy            ,54,6.1,"22,850",$46.58M
+351,Romeo + Juliet,1996,PG-13,Baz Luhrmann,Leonardo DiCaprio,Claire Danes,John Leguizamo,Harold Perrineau,120,"Drama, Romance            ",60,6.7,"230,563",$46.35M
+352,One Fine Day,1996,PG,Michael Hoffman,Michelle Pfeiffer,George Clooney,Mae Whitman,Alex D. Linz,108,"Comedy, Drama, Romance            ",56,6.5,"46,734",$46.15M
+353,Malice,1993,R,Harold Becker,Alec Baldwin,Nicole Kidman,Bill Pullman,Bebe Neuwirth,107,"Crime, Mystery, Thriller            ",52,6.4,"25,698",$46.04M
+354,Marked for Death,1990,R,Dwight H. Little,Steven Seagal,Joanna Pacula,Basil Wallace,Keith David,93,"Action, Crime, Drama            ",49,5.9,"22,626",$46.04M
+355,The Full Monty,1997,R,Peter Cattaneo,Robert Carlyle,Tom Wilkinson,Mark Addy,Wim Snape,91,"Comedy, Drama            ",75,7.2,"107,354",$45.95M
+356,The Rainmaker,1997,PG-13,Francis Ford Coppola,Matt Damon,Danny DeVito,Claire Danes,Jon Voight,135,"Crime, Drama, Thriller            ",72,7.2,"75,978",$45.86M
+357,RoboCop 2,1990,R,Irvin Kershner,Peter Weller,Nancy Allen,Belinda Bauer,Dan O'Herlihy,117,"Action, Crime, Sci-Fi            ",42,5.8,"87,481",$45.68M
+358,D2: The Mighty Ducks,1994,PG,Sam Weisman,Emilio Estevez,Kathryn Erbe,Michael Tucker,Jan Rubes,106,"Comedy, Drama, Family            ",none,6.1,"40,953",$45.61M
+359,Medicine Man,1992,PG-13,John McTiernan,Sean Connery,Lorraine Bracco,José Wilker,Rodolfo De Alexandre,106,"Adventure, Drama, Romance            ",43,6.0,"23,688",$45.50M
+360,Thelma & Louise,1991,R,Ridley Scott,Susan Sarandon,Geena Davis,Harvey Keitel,Michael Madsen,130,"Adventure, Crime, Drama            ",88,7.5,"156,525",$45.36M
+361,Bean,1997,PG-13,Mel Smith,Rowan Atkinson,Peter MacNicol,John Mills,Pamela Reed,89,"Adventure, Comedy, Family            ",52,6.5,"106,041",$45.32M
+362,Made in America,1993,PG-13,Richard Benjamin,Whoopi Goldberg,Ted Danson,Will Smith,Nia Long,111,Comedy            ,49,5.1,"17,034",$44.94M
+363,Cop Land,1997,R,James Mangold,Sylvester Stallone,Harvey Keitel,Ray Liotta,Robert De Niro,105,"Crime, Drama, Thriller            ",64,7.0,"96,971",$44.89M
+364,Timecop,1994,R,Peter Hyams,Jean-Claude Van Damme,Mia Sara,Ron Silver,Bruce McGill,99,"Action, Crime, Sci-Fi            ",48,5.9,"60,438",$44.85M
+365,Meet Joe Black,1998,PG-13,Martin Brest,Brad Pitt,Anthony Hopkins,Claire Forlani,Jake Weber,178,"Drama, Fantasy, Romance            ",43,7.2,"243,577",$44.62M
+366,The Good Son,1993,R,Joseph Ruben,Macaulay Culkin,Elijah Wood,Wendy Crewson,David Morse,87,"Drama, Thriller            ",45,6.4,"42,137",$44.59M
+367,The Negotiator,1998,R,F. Gary Gray,Samuel L. Jackson,Kevin Spacey,David Morse,Ron Rifkin,140,"Action, Crime, Drama            ",62,7.3,"144,112",$44.48M
+368,Nothing to Lose,1997,R,Steve Oedekerk,Martin Lawrence,Tim Robbins,John C. McGinley,Giancarlo Esposito,98,"Action, Adventure, Comedy            ",none,6.7,"47,225",$44.46M
+369,The Jungle Book,1994,PG,Stephen Sommers,Jason Scott Lee,Cary Elwes,Lena Headey,Sam Neill,111,"Adventure, Family, Romance            ",63,6.0,"18,039",$44.34M
+370,Amistad,1997,R,Steven Spielberg,Djimon Hounsou,Matthew McConaughey,Anthony Hopkins,Morgan Freeman,155,"Biography, Drama, History            ",63,7.3,"77,967",$44.18M
+371,Young Guns II,1990,PG-13,Geoff Murphy,Emilio Estevez,Kiefer Sutherland,Lou Diamond Phillips,Christian Slater,104,"Action, Western            ",47,6.5,"36,745",$44.14M
+372,Passenger 57,1992,R,Kevin Hooks,Wesley Snipes,Bruce Payne,Tom Sizemore,Alex Datcher,84,"Action, Crime, Thriller            ",50,5.9,"48,507",$44.07M
+373,The Beverly Hillbillies,1993,PG,Penelope Spheeris,Diedrich Bader,Erika Eleniak,Jim Varney,Cloris Leachman,92,"Comedy, Family            ",37,5.0,"18,910",$44.03M
+374,Drop Dead Fred,1991,PG-13,Ate de Jong,Phoebe Cates,Rik Mayall,Marsha Mason,Tim Matheson,103,"Comedy, Drama, Fantasy            ",25,5.9,"29,693",$43.88M
+375,Pokémon the Movie 2000,1999,G,Michael Haigney,Kunihiko Yuyama,Veronica Taylor,Rica Matsumoto,Ikue Ôtani,99,"Animation, Action, Adventure            ",28,6.0,"22,544",$43.76M
+376,City Slickers II: The Legend of Curly's Gold,1994,PG-13,Paul Weiland,Billy Crystal,Jack Palance,Daniel Stern,Jon Lovitz,116,"Comedy, Western            ",43,5.6,"19,932",$43.62M
+377,Soul Food,1997,R,George Tillman Jr.,Vanessa Williams,Vivica A. Fox,Nia Long,Michael Beach,115,"Comedy, Drama            ",68,7.0,"8,343",$43.49M
+378,A River Runs Through It,1992,PG,Robert Redford,Craig Sheffer,Brad Pitt,Tom Skerritt,Brenda Blethyn,123,Drama            ,68,7.2,"61,394",$43.44M
+379,Point Break,1991,R,Kathryn Bigelow,Patrick Swayze,Keanu Reeves,Gary Busey,Lori Petty,122,"Action, Crime, Thriller            ",58,7.2,"184,712",$43.22M
+380,Sense and Sensibility,1995,PG,Ang Lee,Emma Thompson,Kate Winslet,James Fleet,Tom Wilkinson,136,"Drama, Romance            ",84,7.7,"117,159",$43.18M
+381,Wag the Dog,1997,R,Barry Levinson,Dustin Hoffman,Robert De Niro,Anne Heche,Woody Harrelson,97,"Comedy, Drama            ",73,7.1,"84,848",$43.02M
+382,Regarding Henry,1991,PG-13,Mike Nichols,Harrison Ford,Annette Bening,Michael Haley,Stanley Swerdlow,108,"Drama, Romance            ",47,6.7,"32,773",$43.00M
+383,The Devil's Own,1997,R,Alan J. Pakula,Harrison Ford,Brad Pitt,Margaret Colin,Rubén Blades,111,"Action, Crime, Drama            ",53,6.2,"66,752",$42.87M
+384,Teenage Mutant Ninja Turtles III,1993,PG,Stuart Gillard,Elias Koteas,Paige Turco,Stuart Wilson,Sab Shimono,96,"Action, Adventure, Comedy            ",40,4.8,"33,945",$42.66M
+385,Beverly Hills Cop III,1994,R,John Landis,Eddie Murphy,Jon Tenney,Joey Travolta,Eugene Collier,104,"Action, Comedy, Crime            ",16,5.5,"82,555",$42.61M
+386,Casino,1995,R,Martin Scorsese,Robert De Niro,Sharon Stone,Joe Pesci,James Woods,178,"Crime, Drama            ",73,8.2,"519,992",$42.44M
+387,Donnie Brasco,1997,R,Mike Newell,Al Pacino,Johnny Depp,Michael Madsen,Bruno Kirby,127,"Biography, Crime, Drama            ",76,7.7,"309,767",$41.91M
+388,The Fisher King,1991,R,Terry Gilliam,Jeff Bridges,Robin Williams,Adam Bryant,Paul Lombardi,137,"Comedy, Drama, Fantasy            ",61,7.5,"86,317",$41.90M
+389,Homeward Bound: The Incredible Journey,1993,G,Duwayne Dunham,Michael J. Fox,Sally Field,Don Alder,Ed Bernard,84,"Adventure, Comedy, Drama            ",none,6.9,"47,385",$41.83M
+390,Ronin,1998,R,John Frankenheimer,Robert De Niro,Jean Reno,Natascha McElhone,Stellan Skarsgård,122,"Action, Crime, Thriller            ",67,7.2,"185,280",$41.62M
+391,Gremlins 2: The New Batch,1990,PG-13,Joe Dante,Chuck Jones,Zach Galligan,Phoebe Cates,Howie Mandel,106,"Comedy, Fantasy, Horror            ",69,6.4,"104,971",$41.48M
+392,The Peacemaker,1997,R,Mimi Leder,George Clooney,Nicole Kidman,Marcel Iures,Aleksandr Baluev,124,"Action, Thriller            ",43,6.0,"59,082",$41.26M
+393,The Mirror Has Two Faces,1996,PG-13,Barbra Streisand,Barbra Streisand,Jeff Bridges,Lauren Bacall,George Segal,126,"Comedy, Drama, Romance            ",none,6.6,"20,391",$41.25M
+394,Private Parts,1997,R,Betty Thomas,Howard Stern,Mary McCormack,Robin Quivers,Fred Norris,109,"Biography, Comedy, Drama            ",67,6.9,"37,702",$41.20M
+395,Money Talks,1997,R,Brett Ratner,Charlie Sheen,Chris Tucker,Heather Locklear,Elise Neal,97,"Action, Comedy, Crime            ",none,6.2,"29,860",$41.07M
+396,The Siege,1998,R,Edward Zwick,Denzel Washington,Bruce Willis,Annette Bening,Tony Shalhoub,116,"Action, Thriller            ",53,6.4,"73,983",$40.98M
+397,Rocky V,1990,PG-13,John G. Avildsen,Sylvester Stallone,Talia Shire,Burt Young,Sage Stallone,104,"Drama, Sport            ",55,5.3,"138,586",$40.95M
+398,Falling Down,1993,R,Joel Schumacher,Michael Douglas,Robert Duvall,Barbara Hershey,Rachel Ticotin,113,"Action, Crime, Drama            ",56,7.6,"191,525",$40.90M
+399,House on Haunted Hill,1999,R,William Malone,Geoffrey Rush,Famke Janssen,Taye Diggs,Peter Gallagher,93,"Crime, Fantasy, Horror            ",28,5.6,"57,583",$40.85M
+400,Encino Man,1992,PG,Les Mayfield,Sean Astin,Brendan Fraser,Pauly Shore,Megan Ward,88,Comedy            ,25,5.8,"41,338",$40.69M
+401,Pleasantville,1998,PG-13,Gary Ross,Tobey Maguire,Jeff Daniels,Joan Allen,William H. Macy,124,"Comedy, Drama, Fantasy            ",71,7.5,"130,514",$40.57M
+402,Mo' Money,1992,R,Peter MacDonald,Damon Wayans,Stacey Dash,Marlon Wayans,Joe Santos,89,"Action, Comedy, Crime            ",none,5.5,"7,785",$40.23M
+403,The Piano,1993,R,Jane Campion,Holly Hunter,Harvey Keitel,Sam Neill,Anna Paquin,121,"Drama, Music, Romance            ",89,7.5,"89,360",$40.16M
+404,Man of the House,1995,PG,James Orr,Chevy Chase,Farrah Fawcett,Jonathan Taylor Thomas,George Wendt,96,"Comedy, Family            ",none,5.2,"9,834",$40.07M
+405,The Faculty,1998,R,Robert Rodriguez,Jordana Brewster,Clea DuVall,Laura Harris,Josh Hartnett,104,"Horror, Mystery, Sci-Fi            ",61,6.5,"125,077",$40.06M
+406,I Still Know What You Did Last Summer,1998,R,Danny Cannon,Jennifer Love Hewitt,Freddie Prinze Jr.,Brandy Norwood,Mekhi Phifer,100,"Horror, Mystery, Thriller            ",21,4.7,"74,906",$40.00M
+407,Jackie Brown,1997,R,Quentin Tarantino,Pam Grier,Samuel L. Jackson,Robert Forster,Bridget Fonda,154,"Crime, Drama, Thriller            ",64,7.5,"350,761",$39.67M
+408,Out for Justice,1991,R,John Flynn,Steven Seagal,William Forsythe,Jerry Orbach,Jo Champa,91,"Action, Crime, Drama            ",38,6.1,"24,275",$39.67M
+409,Hocus Pocus,1993,PG,Kenny Ortega,Bette Midler,Sarah Jessica Parker,Kathy Najimy,Omri Katz,96,"Comedy, Family, Fantasy            ",43,6.9,"143,344",$39.51M
+410,Nobody's Fool,1994,R,Robert Benton,Paul Newman,Bruce Willis,Jessica Tandy,Melanie Griffith,110,"Comedy, Drama            ",86,7.3,"21,008",$39.49M
+411,Joe Versus the Volcano,1990,PG,John Patrick Shanley,Tom Hanks,Meg Ryan,Lloyd Bridges,Robert Stack,102,"Comedy, Romance            ",45,5.9,"37,725",$39.40M
+412,Dead Man Walking,1995,R,Tim Robbins,Susan Sarandon,Sean Penn,Robert Prosky,Raymond J. Barry,122,"Crime, Drama            ",80,7.5,"96,058",$39.39M
+413,Anna and the King,1999,PG-13,Andy Tennant,Jodie Foster,Chow Yun-Fat,Bai Ling,Tom Felton,148,"Drama, History, Romance            ",56,6.7,"37,651",$39.26M
+414,What's Love Got to Do with It,1993,R,Brian Gibson,Angela Bassett,Laurence Fishburne,RaéVen Kelly,Virginia Capers,118,"Biography, Drama, Music            ",76,7.3,"21,559",$39.10M
+415,Primary Colors,1998,R,Mike Nichols,John Travolta,Emma Thompson,Kathy Bates,Larry Hagman,143,"Comedy, Drama            ",70,6.7,"29,229",$38.97M
+416,Hot Shots! Part Deux,1993,PG-13,Jim Abrahams,Charlie Sheen,Lloyd Bridges,Valeria Golino,Richard Crenna,86,"Action, Comedy            ",64,6.6,"92,019",$38.91M
+417,French Kiss,1995,PG-13,Lawrence Kasdan,Meg Ryan,Kevin Kline,Timothy Hutton,Jean Reno,111,"Comedy, Drama, Romance            ",50,6.6,"50,699",$38.90M
+418,The Paper,1994,R,Ron Howard,Michael Keaton,Glenn Close,Robert Duvall,Marisa Tomei,112,"Comedy, Drama            ",70,6.6,"14,376",$38.82M
+419,Happy Gilmore,1996,PG-13,Dennis Dugan,Adam Sandler,Christopher McDonald,Julie Bowen,Frances Bay,92,"Comedy, Sport            ",31,7.0,"227,312",$38.62M
+420,The Ghost and the Darkness,1996,R,Stephen Hopkins,Michael Douglas,Val Kilmer,Tom Wilkinson,John Kani,110,"Adventure, Drama, Thriller            ",46,6.8,"62,861",$38.62M
+421,On Deadly Ground,1994,R,Steven Seagal,Steven Seagal,Michael Caine,Joan Chen,John C. McGinley,101,"Action, Adventure, Thriller            ",33,4.6,"24,216",$38.59M
+422,Cruel Intentions,1999,R,Roger Kumble,Sarah Michelle Gellar,Ryan Phillippe,Reese Witherspoon,Selma Blair,97,"Drama, Romance            ",56,6.8,"193,465",$38.33M
+423,Higher Learning,1995,R,John Singleton,Omar Epps,Kristy Swanson,Michael Rapaport,Jennifer Connelly,128,"Crime, Drama, Thriller            ",54,6.5,"20,292",$38.29M
+424,Mighty Morphin Power Rangers,1995,PG,Bryan Spicer,Karan Ashley,Johnny Yong Bosch,Steve Cardenas,Jason David Frank,95,"Action, Adventure, Family            ",40,5.2,"27,964",$38.19M
+425,10 Things I Hate About You,1999,PG-13,Gil Junger,Heath Ledger,Julia Stiles,Joseph Gordon-Levitt,Larisa Oleynik,97,"Comedy, Drama, Romance            ",70,7.3,"344,197",$38.18M
+426,The Doctor,1991,PG-13,Randa Haines,William Hurt,Christine Lahti,Elizabeth Perkins,Mandy Patinkin,122,Drama            ,none,6.9,"5,684",$38.12M
+427,Richie Rich,1994,PG,Donald Petrie,Macaulay Culkin,Edward Herrmann,John Larroquette,Christine Ebersole,95,"Comedy, Family            ",49,5.4,"69,832",$38.09M
+428,Urban Legend,1998,R,Jamie Blanks,Jared Leto,Alicia Witt,Rebecca Gayheart,Michael Rosenbaum,99,"Horror, Mystery, Thriller            ",35,5.6,"67,666",$38.07M
+429,Bill & Ted's Bogus Journey,1991,PG,Peter Hewitt,Keanu Reeves,Alex Winter,William Sadler,Joss Ackland,93,"Adventure, Comedy, Fantasy            ",60,6.3,"76,836",$38.04M
+430,Dead Again,1991,R,Kenneth Branagh,Kenneth Branagh,Emma Thompson,Andy Garcia,Lois Hall,107,"Crime, Drama, Mystery            ",66,6.8,"28,757",$38.02M
+431,Postcards from the Edge,1990,R,Mike Nichols,Meryl Streep,Shirley MacLaine,Dennis Quaid,Gene Hackman,101,"Comedy, Drama            ",71,6.7,"18,081",$37.96M
+432,Seven Years in Tibet,1997,PG-13,Jean-Jacques Annaud,Brad Pitt,David Thewlis,BD Wong,Mako,136,"Adventure, Biography, Drama            ",55,7.1,"145,571",$37.96M
+433,It Could Happen to You,1994,PG,Andrew Bergman,Nicolas Cage,Bridget Fonda,Rosie Perez,Wendell Pierce,101,"Comedy, Drama, Romance            ",64,6.4,"40,659",$37.80M
+434,Mars Attacks!,1996,PG-13,Tim Burton,Jack Nicholson,Pierce Brosnan,Sarah Jessica Parker,Annette Bening,106,"Comedy, Sci-Fi            ",52,6.4,"229,317",$37.77M
+435,How Stella Got Her Groove Back,1998,R,Kevin Rodney Sullivan,Angela Bassett,Taye Diggs,Whoopi Goldberg,Regina King,124,"Comedy, Drama, Romance            ",56,5.7,"7,751",$37.67M
+436,First Knight,1995,PG-13,Jerry Zucker,Sean Connery,Richard Gere,Julia Ormond,Ben Cross,134,"Action, Adventure, Drama            ",57,6.0,"74,244",$37.60M
+437,Out of Sight,1998,R,Steven Soderbergh,George Clooney,Jennifer Lopez,Ving Rhames,Steve Zahn,123,"Comedy, Crime, Drama            ",85,7.0,"93,665",$37.56M
+438,Fight Club,1999,R,David Fincher,Brad Pitt,Edward Norton,Meat Loaf,Zach Grenier,139,Drama            ,66,8.8,"2,112,021",$37.03M
+439,Sphere,1998,PG-13,Barry Levinson,Dustin Hoffman,Sharon Stone,Samuel L. Jackson,Peter Coyote,134,"Action, Mystery, Sci-Fi            ",35,6.1,"107,445",$37.02M
+440,Carlito's Way,1993,R,Brian De Palma,Al Pacino,Sean Penn,Penelope Ann Miller,John Leguizamo,144,"Crime, Drama, Thriller            ",65,7.9,"219,542",$36.95M
+441,Just Cause,1995,R,Arne Glimcher,Sean Connery,Laurence Fishburne,Kate Capshaw,Blair Underwood,102,"Action, Crime, Drama            ",48,6.4,"27,472",$36.85M
+442,My Favorite Martian,1999,PG,Donald Petrie,Christopher Lloyd,Jeff Daniels,Elizabeth Hurley,Daryl Hannah,94,"Comedy, Family, Sci-Fi            ",33,5.1,"13,774",$36.83M
+443,Junior,1994,PG-13,Ivan Reitman,Arnold Schwarzenegger,Danny DeVito,Emma Thompson,Frank Langella,109,"Comedy, Romance, Sci-Fi            ",59,4.7,"69,635",$36.76M
+444,Alive,1993,R,Frank Marshall,Ethan Hawke,Vincent Spano,Josh Hamilton,Bruce Ramsay,120,"Biography, Drama, Thriller            ",56,7.1,"56,943",$36.73M
+445,8MM,1999,R,Joel Schumacher,Nicolas Cage,Joaquin Phoenix,James Gandolfini,Peter Stormare,123,"Crime, Drama, Mystery            ",19,6.5,"134,288",$36.66M
+446,Soapdish,1991,PG-13,Michael Hoffman,Sally Field,Kevin Kline,Cathy Moriarty,Teri Hatcher,97,"Comedy, Romance            ",65,6.6,"16,576",$36.49M
+447,"To Wong Foo, Thanks for Everything! Julie Newmar",1995,PG-13,Beeban Kidron,Wesley Snipes,Patrick Swayze,John Leguizamo,Stockard Channing,109,"Comedy, Drama            ",60,6.6,"32,793",$36.47M
+448,Son in Law,1993,PG-13,Steve Rash,Pauly Shore,Carla Gugino,Lane Smith,Cindy Pickett,95,"Comedy, Drama, Romance            ",33,5.8,"20,901",$36.45M
+449,Vegas Vacation,1997,PG,Stephen Kessler,Chevy Chase,Beverly D'Angelo,Randy Quaid,Ethan Embry,93,Comedy            ,20,5.9,"50,230",$36.43M
+450,The Thin Red Line,1998,R,Terrence Malick,Jim Caviezel,Sean Penn,Nick Nolte,Kirk Acevedo,170,"Drama, History, War            ",78,7.6,"188,854",$36.40M
+451,Sliver,1993,R,Phillip Noyce,Sharon Stone,William Baldwin,Tom Berenger,Polly Walker,107,"Drama, Thriller            ",38,5.0,"31,776",$36.30M
+452,Universal Soldier,1992,R,Roland Emmerich,Jean-Claude Van Damme,Dolph Lundgren,Ally Walker,Ed O'Ross,102,"Action, Sci-Fi            ",35,6.1,"90,666",$36.30M
+453,Set It Off,1996,R,F. Gary Gray,Jada Pinkett Smith,Queen Latifah,Vivica A. Fox,Kimberly Elise,123,"Action, Crime, Drama            ",62,6.8,"16,743",$36.05M
+454,Mortal Kombat: Annihilation,1997,PG-13,John R. Leonetti,Robin Shou,Talisa Soto,James Remar,Sandra Hess,95,"Action, Adventure, Fantasy            ",11,3.6,"55,277",$35.93M
+455,Shine,1996,PG-13,Scott Hicks,Geoffrey Rush,Armin Mueller-Stahl,Justin Braine,Sonia Todd,105,"Biography, Drama, Music            ",87,7.6,"54,599",$35.81M
+456,Robin Hood: Men in Tights,1993,PG-13,Mel Brooks,Cary Elwes,Richard Lewis,Roger Rees,Amy Yasbeck,104,"Adventure, Comedy, Musical            ",44,6.7,"127,726",$35.74M
+457,The Indian in the Cupboard,1995,PG,Frank Oz,Hal Scardino,Litefoot,Lindsay Crouse,Richard Jenkins,96,"Drama, Family, Fantasy            ",58,6.0,"29,512",$35.62M
+458,Selena,1997,PG,Gregory Nava,Jennifer Lopez,Edward James Olmos,Jon Seda,Jackie Guerra,127,"Biography, Drama, Music            ",67,6.8,"29,383",$35.42M
+459,Mermaids,1990,PG-13,Richard Benjamin,Cher,Bob Hoskins,Winona Ryder,Michael Schoeffling,110,"Comedy, Drama, Romance            ",56,6.7,"32,747",$35.42M
+460,A Goofy Movie,1995,G,Kevin Lima,Bill Farmer,Jason Marsden,Jim Cummings,Kellie Martin,78,"Animation, Adventure, Comedy            ",53,6.9,"55,887",$35.35M
+461,Money Train,1995,R,Joseph Ruben,Wesley Snipes,Woody Harrelson,Jennifer Lopez,Robert Blake,110,"Action, Comedy, Crime            ",none,5.7,"41,465",$35.32M
+462,Honeymoon in Vegas,1992,PG-13,Andrew Bergman,James Caan,Nicolas Cage,Sarah Jessica Parker,Pat Morita,96,"Comedy, Romance, Thriller            ",63,5.8,"18,347",$35.21M
+463,The Doors,1991,R,Oliver Stone,Val Kilmer,Meg Ryan,Kyle MacLachlan,Frank Whaley,140,"Biography, Drama, Music            ",62,7.2,"93,566",$35.18M
+464,For Love of the Game,1999,PG-13,Sam Raimi,Kevin Costner,Kelly Preston,John C. Reilly,Jena Malone,137,"Drama, Romance, Sport            ",43,6.6,"35,596",$35.17M
+465,Dragon: The Bruce Lee Story,1993,PG-13,Rob Cohen,Jason Scott Lee,Lauren Holly,Robert Wagner,Michael Learned,120,"Action, Biography, Drama            ",69,7.0,"31,428",$35.11M
+466,Freddy's Dead: The Final Nightmare,1991,R,Rachel Talalay,Robert Englund,Lisa Zane,Shon Greenblatt,Lezlie Deane,89,"Fantasy, Horror            ",39,4.7,"47,475",$34.87M
+467,White Fang,1991,PG,Randal Kleiser,Ethan Hawke,Klaus Maria Brandauer,Jed,Seymour Cassel,107,"Adventure, Drama            ",62,6.7,"21,241",$34.79M
+468,A Thin Line Between Love and Hate,1996,R,Martin Lawrence,Martin Lawrence,Lynn Whitfield,Regina King,Bobby Brown,108,"Comedy, Crime, Drama            ",none,5.6,"5,053",$34.75M
+469,Judge Dredd,1995,R,Danny Cannon,Sylvester Stallone,Armand Assante,Rob Schneider,Jürgen Prochnow,96,"Action, Crime, Sci-Fi            ",none,5.6,"119,158",$34.69M
+470,Addicted to Love,1997,R,Griffin Dunne,Meg Ryan,Matthew Broderick,Kelly Preston,Tchéky Karyo,100,"Comedy, Romance            ",49,6.1,"24,953",$34.66M
+471,Man on the Moon,1999,R,Milos Forman,Jim Carrey,Danny DeVito,Gerry Becker,Greyson Erik Pendry,118,"Biography, Comedy, Drama            ",58,7.4,"131,979",$34.58M
+472,Jack Frost,1998,PG,Troy Miller,Michael Keaton,Kelly Preston,Joseph Cross,Mark Addy,101,"Comedy, Drama, Family            ",40,5.4,"37,203",$34.55M
+473,The Best Man,1999,R,Malcolm D. Lee,Taye Diggs,Nia Long,Morris Chestnut,Harold Perrineau,120,"Comedy, Drama, Romance            ",61,6.7,"10,800",$34.10M
+474,Instinct,1999,R,Jon Turteltaub,Anthony Hopkins,Cuba Gooding Jr.,Donald Sutherland,Maura Tierney,126,"Drama, Thriller            ",43,6.5,"33,452",$34.10M
+475,The Truth About Cats & Dogs,1996,PG-13,Michael Lehmann,Uma Thurman,Janeane Garofalo,Ben Chaplin,Jamie Foxx,97,"Comedy, Romance            ",64,6.3,"28,238",$34.07M
+476,King Ralph,1991,PG,David S. Ward,John Goodman,Peter O'Toole,John Hurt,Camille Coduri,97,"Comedy, Romance            ",none,5.4,"16,327",$34.00M
+477,The Relic,1997,R,Peter Hyams,Penelope Ann Miller,Tom Sizemore,Linda Hunt,James Whitmore,110,"Horror, Mystery, Sci-Fi            ",55,5.8,"28,228",$33.96M
+478,Darkman,1990,R,Sam Raimi,Liam Neeson,Frances McDormand,Colin Friels,Larry Drake,96,"Action, Sci-Fi, Thriller            ",65,6.4,"65,485",$33.88M
+479,Mickey Blue Eyes,1999,PG-13,Kelly Makin,Carl Gottlieb,Hugh Grant,Jeanne Tripplehorn,James Caan,102,"Comedy, Crime, Romance            ",49,5.9,"37,123",$33.86M
+480,Curly Sue,1991,PG,John Hughes,Jim Belushi,Kelly Lynch,Alisan Porter,John Getz,101,"Comedy, Drama, Family            ",none,5.8,"22,031",$33.69M
+481,Nell,1994,PG-13,Michael Apted,Jodie Foster,Liam Neeson,Natasha Richardson,Richard Libertini,112,Drama            ,60,6.5,"29,605",$33.68M
+482,Dying Young,1991,R,Joel Schumacher,Julia Roberts,Campbell Scott,Vincent D'Onofrio,Colleen Dewhurst,111,"Drama, Romance            ",none,6.0,"16,554",$33.67M
+483,Muppet Treasure Island,1996,G,Brian Henson,David Lane,Tim Curry,Billy Connolly,Jennifer Saunders,99,"Action, Adventure, Comedy            ",64,6.9,"24,643",$33.61M
+484,Street Fighter,1994,PG-13,Steven E. de Souza,Jean-Claude Van Damme,Raul Julia,Ming-Na Wen,Damian Chapa,102,"Action, Adventure, Comedy            ",34,4.0,"71,928",$33.42M
+485,The Long Kiss Goodnight,1996,R,Renny Harlin,Geena Davis,Samuel L. Jackson,Yvonne Zima,Craig Bierko,121,"Action, Crime, Drama            ",44,6.8,"80,511",$33.33M
+486,Grand Canyon,1991,R,Lawrence Kasdan,Danny Glover,Kevin Kline,Steve Martin,Mary McDonnell,134,"Crime, Drama            ",64,6.9,"16,004",$33.24M
+487,Forget Paris,1995,PG-13,Billy Crystal,Billy Crystal,Debra Winger,Joe Mantegna,Cynthia Stevenson,101,"Comedy, Romance            ",none,6.5,"12,566",$33.19M
+488,Striptease,1996,R,Andrew Bergman,Demi Moore,Burt Reynolds,Armand Assante,Ving Rhames,115,"Comedy, Crime, Drama            ",37,4.5,"46,113",$33.11M
+489,Matilda,1996,PG,Danny DeVito,Danny DeVito,Rhea Perlman,Mara Wilson,Embeth Davidtz,102,"Comedy, Family, Fantasy            ",72,6.9,"153,664",$33.08M
+490,Daylight,1996,PG-13,Rob Cohen,Sylvester Stallone,Amy Brenneman,Viggo Mortensen,Dan Hedaya,114,"Action, Adventure, Drama            ",47,5.9,"73,621",$33.02M
+491,Mercury Rising,1998,R,Harold Becker,Bruce Willis,Miko Hughes,Alec Baldwin,Chi McBride,111,"Action, Crime, Drama            ",37,6.1,"74,861",$32.94M
+492,The Joy Luck Club,1993,R,Wayne Wang,Tamlyn Tomita,Rosalind Chao,Kieu Chinh,Tsai Chin,139,Drama            ,84,7.7,"17,061",$32.86M
+493,Tommy Boy,1995,PG-13,Peter Segal,Chris Farley,David Spade,Brian Dennehy,Bo Derek,97,"Adventure, Comedy            ",46,7.1,"88,929",$32.70M
+494,The 13th Warrior,1999,R,John McTiernan,Michael Crichton,Antonio Banderas,Diane Venora,Dennis Storhøi,102,"Action, Adventure, History            ",42,6.6,"125,714",$32.70M
+495,Hard Target,1993,R,John Woo,Jean-Claude Van Damme,Lance Henriksen,Yancy Butler,Chuck Pfarrer,97,"Action, Crime, Thriller            ",63,6.2,"52,264",$32.59M
+496,Jungle Fever,1991,R,Spike Lee,Wesley Snipes,Annabella Sciorra,Spike Lee,Ossie Davis,132,"Drama, Romance            ",78,6.6,"18,725",$32.48M
+497,October Sky,1999,PG,Joe Johnston,Jake Gyllenhaal,Chris Cooper,Laura Dern,Chris Owen,108,"Biography, Drama, Family            ",71,7.8,"91,957",$32.48M
+498,The Sandlot,1993,PG,David Mickey Evans,Tom Guiry,Mike Vitar,Art LaFleur,Patrick Renna,101,"Comedy, Drama, Family            ",55,7.8,"93,388",$32.42M
+499,Bride of Chucky,1998,R,Ronny Yu,Jennifer Tilly,Brad Dourif,Katherine Heigl,Nick Stabile,89,"Comedy, Horror, Thriller            ",48,5.5,"59,863",$32.40M
+500,Rumble in the Bronx,1995,R,Stanley Tong,Jackie Chan,Anita Mui,Françoise Yip,Bill Tung,87,"Action, Comedy, Crime            ",61,6.7,"42,944",$32.39M
+501,Black Sheep,1996,PG-13,Penelope Spheeris,Chris Farley,David Spade,Tim Matheson,Christine Ebersole,87,Comedy            ,34,6.2,"41,326",$32.38M
+502,The Age of Innocence,1993,PG,Martin Scorsese,Daniel Day-Lewis,Michelle Pfeiffer,Winona Ryder,Linda Faye Farkas,139,"Drama, Romance            ",90,7.2,"60,935",$32.20M
+503,The Lawnmower Man,1992,R,Brett Leonard,Jeff Fahey,Pierce Brosnan,Jenny Wright,Mark Bringelson,108,"Horror, Sci-Fi            ",42,5.4,"36,636",$32.10M
+504,The Shadow,1994,PG-13,Russell Mulcahy,Alec Baldwin,John Lone,Penelope Ann Miller,Peter Boyle,108,"Action, Adventure, Crime            ",50,6.0,"25,781",$32.06M
+505,Copycat,1995,R,Jon Amiel,Sigourney Weaver,Holly Hunter,Dermot Mulroney,William McNamara,123,"Drama, Mystery, Thriller            ",54,6.6,"60,609",$32.05M
+506,Metro,1997,R,Thomas Carter,Eddie Murphy,Michael Rapaport,Kim Miyori,Art Evans,117,"Action, Comedy, Crime            ",41,5.5,"27,961",$31.99M
+507,Leaving Las Vegas,1995,R,Mike Figgis,Nicolas Cage,Elisabeth Shue,Julian Sands,Richard Lewis,111,"Drama, Romance            ",82,7.5,"125,859",$31.97M
+508,Cop & ½,1993,PG,Henry Winkler,Burt Reynolds,Norman D. Golden II,Ruby Dee,Holland Taylor,97,"Comedy, Crime, Family            ",none,4.1,"8,862",$31.89M
+509,Lake Placid,1999,R,Steve Miner,Bridget Fonda,Bill Pullman,Oliver Platt,Brendan Gleeson,82,"Action, Comedy, Horror            ",34,5.8,"62,092",$31.77M
+510,For Richer or Poorer,1997,PG-13,Bryan Spicer,Tim Allen,Kirstie Alley,Jay O. Sanders,Michael Lerner,115,Comedy            ,none,5.8,"11,304",$31.61M
+511,Rob Roy,1995,R,Michael Caton-Jones,Liam Neeson,Jessica Lange,John Hurt,Tim Roth,139,"Adventure, Biography, Drama            ",55,6.9,"43,446",$31.60M
+512,Eddie,1996,PG-13,Steve Rash,Whoopi Goldberg,Frank Langella,Dennis Farina,Richard Jenkins,100,"Comedy, Sport            ",none,5.2,"11,113",$31.36M
+513,Beverly Hills Ninja,1997,PG-13,Dennis Dugan,Chris Farley,Nicollette Sheridan,Robin Shou,Nathaniel Parker,88,"Action, Comedy            ",27,5.5,"42,040",$31.24M
+514,The Secret Garden,1993,G,Agnieszka Holland,Kate Maberly,Maggie Smith,Heydon Prowse,Andrew Knott,101,"Drama, Family, Fantasy            ",74,7.3,"41,989",$31.18M
+515,A Perfect World,1993,PG-13,Clint Eastwood,Kevin Costner,Clint Eastwood,Laura Dern,T.J. Lowther,138,"Crime, Drama, Thriller            ",71,7.5,"81,587",$31.16M
+516,Picture Perfect,1997,PG-13,Glenn Gordon Caron,Jennifer Aniston,Jay Mohr,Kevin Bacon,Olympia Dukakis,101,"Comedy, Drama, Romance            ",44,5.5,"20,477",$31.06M
+517,Random Hearts,1999,R,Sydney Pollack,Harrison Ford,Kristin Scott Thomas,Charles S. Dutton,Bonnie Hunt,133,"Drama, Mystery, Romance            ",38,5.3,"21,583",$31.05M
+518,Air America,1990,R,Roger Spottiswoode,Mel Gibson,Robert Downey Jr.,Nancy Travis,Ken Jenkins,113,"Action, Comedy, War            ",33,5.8,"29,094",$31.05M
+519,Home Alone 3,1997,PG,Raja Gosnell,Alex D. Linz,Olek Krupa,Rya Kihlstedt,Lenny von Dohlen,102,"Action, Comedy, Crime            ",none,4.5,"117,637",$30.88M
+520,Powder,1995,PG-13,Victor Salva,Mary Steenburgen,Sean Patrick Flanery,Lance Henriksen,Jeff Goldblum,111,"Drama, Fantasy, Mystery            ",none,6.6,"30,937",$30.86M
+521,I Love Trouble,1994,PG,Charles Shyer,Nick Nolte,Julia Roberts,Saul Rubinek,James Rebhorn,123,"Action, Comedy, Romance            ",none,5.3,"12,179",$30.81M
+522,Predator 2,1990,R,Stephen Hopkins,Danny Glover,Gary Busey,Kevin Peter Hall,Rubén Blades,108,"Action, Horror, Sci-Fi            ",46,6.3,"170,162",$30.67M
+523,Dogma,1999,R,Kevin Smith,Ben Affleck,Matt Damon,Linda Fiorentino,Bud Cort,130,"Adventure, Comedy, Drama            ",62,7.3,"219,377",$30.65M
+524,Superstar,1999,PG-13,Bruce McCulloch,Molly Shannon,Will Ferrell,Elaine Hendrix,Harland Williams,81,"Comedy, Romance            ",42,5.1,"19,509",$30.63M
+525,Major League II,1994,PG,David S. Ward,Charlie Sheen,Tom Berenger,Corbin Bernsen,Dennis Haysbert,105,"Comedy, Sport            ",none,5.6,"26,887",$30.63M
+526,Blank Check,1994,PG,Rupert Wainwright,Brian Bonsall,Karen Duffy,James Rebhorn,Jayne Atkinson,93,"Comedy, Crime, Family            ",42,5.2,"20,905",$30.58M
+527,Sleepwalkers,1992,R,Mick Garris,Brian Krause,Mädchen Amick,Alice Krige,Jim Haynie,91,"Fantasy, Horror            ",38,5.3,"23,030",$30.52M
+528,Sgt. Bilko,1996,PG,Jonathan Lynn,Steve Martin,Dan Aykroyd,Phil Hartman,Glenne Headly,93,Comedy            ,47,5.8,"22,943",$30.36M
+529,A Night at the Roxbury,1998,PG-13,John Fortenberry,Chris Kattan,Will Ferrell,Raquel Gardner,Viveca Paulin,82,"Comedy, Music, Romance            ",26,6.2,"61,375",$30.32M
+530,Assassins,1995,R,Richard Donner,Sylvester Stallone,Antonio Banderas,Julianne Moore,Anatoli Davydov,133,"Action, Crime, Thriller            ",none,6.3,"84,177",$30.31M
+531,Blown Away,1994,R,Stephen Hopkins,Jeff Bridges,Tommy Lee Jones,Suzy Amis,Lloyd Bridges,121,"Action, Crime, Drama            ",none,6.2,"31,836",$30.16M
+532,Double Impact,1991,R,Sheldon Lettich,Jean-Claude Van Damme,Geoffrey Lewis,Alonna Shaw,Corinna Everson,110,"Action, Crime            ",40,5.6,"41,514",$30.10M
+533,Elizabeth,1998,R,Shekhar Kapur,Cate Blanchett,Liz Giles,Rod Culbertson,Paul Fox,124,"Biography, Drama, History            ",75,7.4,"100,208",$30.08M
+534,Free Willy 2: The Adventure Home,1995,PG,Dwight H. Little,Jason James Richter,Michael Madsen,Francis Capra,Mary Kate Schellhardt,95,"Adventure, Drama, Family            ",none,5.0,"18,684",$30.08M
+535,Point of No Return,1993,R,John Badham,Bridget Fonda,Gabriel Byrne,Dermot Mulroney,Miguel Ferrer,109,"Action, Crime, Drama            ",53,6.1,"28,527",$30.04M
+536,Green Card,1990,PG-13,Peter Weir,Gérard Depardieu,Andie MacDowell,Bebe Neuwirth,Gregg Edelman,107,"Comedy, Drama, Romance            ",58,6.3,"24,774",$29.89M
+537,Madeline,1998,PG,Daisy von Scherler Mayer,Frances McDormand,Nigel Hawthorne,Hatty Jones,Ben Daniels,88,"Comedy, Family            ",none,6.0,"7,575",$29.77M
+538,Mystery Men,1999,PG-13,Kinka Usher,Ben Stiller,Janeane Garofalo,William H. Macy,Hank Azaria,121,"Action, Comedy, Fantasy            ",65,6.1,"67,808",$29.76M
+539,Wild Things,1998,R,John McNaughton,Kevin Bacon,Neve Campbell,Matt Dillon,Denise Richards,108,"Crime, Drama, Mystery            ",52,6.6,"121,967",$29.75M
+540,Major Payne,1995,PG-13,Nick Castle,Damon Wayans,Michael Ironside,Bam Bam Bigelow,Joseph Blaire,95,"Adventure, Comedy, Family            ",34,6.2,"36,109",$29.41M
+541,A Low Down Dirty Shame,1994,R,Keenen Ivory Wayans,Keenen Ivory Wayans,Charles S. Dutton,Jada Pinkett Smith,Salli Richardson-Whitfield,108,"Action, Comedy, Crime            ",none,5.9,"7,422",$29.39M
+542,Pacific Heights,1990,R,John Schlesinger,Melanie Griffith,Matthew Modine,Michael Keaton,Mako,102,Thriller            ,55,6.4,"20,974",$29.38M
+543,Spice World,1997,PG,Bob Spiers,Mel B,Emma Bunton,Melanie C,Geri Horner,93,"Comedy, Family, Music            ",32,3.6,"36,232",$29.34M
+544,Fools Rush In,1997,PG-13,Andy Tennant,Matthew Perry,Salma Hayek,Jon Tenney,Carlos Gómez,109,"Comedy, Drama, Romance            ",37,6.1,"36,377",$29.29M
+545,Romy and Michele's High School Reunion,1997,R,David Mirkin,Mira Sorvino,Lisa Kudrow,Janeane Garofalo,Alan Cumming,92,Comedy            ,59,6.3,"48,886",$29.21M
+546,The Object of My Affection,1998,R,Nicholas Hytner,Jennifer Aniston,Paul Rudd,Kali Rocha,Lena Cardwell,111,"Comedy, Drama, Romance            ",51,6.0,"20,492",$29.11M
+547,3 Ninjas,1992,PG,Jon Turteltaub,Victor Wong,Michael Treanor,Max Elliott Slade,Chad Power,84,"Action, Comedy, Family            ",36,5.3,"22,005",$29.00M
+548,Spy Hard,1996,PG-13,Rick Friedberg,Leslie Nielsen,Nicollette Sheridan,Charles Durning,Marcia Gay Harden,81,"Action, Comedy            ",25,5.3,"38,401",$29.00M
+549,The Insider,1999,R,Michael Mann,Russell Crowe,Al Pacino,Christopher Plummer,Diane Venora,157,"Biography, Drama, Thriller            ",84,7.8,"172,179",$28.97M
+550,James and the Giant Peach,1996,PG,Henry Selick,Paul Terry,Joanna Lumley,Pete Postlethwaite,Simon Callow,79,"Animation, Adventure, Family            ",78,6.7,"68,736",$28.93M
+551,"Girl, Interrupted",1999,R,James Mangold,Winona Ryder,Angelina Jolie,Clea DuVall,Brittany Murphy,127,"Biography, Drama            ",51,7.3,"189,972",$28.87M
+552,In the Army Now,1994,PG,Daniel Petrie Jr.,Pauly Shore,Lori Petty,Andy Dick,David Alan Grier,91,"Comedy, War            ",none,4.9,"14,001",$28.86M
+553,L.A. Story,1991,PG-13,Mick Jackson,Steve Martin,Victoria Tennant,Richard E. Grant,Sarah Jessica Parker,95,"Comedy, Drama, Fantasy            ",66,6.7,"33,129",$28.86M
+554,Deceived,1991,PG-13,Damian Harris,Goldie Hawn,John Heard,Damon Redfern,Charles Kassatly,104,"Crime, Drama, Mystery            ",none,6.1,"7,594",$28.74M
+555,Drop Zone,1994,R,John Badham,Wesley Snipes,Gary Busey,Yancy Butler,Michael Jeter,101,"Action, Adventure, Thriller            ",none,5.6,"20,763",$28.72M
+556,Fathers' Day,1997,PG-13,Ivan Reitman,Robin Williams,Billy Crystal,Julia Louis-Dreyfus,Nastassja Kinski,98,"Comedy, Romance            ",43,5.2,"15,832",$28.66M
+557,Final Analysis,1992,R,Phil Joanou,Richard Gere,Kim Basinger,Uma Thurman,Eric Roberts,124,"Drama, Thriller            ",40,5.9,"14,489",$28.59M
+558,The Out-of-Towners,1999,PG-13,Sam Weisman,Steve Martin,Goldie Hawn,John Cleese,Mark McKinney,90,Comedy            ,33,5.5,"14,303",$28.54M
+559,Child's Play 2,1990,R,John Lafia,Alex Vincent,Jenny Agutter,Gerrit Graham,Christine Elise,84,"Horror, Thriller            ",37,5.9,"52,956",$28.50M
+560,Stop! Or My Mom Will Shoot,1992,PG-13,Roger Spottiswoode,Sylvester Stallone,Estelle Getty,JoBeth Williams,Roger Rees,87,"Action, Comedy            ",none,4.3,"42,835",$28.41M
+561,The Shawshank Redemption,1994,R,Frank Darabont,Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler,142,Drama            ,81,9.3,"2,666,600",$28.34M
+562,Grosse Pointe Blank,1997,R,George Armitage,John Cusack,Minnie Driver,Dan Aykroyd,Joan Cusack,107,"Action, Comedy, Crime            ",76,7.3,"95,463",$28.01M
+563,Loaded Weapon 1,1993,PG-13,Gene Quintano,Emilio Estevez,Samuel L. Jackson,Jon Lovitz,Tim Curry,84,"Action, Comedy, Crime            ",30,6.2,"49,018",$27.98M
+564,Out to Sea,1997,PG-13,Martha Coolidge,Jack Lemmon,Walter Matthau,Dyan Cannon,Gloria DeHaven,106,"Comedy, Romance            ",49,6.0,"9,054",$27.97M
+565,The Rescuers Down Under,1990,G,Hendel Butoy,Mike Gabriel,Bob Newhart,Eva Gabor,John Candy,77,"Animation, Adventure, Comedy            ",70,6.8,"43,641",$27.93M
+566,Menace II Society,1993,R,Albert Hughes,Allen Hughes,Tyrin Turner,Larenz Tate,June Kyoto Lu,97,"Crime, Drama, Thriller            ",76,7.5,"59,660",$27.90M
+567,The Other Sister,1999,PG-13,Garry Marshall,Juliette Lewis,Diane Keaton,Giovanni Ribisi,Tom Skerritt,129,"Comedy, Drama, Romance            ",28,6.4,"12,629",$27.80M
+568,The Edge,1997,R,Lee Tamahori,Anthony Hopkins,Alec Baldwin,Elle Macpherson,Harold Perrineau,117,"Action, Adventure, Drama            ",none,6.9,"74,579",$27.78M
+569,Internal Affairs,1990,R,Mike Figgis,Richard Gere,Andy Garcia,Nancy Travis,Laurie Metcalf,115,"Crime, Drama, Thriller            ",63,6.5,"20,699",$27.73M
+570,The Island of Dr. Moreau,1996,PG-13,John Frankenheimer,Richard Stanley,David Thewlis,Marlon Brando,Val Kilmer,96,"Horror, Sci-Fi, Thriller            ",37,4.5,"33,934",$27.66M
+571,Cadillac Man,1990,R,Roger Donaldson,Robin Williams,Tim Robbins,Pamela Reed,Fran Drescher,97,"Comedy, Crime            ",50,5.7,"14,664",$27.63M
+572,Poetic Justice,1993,R,John Singleton,Janet Jackson,Tupac Shakur,Regina King,Joe Torry,109,"Drama, Romance            ",51,6.1,"15,172",$27.52M
+573,My Life,1993,PG-13,Bruce Joel Rubin,Michael Keaton,Nicole Kidman,Bradley Whitford,Queen Latifah,117,Drama            ,none,6.8,"11,667",$27.48M
+574,Friday,1995,R,F. Gary Gray,Ice Cube,Chris Tucker,Nia Long,Tom Lister Jr.,91,"Comedy, Drama            ",54,7.2,"114,911",$27.47M
+575,Memphis Belle,1990,PG-13,Michael Caton-Jones,Matthew Modine,Eric Stoltz,Tate Donovan,D.B. Sweeney,107,"Action, Drama, War            ",59,6.9,"28,898",$27.44M
+576,Now and Then,1995,PG-13,Lesli Linka Glatter,Christina Ricci,Demi Moore,Rosie O'Donnell,Thora Birch,102,"Comedy, Drama, Romance            ",50,6.8,"30,474",$27.40M
+577,The Muppet Christmas Carol,1992,G,Brian Henson,Michael Caine,Dave Goelz,Steve Whitmire,Jerry Nelson,85,"Comedy, Drama, Family            ",64,7.7,"59,065",$27.28M
+578,Baby Geniuses,1999,PG,Bob Clark,Kathleen Turner,Christopher Lloyd,Kim Cattrall,Peter MacNicol,97,"Comedy, Crime, Family            ",6,2.5,"26,727",$27.14M
+579,The Story of Us,1999,R,Rob Reiner,Bruce Willis,Michelle Pfeiffer,Colleen Rennison,Jake Sandvig,95,"Comedy, Drama, Romance            ",37,5.9,"24,179",$27.07M
+580,Guarding Tess,1994,PG-13,Hugh Wilson,Shirley MacLaine,Nicolas Cage,Austin Pendleton,Edward Albert,96,"Comedy, Drama            ",46,6.2,"17,929",$27.05M
+581,The Big Hit,1998,R,Kirk Wong,Mark Wahlberg,Lou Diamond Phillips,Christina Applegate,Avery Brooks,91,"Action, Comedy, Crime            ",31,6.0,"30,356",$27.05M
+582,Paulie,1998,PG,John Roberts,Gena Rowlands,Tony Shalhoub,Cheech Marin,Bruce Davison,91,"Adventure, Comedy, Drama            ",none,6.5,"15,518",$27.01M
+583,Eye for an Eye,1996,R,John Schlesinger,Sally Field,Kiefer Sutherland,Ed Harris,Olivia Burnette,101,"Crime, Drama, Thriller            ",25,6.1,"17,030",$26.79M
+584,Bio-Dome,1996,PG-13,Jason Bloom,Pauly Shore,Stephen Baldwin,William Atherton,Denise Dowse,88,Comedy            ,1,4.3,"28,072",$26.76M
+585,Event Horizon,1997,R,Paul W.S. Anderson,Laurence Fishburne,Sam Neill,Kathleen Quinlan,Joely Richardson,96,"Horror, Sci-Fi, Thriller            ",35,6.6,"182,381",$26.67M
+586,An American Werewolf in Paris,1997,R,Anthony Waller,Tom Everett Scott,Julie Delpy,Vince Vieluf,Phil Buckman,98,"Comedy, Fantasy, Horror            ",31,5.1,"25,578",$26.57M
+587,Harriet the Spy,1996,PG,Bronwen Hughes,Michelle Trachtenberg,Rosie O'Donnell,Gregory Smith,Vanessa Chester,100,"Comedy, Drama, Family            ",none,5.9,"10,475",$26.54M
+588,Bulworth,1998,R,Warren Beatty,Warren Beatty,Halle Berry,Kimberly Deauna Adams,Vinny Argiro,108,"Comedy, Drama, Romance            ",75,6.8,"26,464",$26.53M
+589,Blast from the Past,1999,PG-13,Hugh Wilson,Brendan Fraser,Alicia Silverstone,Christopher Walken,Sissy Spacek,112,"Comedy, Drama, Romance            ",48,6.7,"66,257",$26.49M
+590,First Kid,1996,PG,David Mickey Evans,Sinbad,Brock Pierce,Blake Boyd,Timothy Busfield,101,"Comedy, Family            ",48,5.2,"11,068",$26.46M
+591,Boogie Nights,1997,R,Paul Thomas Anderson,Mark Wahlberg,Julianne Moore,Burt Reynolds,Luis Guzmán,155,Drama            ,85,7.9,"266,907",$26.40M
+592,House Party,1990,R,Reginald Hudlin,Christopher Reid,Robin Harris,Christopher Martin,Martin Lawrence,100,"Comedy, Music, Romance            ",76,6.4,"15,249",$26.39M
+593,I.Q.,1994,PG,Fred Schepisi,Tim Robbins,Meg Ryan,Walter Matthau,Lou Jacobi,100,"Comedy, Romance            ",66,6.2,"25,689",$26.37M
+594,Great Expectations,1998,R,Alfonso Cuarón,Ethan Hawke,Gwyneth Paltrow,Hank Azaria,Chris Cooper,111,"Drama, Romance            ",55,6.8,"54,303",$26.33M
+595,Houseguest,1995,PG,Randall Miller,Sinbad,Phil Hartman,Kim Greist,Kim Murphy,113,Comedy            ,none,5.9,"7,170",$26.33M
+596,Necessary Roughness,1991,PG-13,Stan Dragoti,Scott Bakula,Hector Elizondo,Robert Loggia,Harley Jane Kozak,108,"Comedy, Sport            ",45,6.1,"12,328",$26.26M
+597,Jacob's Ladder,1990,R,Adrian Lyne,Tim Robbins,Elizabeth Peña,Danny Aiello,Matt Craven,113,"Drama, Horror, Mystery            ",62,7.4,"109,713",$26.12M
+598,The Exorcist III,1990,R,William Peter Blatty,George C. Scott,Ed Flanders,Brad Dourif,Jason Miller,110,"Drama, Horror, Mystery            ",48,6.5,"33,148",$26.10M
+599,Howards End,1992,PG,James Ivory,Anthony Hopkins,Emma Thompson,Vanessa Redgrave,Helena Bonham Carter,142,"Drama, Romance            ",88,7.4,"32,992",$25.97M
+600,The Hard Way,1991,R,John Badham,Michael J. Fox,James Woods,Stephen Lang,Annabella Sciorra,111,"Action, Comedy, Crime            ",none,6.3,"21,144",$25.90M
+601,Shadowlands,1993,PG,Richard Attenborough,Anthony Hopkins,Debra Winger,Julian Fellowes,Roddy Maude-Roxby,131,"Biography, Drama, Romance            ",none,7.4,"19,173",$25.84M
+602,Murder at 1600,1997,R,Dwight H. Little,Wesley Snipes,Diane Lane,Daniel Benzali,Dennis Miller,107,"Action, Crime, Drama            ",47,6.1,"31,323",$25.83M
+603,That Thing You Do!,1996,PG,Tom Hanks,Tom Hanks,Liv Tyler,Charlize Theron,Tom Everett Scott,108,"Comedy, Drama, Music            ",71,6.9,"69,681",$25.81M
+604,Candyman,1992,R,Bernard Rose,Virginia Madsen,Xander Berkeley,Tony Todd,Kasi Lemmons,99,"Horror, Thriller            ",61,6.7,"92,787",$25.79M
+605,Down Periscope,1996,PG-13,David S. Ward,Kelsey Grammer,Lauren Holly,Rob Schneider,Harry Dean Stanton,92,Comedy            ,39,6.1,"25,031",$25.79M
+606,From Dusk Till Dawn,1996,R,Robert Rodriguez,Harvey Keitel,George Clooney,Juliette Lewis,Quentin Tarantino,108,"Action, Crime, Horror            ",48,7.2,"316,439",$25.75M
+607,Other People's Money,1991,R,Norman Jewison,Danny DeVito,Gregory Peck,Penelope Ann Miller,Piper Laurie,103,"Comedy, Drama, Romance            ",none,6.2,"8,926",$25.68M
+608,Desperado,1995,R,Robert Rodriguez,Antonio Banderas,Salma Hayek,Joaquim de Almeida,Cheech Marin,104,"Action, Crime, Thriller            ",55,7.1,"187,289",$25.63M
+609,Billy Madison,1995,PG-13,Tamra Davis,Adam Sandler,Darren McGavin,Bridgette Wilson-Sampras,Bradley Whitford,89,Comedy            ,16,6.3,"146,087",$25.59M
+610,Mimic,1997,R,Guillermo del Toro,Mira Sorvino,Jeremy Northam,Alexander Goodwin,Giancarlo Giannini,105,"Horror, Sci-Fi            ",55,6.0,"52,064",$25.48M
+611,"Mon père, ce héros.",1991,None,Gérard Lauzier,Gérard Depardieu,Marie Gillain,Catherine Jacob,Charlotte de Turckheim,105,"Comedy, Drama, Romance            ",none,6.1,"2,780",$25.48M
+612,My Father the Hero,1994,PG,Steve Miner,Gérard Depardieu,Katherine Heigl,Dalton James,Lauren Hutton,90,"Comedy, Romance            ",42,5.5,"11,307",$25.48M
+613,Escape from L.A.,1996,R,John Carpenter,Kurt Russell,Steve Buscemi,Stacy Keach,A.J. Langer,101,"Action, Adventure, Sci-Fi            ",54,5.7,"75,718",$25.48M
+614,Can't Hardly Wait,1998,PG-13,Harry Elfont,Deborah Kaplan,Jennifer Love Hewitt,Ethan Embry,Charlie Korsmo,100,"Comedy, Romance            ",52,6.5,"50,945",$25.34M
+615,Don't Tell Mom the Babysitter's Dead,1991,PG-13,Stephen Herek,Christina Applegate,Joanna Cassidy,John Getz,Josh Charles,102,Comedy            ,35,6.3,"34,368",$25.20M
+616,Fallen,1998,R,Gregory Hoblit,Denzel Washington,John Goodman,Donald Sutherland,Embeth Davidtz,124,"Action, Crime, Drama            ",none,7.0,"84,193",$25.19M
+617,The Cutting Edge,1992,PG,Paul Michael Glaser,D.B. Sweeney,Moira Kelly,Roy Dotrice,Terry O'Quinn,101,"Comedy, Drama, Romance            ",53,6.9,"20,902",$25.11M
+618,Problem Child 2,1991,PG-13,Brian Levant,John Ritter,Michael Oliver,Jack Warden,Laraine Newman,90,"Comedy, Family            ",none,4.8,"22,593",$25.10M
+619,Midnight in the Garden of Good and Evil,1997,R,Clint Eastwood,John Cusack,Kevin Spacey,Jack Thompson,Irma P. Hall,155,"Crime, Drama, Mystery            ",57,6.6,"39,641",$25.08M
+620,Navy Seals,1990,R,Lewis Teague,Charlie Sheen,Michael Biehn,Joanne Whalley,Rick Rossovich,113,"Action, Adventure, Thriller            ",38,5.5,"17,057",$25.07M
+621,Wyatt Earp,1994,PG-13,Lawrence Kasdan,Kevin Costner,Dennis Quaid,Gene Hackman,David Andrews,191,"Action, Adventure, Biography            ",47,6.7,"51,778",$25.05M
+622,The Wood,1999,R,Rick Famuyiwa,Elayn J. Taylor,Omar Epps,Richard T. Jones,Sean Nelson,106,"Comedy, Drama, Romance            ",52,7.0,"9,586",$25.05M
+623,Ernest Goes to Jail,1990,PG,John R. Cherry III,Jim Varney,Gailard Sartain,Bill Byrge,Barbara Tyson,81,"Comedy, Crime, Family            ",40,5.4,"9,654",$25.03M
+624,Little Man Tate,1991,PG,Jodie Foster,Jodie Foster,Dianne Wiest,Adam Hann-Byrd,Alex Lee,99,Drama            ,71,6.6,"15,248",$25.01M
+625,In the Name of the Father,1993,R,Jim Sheridan,Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie,Philip King,133,"Biography, Crime, Drama            ",84,8.1,"175,896",$25.01M
+626,Kingpin,1996,PG-13,Bobby Farrelly,Peter Farrelly,Woody Harrelson,Randy Quaid,Bill Murray,114,"Comedy, Sport            ",43,6.9,"85,314",$24.94M
+627,The Craft,1996,R,Andrew Fleming,Robin Tunney,Fairuza Balk,Neve Campbell,Rachel True,101,"Drama, Fantasy, Horror            ",55,6.4,"95,940",$24.88M
+628,Quiz Show,1994,PG-13,Robert Redford,Ralph Fiennes,John Turturro,Rob Morrow,Paul Scofield,133,"Biography, Drama, History            ",92,7.5,"70,282",$24.82M
+629,Waking Ned Devine,1998,PG,Kirk Jones,Ian Bannen,David Kelly,Fionnula Flanagan,Susan Lynch,91,Comedy            ,71,7.3,"26,849",$24.79M
+630,The Man Without a Face,1993,PG-13,Mel Gibson,Mel Gibson,Nick Stahl,Margaret Whitton,Fay Masterson,115,Drama            ,62,6.7,"29,827",$24.76M
+631,Ghost Dad,1990,PG,Sidney Poitier,Bill Cosby,Kimberly Russell,Denise Nicholas,Ian Bannen,83,"Comedy, Family, Fantasy            ",none,4.4,"8,137",$24.71M
+632,Operation Dumbo Drop,1995,PG,Simon Wincer,Danny Glover,Ray Liotta,Denis Leary,Doug E. Doug,107,"Action, Adventure, Comedy            ",48,5.2,"9,253",$24.70M
+633,FernGully: The Last Rainforest,1992,G,Bill Kroyer,Samantha Mathis,Christian Slater,Robin Williams,Tim Curry,76,"Animation, Adventure, Family            ",67,6.5,"30,965",$24.65M
+634,Air Bud,1997,PG,Charles Martin Smith,Michael Jeter,Kevin Zegers,Wendy Makkena,Bill Cobbs,98,"Comedy, Drama, Family            ",none,5.2,"18,216",$24.63M
+635,Fargo,1996,R,Joel Coen,Ethan Coen,William H. Macy,Frances McDormand,Steve Buscemi,98,"Crime, Thriller            ",85,8.1,"677,781",$24.61M
+636,Fly Away Home,1996,PG,Carroll Ballard,Jeff Daniels,Anna Paquin,Dana Delany,Terry Kinney,107,"Adventure, Drama, Family            ",77,6.9,"25,899",$24.51M
+637,Sling Blade,1996,R,Billy Bob Thornton,Billy Bob Thornton,Dwight Yoakam,J.T. Walsh,John Ritter,135,Drama            ,84,8.0,"94,591",$24.48M
+638,Arlington Road,1999,R,Mark Pellington,Jeff Bridges,Tim Robbins,Joan Cusack,Hope Davis,117,"Action, Crime, Drama            ",65,7.2,"87,541",$24.36M
+639,Dolores Claiborne,1995,R,Taylor Hackford,Kathy Bates,Jennifer Jason Leigh,Christopher Plummer,Judy Parfitt,132,"Crime, Drama, Mystery            ",62,7.4,"44,585",$24.36M
+640,Renaissance Man,1994,PG-13,Penny Marshall,Danny DeVito,Gregory Hines,James Remar,Ed Begley Jr.,128,"Comedy, Drama            ",44,6.2,"18,188",$24.33M
+641,Class Action,1991,R,Michael Apted,Gene Hackman,Mary Elizabeth Mastrantonio,Colin Friels,Joanna Merlin,110,"Drama, Thriller            ",58,6.4,"7,785",$24.28M
+642,Hoffa,1992,R,Danny DeVito,Jack Nicholson,Danny DeVito,Armand Assante,J.T. Walsh,140,"Biography, Crime, Drama            ",50,6.6,"23,630",$24.28M
+643,The People Under the Stairs,1991,R,Wes Craven,Brandon Quintin Adams,Everett McGill,Wendy Robie,A.J. Langer,102,"Comedy, Horror, Mystery            ",57,6.4,"35,989",$24.20M
+644,Dead Presidents,1995,R,Albert Hughes,Allen Hughes,Larenz Tate,Keith David,Chris Tucker,119,"Action, Crime, Drama            ",none,6.9,"22,781",$24.20M
+645,The Adventures of Huck Finn,1993,PG,Stephen Sommers,Elijah Wood,Courtney B. Vance,Robbie Coltrane,Jason Robards,108,"Adventure, Comedy, Drama            ",none,6.2,"8,744",$24.10M
+646,Lionheart,1990,R,Sheldon Lettich,Jean-Claude Van Damme,Harrison Page,Deborah Rennard,Lisa Pelikan,108,"Action, Crime, Drama            ",41,6.2,"36,970",$24.08M
+647,Virtuosity,1995,R,Brett Leonard,Denzel Washington,Russell Crowe,Kelly Lynch,Stephen Spinella,106,"Action, Crime, Sci-Fi            ",39,5.5,"30,567",$24.05M
+648,Striking Distance,1993,R,Rowdy Herrington,Bruce Willis,Sarah Jessica Parker,Dennis Farina,Tom Sizemore,102,"Action, Crime, Mystery            ",36,5.8,"43,508",$23.80M
+649,Tom and Huck,1995,PG,Peter Hewitt,Jonathan Taylor Thomas,Brad Renfro,Charles Rocket,Eric Schweig,97,"Adventure, Comedy, Drama            ",none,5.5,"11,036",$23.74M
+650,Good Burger,1997,PG,Brian Robbins,Kel Mitchell,Kenan Thompson,Sinbad,Abe Vigoda,95,"Comedy, Family            ",41,5.7,"29,618",$23.69M
+651,My Blue Heaven,1990,PG-13,Herbert Ross,Steve Martin,Rick Moranis,Joan Cusack,Melanie Mayron,97,"Comedy, Crime            ",35,6.2,"21,429",$23.59M
+652,How to Make an American Quilt,1995,PG-13,Jocelyn Moorhouse,Winona Ryder,Ellen Burstyn,Anne Bancroft,Kaelynn Craddick,117,"Comedy, Drama, Romance            ",none,6.3,"11,923",$23.57M
+653,Oscar,1991,PG,John Landis,Sylvester Stallone,Ornella Muti,Peter Riegert,Chazz Palminteri,109,"Comedy, Crime            ",47,6.5,"32,518",$23.56M
+654,Hoodlum,1997,R,Bill Duke,Laurence Fishburne,Tim Roth,Vanessa Williams,Andy Garcia,130,"Crime, Drama            ",50,6.3,"11,674",$23.46M
+655,Boys on the Side,1995,R,Herbert Ross,Whoopi Goldberg,Mary-Louise Parker,Drew Barrymore,Matthew McConaughey,115,"Comedy, Drama            ",61,6.4,"13,300",$23.45M
+656,Circle of Friends,1995,PG-13,Pat O'Connor,Chris O'Donnell,Minnie Driver,Geraldine O'Rawe,Saffron Burrows,103,"Drama, Romance            ",70,6.6,"8,783",$23.40M
+657,Leap of Faith,1992,PG-13,Richard Pearce,Steve Martin,Debra Winger,Lolita Davidovich,Liam Neeson,108,"Comedy, Drama, Romance            ",none,6.1,"13,523",$23.37M
+658,The Usual Suspects,1995,R,Bryan Singer,Kevin Spacey,Gabriel Byrne,Chazz Palminteri,Stephen Baldwin,106,"Crime, Drama, Mystery            ",77,8.5,"1,082,685",$23.34M
+659,The Avengers,1998,PG-13,Jeremiah S. Chechik,Ralph Fiennes,Uma Thurman,Sean Connery,Patrick Macnee,89,"Action, Adventure, Sci-Fi            ",12,3.8,"44,117",$23.32M
+660,One True Thing,1998,R,Carl Franklin,Meryl Streep,Renée Zellweger,William Hurt,Tom Everett Scott,127,Drama            ,63,6.9,"12,247",$23.25M
+661,Benny & Joon,1993,PG,Jeremiah S. Chechik,Johnny Depp,Mary Stuart Masterson,Aidan Quinn,Julianne Moore,98,"Comedy, Drama, Romance            ",57,7.1,"59,140",$23.20M
+662,The Iron Giant,1999,PG,Brad Bird,Eli Marienthal,Harry Connick Jr.,Jennifer Aniston,Vin Diesel,86,"Animation, Action, Adventure            ",85,8.1,"198,847",$23.16M
+663,The Players Club,1998,R,Ice Cube,LisaRaye McCoy,Dick Anthony Williams,Judyann Elder,Chrystale Wilson,104,"Comedy, Drama            ",none,5.8,"6,956",$23.03M
+664,The Program,1993,R,David S. Ward,James Caan,Halle Berry,Omar Epps,Craig Sheffer,112,"Action, Drama, Romance            ",51,6.4,"10,847",$23.00M
+665,The Russia House,1990,R,Fred Schepisi,Sean Connery,Michelle Pfeiffer,Roy Scheider,James Fox,123,"Drama, Romance, Thriller            ",67,6.1,"16,363",$23.00M
+666,The Remains of the Day,1993,PG,James Ivory,Anthony Hopkins,Emma Thompson,John Haycraft,Christopher Reeve,134,"Drama, Romance            ",86,7.8,"75,286",$22.95M
+667,D3: The Mighty Ducks,1996,PG,Robert Lieberman,Emilio Estevez,Jeffrey Nordling,David Selby,Heidi Kling,104,"Action, Comedy, Drama            ",none,5.4,"27,328",$22.94M
+668,Rounders,1998,R,John Dahl,Matt Damon,Edward Norton,Gretchen Mol,John Malkovich,121,"Crime, Drama            ",54,7.3,"152,386",$22.91M
+669,Guilty as Sin,1993,R,Sidney Lumet,Rebecca De Mornay,Don Johnson,Stephen Lang,Jack Warden,107,"Crime, Drama, Thriller            ",none,5.6,"5,535",$22.89M
+670,Being John Malkovich,1999,R,Spike Jonze,John Cusack,Cameron Diaz,Catherine Keener,John Malkovich,113,"Comedy, Drama, Fantasy            ",90,7.8,"336,865",$22.86M
+671,Beloved,1998,R,Jonathan Demme,Oprah Winfrey,Danny Glover,Yada Beener,Emil Pinnock,172,"Drama, History, Horror            ",57,6.0,"9,153",$22.85M
+672,Frankie and Johnny,1991,R,Garry Marshall,Al Pacino,Michelle Pfeiffer,Hector Elizondo,Nathan Lane,118,"Comedy, Drama, Romance            ",66,6.7,"32,219",$22.77M
+673,The Juror,1996,R,Brian Gibson,Demi Moore,Alec Baldwin,Joseph Gordon-Levitt,James Gandolfini,118,"Crime, Drama, Thriller            ",none,5.7,"19,097",$22.75M
+674,Rudy,1993,PG,David Anspaugh,Sean Astin,Jon Favreau,Ned Beatty,Greta Lind,114,"Biography, Drama, Sport            ",71,7.5,"64,463",$22.75M
+675,Quest for Camelot,1998,G,Frederik Du Chau,Jessalyn Gilsig,Cary Elwes,Andrea Corr,Bryan White,86,"Animation, Adventure, Comedy            ",50,6.2,"16,868",$22.72M
+676,Thunderheart,1992,R,Michael Apted,Val Kilmer,Sam Shepard,Graham Greene,Fred Ward,119,"Crime, Mystery, Thriller            ",58,6.8,"16,287",$22.66M
+677,Pure Luck,1991,PG,Nadia Tass,Martin Short,Danny Glover,Sheila Kelley,Sam Wanamaker,96,"Comedy, Crime, Mystery            ",36,5.8,"7,275",$22.64M
+678,Much Ado About Nothing,1993,PG-13,Kenneth Branagh,Kenneth Branagh,Emma Thompson,Keanu Reeves,Kate Beckinsale,111,"Comedy, Drama, Romance            ",80,7.3,"48,926",$22.55M
+679,Captain Ron,1992,PG-13,Thom Eberhardt,Kurt Russell,Martin Short,Mary Kay Place,Benjamin Salisbury,100,"Adventure, Comedy            ",39,5.8,"21,782",$22.52M
+680,Magnolia,1999,R,Paul Thomas Anderson,Tom Cruise,Jason Robards,Julianne Moore,Philip Seymour Hoffman,188,Drama            ,77,8.0,"313,685",$22.46M
+681,The First Power,1990,R,Robert Resnikoff,Lou Diamond Phillips,Tracy Griffith,Jeff Kober,Mykelti Williamson,98,"Crime, Horror, Thriller            ",35,5.7,"4,373",$22.42M
+682,Red Corner,1997,R,Jon Avnet,Richard Gere,Bai Ling,Bradley Whitford,Byron Mann,122,"Crime, Drama, Thriller            ",none,6.3,"17,520",$22.42M
+683,At First Sight,1999,PG-13,Irwin Winkler,Val Kilmer,Mira Sorvino,Kelly McGillis,Steven Weber,128,"Drama, Romance            ",40,5.9,"13,873",$22.37M
+684,Edtv,1999,PG-13,Ron Howard,Matthew McConaughey,Jenna Elfman,Geoffrey Blake,Gail Boggs,122,"Comedy, Drama            ",48,6.1,"43,755",$22.36M
+685,The Borrowers,1997,PG,Peter Hewitt,John Goodman,Jim Broadbent,Mark Williams,Celia Imrie,89,"Adventure, Comedy, Family            ",none,5.9,"22,607",$22.36M
+686,Blue Chips,1994,PG-13,William Friedkin,Nick Nolte,Mary McDonnell,J.T. Walsh,Ed O'Neill,108,"Drama, Sport            ",54,6.2,"14,095",$22.36M
+687,My Fellow Americans,1996,PG-13,Peter Segal,Jack Lemmon,James Garner,Dan Aykroyd,John Heard,101,"Adventure, Comedy            ",49,6.5,"15,216",$22.29M
+688,Emma,1996,PG,Douglas McGrath,Gwyneth Paltrow,James Cosmo,Greta Scacchi,Alan Cumming,120,"Comedy, Drama, Romance            ",66,6.6,"39,618",$22.20M
+689,Nowhere to Run,1993,R,Robert Harmon,Jean-Claude Van Damme,Rosanna Arquette,Kieran Culkin,Ted Levine,94,"Action, Drama, Romance            ",41,5.7,"24,728",$22.19M
+690,An American Tail: Fievel Goes West,1991,G,Phil Nibbelink,Simon Wells,James Stewart,John Cleese,Amy Irving,75,"Animation, Adventure, Family            ",none,6.4,"26,707",$22.17M
+691,Don Juan DeMarco,1994,PG-13,Jeremy Leven,Johnny Depp,Marlon Brando,Faye Dunaway,Géraldine Pailhas,97,"Comedy, Drama, Romance            ",63,6.7,"51,457",$22.15M
+692,Frankenstein,1994,R,Kenneth Branagh,Robert De Niro,Kenneth Branagh,Helena Bonham Carter,Tom Hulce,123,"Drama, Horror, Romance            ",49,6.3,"56,085",$22.01M
+693,The Postman,1994,PG,Michael Radford,Massimo Troisi,Massimo Troisi,Philippe Noiret,Maria Grazia Cucinotta,108,"Biography, Comedy, Drama            ",81,7.7,"36,886",$21.85M
+694,Only the Lonely,1991,PG-13,Chris Columbus,John Candy,Maureen O'Hara,Ally Sheedy,Kevin Dunn,104,"Comedy, Romance            ",47,6.3,"11,527",$21.83M
+695,Ricochet,1991,R,Russell Mulcahy,Denzel Washington,John Lithgow,Ice-T,Kevin Pollak,102,"Action, Crime, Drama            ",49,6.1,"18,695",$21.76M
+696,Shining Through,1992,R,David Seltzer,Michael Douglas,Melanie Griffith,Liam Neeson,Joely Richardson,132,"Drama, Romance, Thriller            ",none,6.4,"10,168",$21.73M
+697,The Bachelor,1999,PG-13,Gary Sinyor,Chris O'Donnell,Renée Zellweger,Artie Lange,Edward Asner,101,"Comedy, Romance            ",31,5.0,"18,542",$21.73M
+698,The Player,1992,R,Robert Altman,Tim Robbins,Greta Scacchi,Fred Ward,Whoopi Goldberg,124,"Comedy, Crime, Drama            ",86,7.5,"61,414",$21.71M
+699,Like Water for Chocolate,1992,R,Alfonso Arau,Marco Leonardi,Lumi Cavazos,Regina Torné,Mario Iván Martínez,105,"Drama, Romance            ",86,7.1,"18,101",$21.67M
+700,The Rookie,1990,R,Clint Eastwood,Clint Eastwood,Charlie Sheen,Raul Julia,Sonia Braga,120,"Action, Crime, Drama            ",41,5.9,"27,731",$21.63M
+701,The Quest,1996,PG-13,Jean-Claude Van Damme,Jean-Claude Van Damme,Roger Moore,James Remar,Janet Gunn,95,"Action, Adventure, Drama            ",none,5.6,"26,507",$21.60M
+702,Consenting Adults,1992,R,Alan J. Pakula,Kevin Kline,Mary Elizabeth Mastrantonio,Kevin Spacey,Rebecca Miller,99,"Crime, Drama, Mystery            ",39,5.7,"7,888",$21.59M
+703,He Got Game,1998,R,Spike Lee,Denzel Washington,Milla Jovovich,Ray Allen,Rosario Dawson,136,"Drama, Sport            ",64,6.9,"48,657",$21.55M
+704,The Freshman,1990,PG,Andrew Bergman,Marlon Brando,Matthew Broderick,Bruno Kirby,Penelope Ann Miller,102,"Comedy, Crime            ",78,6.4,"20,842",$21.46M
+705,Psycho,1998,R,Gus Van Sant,Vince Vaughn,Anne Heche,Julianne Moore,Viggo Mortensen,105,"Horror, Mystery, Thriller            ",47,4.6,"48,894",$21.46M
+706,Toys,1992,PG-13,Barry Levinson,Robin Williams,Michael Gambon,Joan Cusack,Robin Wright,118,"Adventure, Comedy, Drama            ",40,5.1,"32,321",$21.45M
+707,The Adventures of Ford Fairlane,1990,R,Renny Harlin,Andrew Dice Clay,Lauren Holly,Wayne Newton,Priscilla Presley,104,"Action, Adventure, Comedy            ",24,6.4,"18,412",$21.41M
+708,Quigley Down Under,1990,PG-13,Simon Wincer,Tom Selleck,Laura San Giacomo,Alan Rickman,Chris Haywood,119,"Action, Adventure, Drama            ",51,6.9,"22,653",$21.41M
+709,A Very Brady Sequel,1996,PG-13,Arlene Sanford,Shelley Long,Gary Cole,Tim Matheson,Christopher Daniel Barnes,90,Comedy            ,56,5.8,"11,134",$21.40M
+710,Mr. Magoo,1997,PG,Stanley Tong,Leslie Nielsen,Kelly Lynch,Matt Keeslar,Nick Chinlund,87,"Adventure, Comedy, Family            ",18,4.0,"15,456",$21.38M
+711,Raising Cain,1992,R,Brian De Palma,John Lithgow,Lolita Davidovich,Steven Bauer,Frances Sternhagen,92,"Crime, Drama, Horror            ",42,6.0,"16,355",$21.37M
+712,To Die For,1995,R,Gus Van Sant,Nicole Kidman,Matt Dillon,Joaquin Phoenix,Casey Affleck,106,"Comedy, Crime, Drama            ",86,6.8,"48,907",$21.28M
+713,Coneheads,1993,PG,Steve Barron,Dan Aykroyd,Jane Curtin,Robert Knott,Jonathan Penner,88,"Comedy, Sci-Fi            ",49,5.4,"55,007",$21.27M
+714,Straight Talk,1992,PG,Barnet Kellman,Dolly Parton,James Woods,Griffin Dunne,Michael Madsen,91,"Comedy, Drama, Romance            ",none,5.7,"3,788",$21.20M
+715,Bulletproof,1996,R,Ernest R. Dickerson,Damon Wayans,Adam Sandler,James Caan,Jeep Swenson,84,"Action, Comedy, Crime            ",30,5.8,"38,710",$21.16M
+716,Kuffs,1992,PG-13,Bruce A. Evans,Christian Slater,Milla Jovovich,Ric Roman Waugh,Steve Holladay,102,"Action, Comedy, Crime            ",none,5.9,"11,027",$21.14M
+717,Stir of Echoes,1999,R,David Koepp,Kevin Bacon,Zachary David Cope,Kathryn Erbe,Illeana Douglas,99,"Horror, Mystery, Thriller            ",67,6.9,"82,548",$21.13M
+718,Tales from the Crypt: Demon Knight,1995,R,Ernest R. Dickerson,Billy Zane,William Sadler,Jada Pinkett Smith,Brenda Bakke,92,"Action, Fantasy, Horror            ",48,6.7,"24,464",$21.09M
+719,F/X2,1991,PG-13,Richard Franklin,Bryan Brown,Brian Dennehy,Rachel Ticotin,Joanna Gleason,108,"Action, Thriller            ",48,5.8,"11,116",$21.08M
+720,Madhouse,1990,PG-13,Tom Ropelewski,Richard Alexander,Kirstie Alley,John Larroquette,Alison La Placa,90,Comedy            ,30,5.4,"3,338",$21.04M
+721,The Air Up There,1994,PG,Paul Michael Glaser,Kevin Bacon,Charles Gitonga Maina,Yolanda Vazquez,Winston Ntshona,107,"Comedy, Family, Sport            ",none,5.5,"9,147",$21.01M
+722,Iron Will,1994,PG,Charles Haid,Mackenzie Astin,Kevin Spacey,David Ogden Stiers,August Schellenberg,108,"Adventure, Family            ",56,6.6,"8,782",$21.01M
+723,Reality Bites,1994,PG-13,Ben Stiller,Winona Ryder,Ethan Hawke,Janeane Garofalo,Steve Zahn,99,"Comedy, Drama, Romance            ",67,6.6,"50,598",$20.98M
+724,High School High,1996,PG-13,Hart Bochner,Jon Lovitz,Tia Carrere,Louise Fletcher,Mekhi Phifer,86,"Comedy, Crime, Romance            ",33,5.5,"13,611",$20.95M
+725,Intersection,1994,R,Mark Rydell,Richard Gere,Sharon Stone,Lolita Davidovich,Martin Landau,98,"Drama, Romance            ",none,5.3,"8,594",$20.93M
+726,Super Mario Bros.,1993,PG,Annabel Jankel,Rocky Morton,Bob Hoskins,John Leguizamo,Dennis Hopper,104,"Adventure, Comedy, Family            ",35,4.1,"55,440",$20.92M
+727,Mr. Baseball,1992,PG-13,Fred Schepisi,Tom Selleck,Ken Takakura,Aya Takanashi,Dennis Haysbert,108,"Comedy, Romance, Sport            ",none,6.0,"11,658",$20.88M
+728,Jason's Lyric,1994,R,Doug McHenry,Allen Payne,Jada Pinkett Smith,Bokeem Woodbine,Anthony 'Treach' Criss,119,"Crime, Drama, Romance            ",none,6.6,"4,310",$20.85M
+729,Fear,1996,R,James Foley,Mark Wahlberg,Reese Witherspoon,William Petersen,Amy Brenneman,97,"Drama, Thriller            ",51,6.2,"49,376",$20.75M
+730,The Apostle,1997,PG-13,Robert Duvall,Robert Duvall,Todd Allen,Paul Bagget,Lenore Banks,134,Drama            ,83,7.2,"14,324",$20.73M
+731,Hamlet,1990,PG,Franco Zeffirelli,Mel Gibson,Glenn Close,Alan Bates,Paul Scofield,135,Drama            ,53,6.7,"22,701",$20.71M
+732,Speechless,1994,PG-13,Ron Underwood,Michael Keaton,Geena Davis,Christopher Reeve,Bonnie Bedelia,99,"Comedy, Romance            ",none,5.8,"5,245",$20.66M
+733,Chain Reaction,1996,PG-13,Andrew Davis,Keanu Reeves,Morgan Freeman,Rachel Weisz,Fred Ward,107,"Action, Drama, Sci-Fi            ",43,5.6,"53,026",$20.55M
+734,Sudden Death,1995,R,Peter Hyams,Jean-Claude Van Damme,Powers Boothe,Raymond J. Barry,Whittni Wright,111,"Action, Crime, Thriller            ",none,5.8,"35,025",$20.35M
+735,Showgirls,1995,NC-17,Paul Verhoeven,Elizabeth Berkley,Kyle MacLachlan,Gina Gershon,Glenn Plummer,128,Drama            ,16,5.0,"68,974",$20.30M
+736,The Cowboy Way,1994,PG-13,Gregg Champion,Woody Harrelson,Kiefer Sutherland,Dylan McDermott,Ernie Hudson,102,"Action, Comedy, Crime            ",none,5.9,"8,509",$20.28M
+737,Mobsters,1991,R,Michael Karbelnikoff,Christian Slater,Patrick Dempsey,Rodney Eastman,Costas Mandylor,104,"Crime, Drama            ",none,5.9,"9,287",$20.25M
+738,Vampires,1998,R,John Carpenter,James Woods,Daniel Baldwin,Sheryl Lee,Thomas Ian Griffith,108,"Action, Horror, Thriller            ",42,6.1,"60,238",$20.24M
+739,Stella,1990,PG-13,John Erman,Bette Midler,John Goodman,Trini Alvarado,Stephen Collins,109,"Drama, Romance            ",45,6.1,"2,711",$20.24M
+740,Another Stakeout,1993,PG-13,John Badham,Richard Dreyfuss,Emilio Estevez,Rosie O'Donnell,Dennis Farina,108,"Comedy, Crime            ",53,5.6,"14,690",$20.21M
+741,City Hall,1996,R,Harold Becker,Al Pacino,John Cusack,Bridget Fonda,Danny Aiello,111,"Crime, Drama, Mystery            ",62,6.2,"21,056",$20.20M
+742,The People vs. Larry Flynt,1996,R,Milos Forman,Woody Harrelson,Courtney Love,Edward Norton,Brett Harrelson,130,"Biography, Drama            ",79,7.3,"95,837",$20.19M
+743,"Corrina, Corrina",1994,PG,Jessie Nelson,Ray Liotta,Whoopi Goldberg,Tina Majorino,Noreen Hennessey,115,"Comedy, Drama, Romance            ",none,6.6,"13,570",$20.16M
+744,Juice,1992,R,Ernest R. Dickerson,Omar Epps,Tupac Shakur,Jermaine Hopkins,Khalil Kain,95,"Action, Crime, Drama            ",60,7.0,"27,656",$20.15M
+745,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996,R,Paris Barclay,Shawn Wayans,Marlon Wayans,Keenen Ivory Wayans,Tracey Cherelle Jones,89,"Comedy, Crime            ",53,6.5,"56,362",$20.11M
+746,Multiplicity,1996,PG-13,Harold Ramis,Michael Keaton,Andie MacDowell,Zack Duhame,Katie Schlossberg,117,"Comedy, Romance, Sci-Fi            ",53,6.1,"33,402",$20.10M
+747,The Glimmer Man,1996,R,John Gray,Steven Seagal,Keenen Ivory Wayans,Bob Gunton,Brian Cox,91,"Action, Comedy, Crime            ",33,5.4,"20,376",$20.10M
+748,Fire in the Sky,1993,PG-13,Robert Lieberman,D.B. Sweeney,Robert Patrick,Craig Sheffer,Peter Berg,109,"Biography, Drama, Fantasy            ",42,6.5,"25,624",$20.10M
+749,Booty Call,1997,R,Jeff Pollack,Jamie Foxx,Tommy Davidson,Vivica A. Fox,Tamala Jones,79,"Comedy, Romance            ",54,5.4,"9,089",$20.06M
+750,Flipper,1996,PG,Alan Shapiro,Shelly Hatton,Paul Hogan,Elijah Wood,Jonathan Banks,95,"Adventure, Family            ",43,5.3,"11,174",$20.05M
+751,With Honors,1994,PG-13,Alek Keshishian,Joe Pesci,Brendan Fraser,Moira Kelly,Patrick Dempsey,101,"Comedy, Drama            ",none,6.7,"14,684",$20.04M
+752,Only You,1994,PG,Norman Jewison,Marisa Tomei,Robert Downey Jr.,Bonnie Hunt,Joaquim de Almeida,109,"Comedy, Romance            ",none,6.5,"23,055",$20.04M
+753,Prelude to a Kiss,1992,PG-13,Norman René,Meg Ryan,Alec Baldwin,Kathy Bates,Ned Beatty,105,"Comedy, Fantasy, Romance            ",none,5.6,"8,270",$20.01M
+754,Taking Care of Business,1990,R,Arthur Hiller,Jim Belushi,Charles Grodin,Anne De Salvo,Loryn Locklin,108,Comedy            ,42,6.4,"8,809",$20.01M
+755,Mafia!,1998,PG-13,Jim Abrahams,Jay Mohr,Christina Applegate,Lloyd Bridges,Billy Burke,87,"Comedy, Crime            ",none,5.5,"15,533",$19.88M
+756,Hard Rain,1998,R,Mikael Salomon,Morgan Freeman,Christian Slater,Randy Quaid,Minnie Driver,97,"Action, Crime, Drama            ",36,5.9,"35,789",$19.82M
+757,Vampire in Brooklyn,1995,R,Wes Craven,Eddie Murphy,Angela Bassett,Allen Payne,Kadeem Hardison,100,"Comedy, Fantasy, Horror            ",27,4.6,"23,872",$19.75M
+758,Betsy's Wedding,1990,R,Alan Alda,Alan Alda,Molly Ringwald,Joey Bishop,Madeline Kahn,94,"Comedy, Romance            ",52,5.6,"3,785",$19.74M
+759,Gone Fishin',1997,PG,Christopher Cain,Joe Pesci,Danny Glover,Rosanna Arquette,Lynn Whitfield,94,"Comedy, Crime            ",none,4.8,"10,159",$19.74M
+760,Color of Night,1994,R,Richard Rush,Bruce Willis,Jane March,Rubén Blades,Lesley Ann Warren,121,"Drama, Mystery, Romance            ",36,5.2,"24,448",$19.72M
+761,8 Seconds,1994,PG-13,John G. Avildsen,Luke Perry,Stephen Baldwin,James Rebhorn,Cameron Finley,105,"Biography, Drama, Sport            ",none,6.5,"5,347",$19.60M
+762,Hero,1992,PG-13,Stephen Frears,Dustin Hoffman,Geena Davis,Andy Garcia,Joan Cusack,119,"Comedy, Drama, Romance            ",61,6.5,"22,753",$19.51M
+763,Léon: The Professional,1994,R,Luc Besson,Jean Reno,Gary Oldman,Natalie Portman,Danny Aiello,110,"Action, Crime, Drama            ",64,8.5,"1,157,033",$19.50M
+764,It Takes Two,1995,PG,Andy Tennant,Kirstie Alley,Steve Guttenberg,Mary-Kate Olsen,Ashley Olsen,101,"Comedy, Family, Romance            ",45,5.9,"23,073",$19.47M
+765,Doug's 1st Movie,1999,G,Maurice Joyce,Thomas McHugh,Fred Newman,Chris Phillips,Constance Shulman,77,"Animation, Adventure, Comedy            ",none,4.9,"3,345",$19.42M
+766,Little Giants,1994,PG,Duwayne Dunham,Rick Moranis,Ed O'Neill,Shawna Waldron,Devon Sawa,107,"Comedy, Family, Sport            ",none,6.4,"29,150",$19.29M
+767,Summer of Sam,1999,R,Spike Lee,John Leguizamo,Adrien Brody,Mira Sorvino,Jennifer Esposito,142,"Crime, Drama, Romance            ",67,6.7,"39,166",$19.28M
+768,House Party 3,1994,R,Eric Meza,Christopher Reid,Christopher Martin,David Edwards,Angela Means,100,"Comedy, Music, Romance            ",none,4.6,"5,349",$19.28M
+769,House Party 2,1991,R,George Jackson,Doug McHenry,Christopher Reid,Christopher Martin,Martin Lawrence,94,"Comedy, Drama, Music            ",none,5.2,"6,695",$19.28M
+770,Species II,1998,R,Peter Medak,Natasha Henstridge,Michael Madsen,Marg Helgenberger,Mykelti Williamson,93,"Action, Horror, Sci-Fi            ",19,4.4,"29,752",$19.17M
+771,Mother,1996,PG-13,Albert Brooks,Albert Brooks,Debbie Reynolds,Paul Collins,Laura Weekes,104,"Comedy, Drama            ",76,6.9,"6,358",$19.12M
+772,Johnny Mnemonic,1995,R,Robert Longo,Keanu Reeves,Dolph Lundgren,Dina Meyer,Ice-T,96,"Action, Drama, Sci-Fi            ",36,5.6,"72,634",$19.08M
+773,Bed of Roses,1996,PG,Michael Goldenberg,Christian Slater,Mary Stuart Masterson,Pamela Adlon,Josh Brolin,87,"Drama, Romance            ",none,6.0,"8,430",$19.03M
+774,Mortal Thoughts,1991,R,Alan Rudolph,Demi Moore,Glenne Headly,Bruce Willis,John Pankow,103,"Mystery, Thriller            ",65,5.7,"9,107",$19.02M
+775,Sniper,1993,R,Luis Llosa,Tom Berenger,Billy Zane,J.T. Walsh,Aden Young,98,"Action, Thriller, War            ",45,6.1,"24,522",$18.99M
+776,The Replacement Killers,1998,R,Antoine Fuqua,Chow Yun-Fat,Mira Sorvino,Michael Rooker,Kenneth Tsang,87,"Action, Crime, Thriller            ",42,6.1,"29,280",$18.97M
+777,The Odd Couple II,1998,PG-13,Howard Deutch,Jack Lemmon,Walter Matthau,Richard Riehle,Jonathan Silverman,97,"Adventure, Comedy            ",none,6.4,"10,210",$18.91M
+778,Untamed Heart,1993,PG-13,Tony Bill,Christian Slater,Marisa Tomei,Rosie Perez,Kyle Secor,102,"Drama, Romance            ",59,6.8,"14,321",$18.90M
+779,Kazaam,1996,PG,Paul Michael Glaser,Shaquille O'Neal,Francis Capra,Ally Walker,James Acheson,93,"Comedy, Family, Fantasy            ",24,3.1,"24,637",$18.88M
+780,The Ninth Gate,1999,R,Roman Polanski,Johnny Depp,Frank Langella,Lena Olin,Emmanuelle Seigner,133,"Mystery, Thriller            ",44,6.7,"183,749",$18.66M
+781,Anywhere But Here,1999,PG-13,Wayne Wang,Susan Sarandon,Natalie Portman,Hart Bochner,Eileen Ryan,114,"Comedy, Drama            ",59,6.2,"18,116",$18.65M
+782,The Quick and the Dead,1995,R,Sam Raimi,Sharon Stone,Gene Hackman,Russell Crowe,Leonardo DiCaprio,108,"Action, Romance, Thriller            ",49,6.5,"95,391",$18.64M
+783,Geronimo: An American Legend,1993,PG-13,Walter Hill,Jason Patric,Gene Hackman,Robert Duvall,Wes Studi,115,"Drama, History, Western            ",58,6.5,"12,064",$18.64M
+784,Paradise,1991,PG-13,Mary Agnes Donoghue,Melanie Griffith,Don Johnson,Elijah Wood,Thora Birch,111,Drama            ,none,6.6,"2,966",$18.63M
+785,The Fan,1996,R,Tony Scott,Robert De Niro,Wesley Snipes,Ellen Barkin,John Leguizamo,116,"Action, Drama, Sport            ",32,5.9,"49,038",$18.57M
+786,An Ideal Husband,1999,PG-13,Oliver Parker,Rupert Everett,Julianne Moore,Peter Vaughan,Minnie Driver,97,"Comedy, Romance            ",67,6.8,"16,061",$18.54M
+787,Singles,1992,PG-13,Cameron Crowe,Bridget Fonda,Campbell Scott,Kyra Sedgwick,Sheila Kelley,99,"Comedy, Drama, Music            ",71,6.7,"30,687",$18.47M
+788,Getting Even with Dad,1994,PG,Howard Deutch,Macaulay Culkin,Ted Danson,Glenne Headly,Saul Rubinek,109,"Comedy, Crime, Family            ",31,4.8,"8,214",$18.44M
+789,Babe: Pig in the City,1998,PG,George Miller,Magda Szubanski,Elizabeth Daily,Mickey Rooney,James Cromwell,97,"Adventure, Comedy, Drama            ",68,5.8,"33,956",$18.32M
+790,That Darn Cat,1997,PG,Bob Spiers,Christina Ricci,Doug E. Doug,Dean Jones,George Dzundza,89,"Action, Comedy, Crime            ",36,4.6,"4,561",$18.30M
+791,Posse,1993,R,Mario Van Peebles,Mario Van Peebles,Stephen Baldwin,Charles Lane,Paul Bartel,111,Western            ,56,5.5,"4,625",$18.29M
+792,Sugar Hill,1993,R,Leon Ichaso,Wesley Snipes,Michael Wright,Khandi Alexander,DeVaughn Nixon,123,"Crime, Drama, Thriller            ",50,5.8,"4,611",$18.27M
+793,Simon Birch,1998,PG,Mark Steven Johnson,Ian Michael Smith,Joseph Mazzello,Ashley Judd,Oliver Platt,114,"Comedy, Drama, Family            ",39,6.8,"21,537",$18.25M
+794,Love Affair,1994,PG-13,Glenn Gordon Caron,Warren Beatty,Annette Bening,Katharine Hepburn,Garry Shandling,108,"Comedy, Drama, Romance            ",55,6.0,"4,835",$18.25M
+795,Milk Money,1994,PG-13,Richard Benjamin,Melanie Griffith,Ed Harris,Michael Patrick Carter,Malcolm McDowell,110,"Comedy, Romance            ",none,5.6,"12,430",$18.14M
+796,DuckTales the Movie: Treasure of the Lost Lamp,1990,G,Bob Hathcock,Alan Young,Christopher Lloyd,Terence McGovern,Russi Taylor,74,"Animation, Adventure, Comedy            ",none,6.8,"27,223",$18.12M
+797,New Nightmare,1994,R,Wes Craven,Heather Langenkamp,Robert Englund,Jf Davis,Miko Hughes,112,"Fantasy, Horror, Mystery            ",64,6.4,"59,654",$18.09M
+798,Used People,1992,PG-13,Beeban Kidron,Shirley MacLaine,Kathy Bates,Jessica Tandy,Marcello Mastroianni,115,"Comedy, Drama, Romance            ",none,6.1,"1,530",$17.96M
+799,CB4,1993,R,Tamra Davis,Chris Rock,Allen Payne,Deezer D,Chris Elliott,89,"Comedy, Music            ",49,6.2,"9,827",$17.95M
+800,Born Yesterday,1993,PG,Luis Mandoki,Melanie Griffith,John Goodman,Don Johnson,Edward Herrmann,100,"Comedy, Romance            ",none,5.2,"4,009",$17.95M
+801,The Crow: City of Angels,1996,R,Tim Pope,Vincent Perez,Mia Kirshner,Richard Brooks,Iggy Pop,84,"Action, Crime, Fantasy            ",none,4.6,"20,629",$17.88M
+802,For the Boys,1991,R,Mark Rydell,Bette Midler,James Caan,George Segal,Patrick O'Neal,138,"Comedy, Drama, Music            ",none,6.3,"5,847",$17.86M
+803,Sibling Rivalry,1990,PG-13,Carl Reiner,Kirstie Alley,Bill Pullman,Carrie Fisher,Jami Gertz,87,Comedy            ,none,5.3,"2,755",$17.85M
+804,Drive Me Crazy,1999,PG-13,John Schultz,Melissa Joan Hart,Adrian Grenier,Stephen Collins,Mark Metcalf,91,"Comedy, Drama, Romance            ",42,5.7,"20,031",$17.85M
+805,The Rage: Carrie 2,1999,R,Katt Shea,Robert Mandel,Emily Bergl,Jason London,Dylan Bruno,104,"Drama, Horror, Sci-Fi            ",42,4.7,"16,847",$17.76M
+806,The Big Green,1995,PG,Holly Goldberg Sloan,Steve Guttenberg,Olivia d'Abo,Jay O. Sanders,John Terry,100,"Comedy, Family, Sport            ",none,5.5,"10,351",$17.73M
+807,Heavyweights,1995,PG,Steven Brill,Tom McGowan,Aaron Schwartz,Ben Stiller,David Goldman,100,"Comedy, Drama, Family            ",42,6.6,"28,469",$17.69M
+808,The Postman,1997,R,Kevin Costner,Kevin Costner,Will Patton,Larenz Tate,Olivia Williams,177,"Action, Adventure, Drama            ",29,6.1,"74,634",$17.63M
+809,Last Man Standing,1996,R,Walter Hill,Bruce Willis,Bruce Dern,William Sanderson,Christopher Walken,101,"Action, Crime, Drama            ",44,6.4,"58,676",$17.60M
+810,The Babe,1992,PG,Arthur Hiller,John Goodman,Kelly McGillis,Trini Alvarado,Bruce Boxleitner,115,"Biography, Drama, Sport            ",none,5.9,"11,159",$17.53M
+811,Home for the Holidays,1995,PG-13,Jodie Foster,Holly Hunter,Anne Bancroft,Robert Downey Jr.,Charles Durning,103,"Comedy, Drama, Romance            ",56,6.5,"13,579",$17.52M
+812,The Big Lebowski,1998,R,Joel Coen,Ethan Coen,Jeff Bridges,John Goodman,Julianne Moore,117,"Comedy, Crime            ",71,8.1,"807,699",$17.50M
+813,White Palace,1990,R,Luis Mandoki,Susan Sarandon,James Spader,Jason Alexander,Kathy Bates,103,"Drama, Romance            ",66,6.5,"8,401",$17.49M
+814,Disturbing Behavior,1998,R,David Nutter,James Marsden,Katie Holmes,Nick Stahl,Tobias Mehler,84,"Horror, Mystery, Sci-Fi            ",none,5.6,"23,365",$17.41M
+815,Murder in the First,1995,R,Marc Rocco,Christian Slater,Kevin Bacon,Gary Oldman,Embeth Davidtz,122,"Drama, Thriller            ",none,7.3,"28,904",$17.38M
+816,The NeverEnding Story II: The Next Chapter,1990,PG,George Miller,Jonathan Brandis,Kenny Morrison,Clarissa Burt,John Wesley Shipp,89,"Adventure, Drama, Family            ",30,5.1,"26,382",$17.37M
+817,My Girl 2,1994,PG,Howard Zieff,Dan Aykroyd,Jamie Lee Curtis,Anna Chlumsky,Austin O'Brien,99,"Comedy, Drama, Family            ",none,5.3,"20,032",$17.36M
+818,Extreme Measures,1996,R,Michael Apted,Hugh Grant,Gene Hackman,Sarah Jessica Parker,David Morse,118,"Crime, Drama, Mystery            ",56,6.2,"19,824",$17.31M
+819,The Phantom,1996,PG,Simon Wincer,Billy Zane,Kristy Swanson,Treat Williams,Catherine Zeta-Jones,100,"Action, Adventure, Comedy            ",53,5.0,"34,392",$17.30M
+820,Half Baked,1998,R,Tamra Davis,Dave Chappelle,Guillermo Diaz,Jim Breuer,Harland Williams,82,"Comedy, Crime            ",16,6.6,"64,423",$17.28M
+821,A Bronx Tale,1993,R,Robert De Niro,Robert De Niro,Chazz Palminteri,Lillo Brancato,Francis Capra,121,"Crime, Drama            ",80,7.8,"143,268",$17.27M
+822,Hudson Hawk,1991,R,Michael Lehmann,Bruce Willis,Danny Aiello,Andie MacDowell,James Coburn,100,"Action, Adventure, Comedy            ",17,5.7,"57,097",$17.22M
+823,Miracle on 34th Street,1994,PG,Les Mayfield,Richard Attenborough,Elizabeth Perkins,Dylan McDermott,J.T. Walsh,114,"Drama, Family, Fantasy            ",none,6.6,"37,480",$17.19M
+824,Sidekicks,1992,PG,Aaron Norris,Chuck Norris,Beau Bridges,Jonathan Brandis,Mako,101,"Action, Adventure, Comedy            ",none,5.1,"9,029",$17.18M
+825,Freejack,1992,R,Geoff Murphy,Emilio Estevez,Mick Jagger,Rene Russo,Anthony Hopkins,110,"Action, Crime, Sci-Fi            ",34,5.4,"16,497",$17.13M
+826,Rushmore,1998,R,Wes Anderson,Jason Schwartzman,Bill Murray,Olivia Williams,Seymour Cassel,93,"Comedy, Drama, Romance            ",86,7.6,"186,632",$17.11M
+827,Diabolique,1996,R,Jeremiah S. Chechik,Sharon Stone,Isabelle Adjani,Chazz Palminteri,Kathy Bates,107,"Drama, Horror, Mystery            ",none,5.4,"14,621",$17.10M
+828,Fled,1996,R,Kevin Hooks,Laurence Fishburne,Stephen Baldwin,Will Patton,Robert John Burke,98,"Action, Adventure, Crime            ",none,5.4,"9,210",$17.10M
+829,Pet Sematary II,1992,R,Mary Lambert,Edward Furlong,Anthony Edwards,Clancy Brown,Jared Rushton,100,"Fantasy, Horror, Thriller            ",35,4.9,"21,815",$17.09M
+830,The Guardian,1990,R,William Friedkin,Jenny Seagrove,Dwier Brown,Carey Lowell,Brad Hall,92,"Drama, Fantasy, Horror            ",35,5.3,"5,845",$17.04M
+831,Jury Duty,1995,PG-13,John Fortenberry,Pauly Shore,Tia Carrere,Stanley Tucci,Brian Doyle-Murray,88,Comedy            ,none,4.2,"8,178",$17.01M
+832,Death Warrant,1990,R,Deran Sarafian,Jean-Claude Van Damme,Robert Guillaume,Cynthia Gibb,George Dickerson,89,"Action, Crime, Mystery            ",34,5.7,"19,183",$16.85M
+833,Go,1999,R,Doug Liman,Sarah Polley,Jay Mohr,Scott Wolf,Taye Diggs,102,"Comedy, Crime            ",72,7.2,"72,009",$16.84M
+834,Lightning Jack,1994,PG-13,Simon Wincer,Paul Hogan,Cuba Gooding Jr.,Beverly D'Angelo,Kamala Lopez,98,"Comedy, Western            ",none,5.5,"6,953",$16.82M
+835,Andre,1994,PG,George Miller,Tina Majorino,Keith Carradine,Chelsea Field,Shane Meier,94,"Adventure, Drama, Family            ",none,5.7,"6,934",$16.82M
+836,The Frighteners,1996,R,Peter Jackson,Michael J. Fox,Trini Alvarado,Peter Dobson,John Astin,110,"Comedy, Fantasy, Horror            ",52,7.1,"89,767",$16.76M
+837,Blink,1993,R,Michael Apted,Madeleine Stowe,Aidan Quinn,James Remar,Peter Friedman,106,"Crime, Drama, Mystery            ",none,6.2,"8,616",$16.70M
+838,Hellraiser: Bloodline,1996,R,Kevin Yagher,Bruce Ramsay,Valentina Vargas,Doug Bradley,Charlotte Chatton,85,"Horror, Sci-Fi            ",21,5.0,"22,573",$16.68M
+839,Baby's Day Out,1994,PG,Patrick Read Johnson,Lara Flynn Boyle,Joe Mantegna,Joe Pantoliano,Brian Haley,99,"Adventure, Comedy, Crime            ",none,6.1,"51,749",$16.67M
+840,Tremors,1990,PG-13,Ron Underwood,Kevin Bacon,Fred Ward,Finn Carter,Michael Gross,96,"Comedy, Horror            ",65,7.1,"139,866",$16.67M
+841,Bringing Out the Dead,1999,R,Martin Scorsese,Nicolas Cage,Patricia Arquette,John Goodman,Ving Rhames,121,"Drama, Thriller            ",70,6.8,"70,908",$16.64M
+842,Deep Cover,1992,R,Bill Duke,Laurence Fishburne,Jeff Goldblum,Lira Angel,René Assa,107,"Action, Crime, Thriller            ",67,6.9,"12,209",$16.64M
+843,True Crime,1999,R,Clint Eastwood,Clint Eastwood,Isaiah Washington,LisaGay Hamilton,James Woods,127,"Crime, Drama, Mystery            ",65,6.6,"36,375",$16.64M
+844,Muppets from Space,1999,G,Tim Hill,Dave Goelz,Steve Whitmire,Bill Barretta,Jerry Nelson,87,"Adventure, Comedy, Family            ",53,6.2,"19,772",$16.63M
+845,Buffy the Vampire Slayer,1992,PG-13,Fran Rubel Kuzui,Kristy Swanson,Donald Sutherland,Paul Reubens,Rutger Hauer,86,"Action, Comedy, Fantasy            ",48,5.6,"45,676",$16.62M
+846,Heart and Souls,1993,PG-13,Ron Underwood,Robert Downey Jr.,Charles Grodin,Alfre Woodard,Kyra Sedgwick,104,"Comedy, Drama, Fantasy            ",56,7.0,"17,802",$16.58M
+847,54,1998,R,Mark Christopher,Ryan Phillippe,Salma Hayek,Neve Campbell,Mike Myers,93,"Drama, Music            ",33,5.8,"33,490",$16.57M
+848,The War,1994,PG-13,Jon Avnet,Elijah Wood,Kevin Costner,Mare Winningham,Lexi Randall,126,Drama            ,none,6.7,"12,995",$16.55M
+849,Trainspotting,1996,R,Danny Boyle,Ewan McGregor,Ewen Bremner,Jonny Lee Miller,Kevin McKidd,93,Drama            ,83,8.1,"687,016",$16.50M
+850,Terminal Velocity,1994,PG-13,Deran Sarafian,Charlie Sheen,Nastassja Kinski,James Gandolfini,Christopher McDonald,102,"Action, Mystery, Romance            ",none,5.5,"14,049",$16.48M
+851,Eye of the Beholder,1999,R,Stephan Elliott,Ewan McGregor,Ashley Judd,Patrick Bergin,Geneviève Bujold,109,"Drama, Mystery, Thriller            ",29,5.0,"15,523",$16.46M
+852,Defending Your Life,1991,PG,Albert Brooks,Albert Brooks,Meryl Streep,Rip Torn,Michael Durrell,112,"Comedy, Drama, Fantasy            ",63,7.2,"19,376",$16.37M
+853,Monkey Trouble,1994,PG,Franco Amurri,Thora Birch,Harvey Keitel,Finster,Mimi Rogers,96,"Adventure, Comedy, Crime            ",none,5.3,"6,896",$16.34M
+854,That Old Feeling,1997,PG-13,Carl Reiner,Bette Midler,Dennis Farina,Paula Marshall,Gail O'Grady,105,"Comedy, Romance            ",none,6.1,"3,909",$16.33M
+855,Tales from the Darkside: The Movie,1990,R,John Harrison,Debbie Harry,Matthew Lawrence,Christian Slater,David Forrester,93,"Comedy, Fantasy, Horror            ",54,6.2,"17,866",$16.32M
+856,A Simple Plan,1998,R,Sam Raimi,Bill Paxton,Billy Bob Thornton,Bridget Fonda,Brent Briscoe,121,"Crime, Drama, Thriller            ",82,7.5,"71,131",$16.31M
+857,Supercop,1992,R,Stanley Tong,Jackie Chan,Michelle Yeoh,Maggie Cheung,Kenneth Tsang,91,"Action, Comedy, Crime            ",none,6.9,"22,030",$16.27M
+858,Men at Work,1990,PG-13,Emilio Estevez,Charlie Sheen,Emilio Estevez,Leslie Hope,Keith David,98,"Action, Comedy, Crime            ",34,5.9,"25,205",$16.25M
+859,Fire Down Below,1997,R,Félix Enríquez Alcalá,Steven Seagal,Kris Kristofferson,Marg Helgenberger,Stephen Lang,105,"Action, Drama, Thriller            ",40,5.1,"18,215",$16.23M
+860,I Love You to Death,1990,R,Lawrence Kasdan,Kevin Kline,Tracey Ullman,William Hurt,Joan Plowright,97,"Comedy, Crime            ",45,6.4,"14,763",$16.19M
+861,Mo' Better Blues,1990,R,Spike Lee,Denzel Washington,Spike Lee,Wesley Snipes,Giancarlo Esposito,130,"Drama, Music, Romance            ",61,6.6,"12,791",$16.15M
+862,The Prophecy,1995,R,Gregory Widen,Christopher Walken,Elias Koteas,Virginia Madsen,Eric Stoltz,98,"Action, Crime, Drama            ",44,6.4,"31,662",$16.12M
+863,The Getaway,1994,R,Roger Donaldson,Alec Baldwin,Kim Basinger,Michael Madsen,James Woods,115,"Action, Adventure, Crime            ",51,5.8,"18,587",$16.10M
+864,A Midsummer Night's Dream,1999,PG-13,Michael Hoffman,Kevin Kline,Michelle Pfeiffer,Rupert Everett,Stanley Tucci,116,"Comedy, Fantasy, Romance            ",61,6.4,"25,853",$16.07M
+865,Above the Rim,1994,R,Jeff Pollack,Duane Martin,Tupac Shakur,Leon,David Bailey,96,"Crime, Drama, Sport            ",none,6.6,"15,986",$16.04M
+866,Devil in a Blue Dress,1995,R,Carl Franklin,Denzel Washington,Tom Sizemore,Jennifer Beals,Don Cheadle,102,"Crime, Drama, Mystery            ",78,6.7,"21,069",$16.03M
+867,Across the Sea of Time,1995,G,Stephen Low,Peter Reznick,John McDonough,Avi Hoffman,Victor Steinbach,51,"Adventure, Drama, Family            ",none,6.5,302,$15.98M
+868,Billy Bathgate,1991,R,Robert Benton,Dustin Hoffman,Nicole Kidman,Loren Dean,Bruce Willis,106,"Crime, Drama, Thriller            ",none,5.9,"12,224",$15.97M
+869,Jason Goes to Hell: The Final Friday,1993,R,Adam Marcus,John D. LeMay,Kari Keegan,Kane Hodder,Steven Williams,87,"Fantasy, Horror, Thriller            ",17,4.1,"33,440",$15.94M
+870,Dance with Me,1998,PG,Randa Haines,Vanessa Williams,Chayanne,Kris Kristofferson,Joan Plowright,126,"Drama, Music, Romance            ",none,5.9,"6,566",$15.81M
+871,Avalon,1990,PG,Barry Levinson,Aidan Quinn,Elizabeth Perkins,Leo Fuchs,Eve Gordon,128,Drama            ,68,7.2,"6,416",$15.74M
+872,Wishmaster,1997,R,Robert Kurtzman,Tammy Lauren,Andrew Divoff,Angus Scrimm,Ari Barak,90,"Fantasy, Horror            ",none,5.8,"23,755",$15.72M
+873,The Bonfire of the Vanities,1990,R,Brian De Palma,Tom Hanks,Bruce Willis,Melanie Griffith,Kim Cattrall,125,"Comedy, Drama, Romance            ",27,5.6,"25,333",$15.69M
+874,Revenge,1990,R,Tony Scott,Kevin Costner,Anthony Quinn,Madeleine Stowe,Tomas Milian,124,"Action, Crime, Drama            ",35,6.2,"19,198",$15.65M
+875,Highlander II: The Quickening,1991,R,Russell Mulcahy,Christopher Lambert,Sean Connery,Virginia Madsen,Michael Ironside,91,"Action, Adventure, Fantasy            ",31,4.2,"46,345",$15.56M
+876,Switch,1991,R,Blake Edwards,Ellen Barkin,Jimmy Smits,JoBeth Williams,Lorraine Bracco,103,"Comedy, Fantasy            ",48,5.8,"9,822",$15.55M
+877,The Thirteenth Floor,1999,R,Josef Rusnak,Craig Bierko,Gretchen Mol,Armin Mueller-Stahl,Vincent D'Onofrio,100,"Mystery, Sci-Fi, Thriller            ",36,7.0,"72,839",$15.50M
+878,Mad Love,1995,PG-13,Antonia Bird,Chris O'Donnell,Drew Barrymore,Matthew Lillard,Richard Chaim,93,"Comedy, Drama, Romance            ",none,5.3,"6,697",$15.45M
+879,RocketMan,1997,PG,Stuart Gillard,Harland Williams,Jessica Lundy,William Sadler,Jeffrey DeMunn,95,"Comedy, Family, Sci-Fi            ",none,5.8,"9,820",$15.45M
+880,Reversal of Fortune,1990,R,Barbet Schroeder,Jeremy Irons,Glenn Close,Ron Silver,Annabella Sciorra,111,"Biography, Drama, Mystery            ",93,7.2,"17,058",$15.45M
+881,A Kiss Before Dying,1991,R,James Dearden,Matt Dillon,Sean Young,James Bonfanti,Sarah Keller,94,"Crime, Drama, Mystery            ",40,5.7,"5,611",$15.43M
+882,Mr. Destiny,1990,PG-13,James Orr,Jim Belushi,Linda Hamilton,Michael Caine,Jon Lovitz,116,"Comedy, Fantasy, Romance            ",34,6.4,"12,621",$15.38M
+883,Spaced Invaders,1990,PG,Patrick Read Johnson,Douglas Barr,Royal Dano,Ariana Richards,J.J. Anderson,100,"Adventure, Comedy, Sci-Fi            ",38,5.3,"3,750",$15.37M
+884,No Escape,1994,R,Martin Campbell,Ray Liotta,Lance Henriksen,Stuart Wilson,Kevin Dillon,118,"Action, Drama, Sci-Fi            ",none,6.1,"20,822",$15.34M
+885,First Strike,1996,PG-13,Stanley Tong,Jackie Chan,Jackson Lou,Annie Wu,Bill Tung,107,"Action, Adventure, Comedy            ",none,6.6,"21,258",$15.32M
+886,Quick Change,1990,R,Howard Franklin,Bill Murray,Bill Murray,Geena Davis,Randy Quaid,89,"Comedy, Crime            ",56,6.8,"21,003",$15.26M
+887,Bad Girls,1994,R,Jonathan Kaplan,Madeleine Stowe,Mary Stuart Masterson,Andie MacDowell,Drew Barrymore,99,"Action, Adventure, Romance            ",none,5.2,"12,895",$15.24M
+888,The Madness of King George,1994,PG-13,Nicholas Hytner,Nigel Hawthorne,Helen Mirren,Rupert Graves,Amanda Donohoe,110,"Biography, Comedy, Drama            ",89,7.2,"17,061",$15.24M
+889,Needful Things,1993,R,Fraser C. Heston,Max von Sydow,Ed Harris,Bonnie Bedelia,Amanda Plummer,120,"Crime, Drama, Fantasy            ",43,6.2,"25,669",$15.19M
+890,Muriel's Wedding,1994,R,P.J. Hogan,Toni Collette,Rachel Griffiths,Bill Hunter,Sophie Lee,106,"Comedy, Drama            ",63,7.2,"39,536",$15.19M
+891,Thinner,1996,R,Tom Holland,Robert John Burke,Joe Mantegna,Lucinda Jenney,Bethany Joy Lenz,93,"Fantasy, Horror            ",33,5.8,"31,429",$15.17M
+892,Pure Country,1992,PG,Christopher Cain,George Strait,Lesley Ann Warren,Isabel Glasser,Kyle Chandler,112,"Drama, Music, Romance            ",none,7.1,"4,895",$15.16M
+893,The Corruptor,1999,R,James Foley,Chow Yun-Fat,Mark Wahlberg,Ric Young,Paul Ben-Victor,110,"Action, Crime, Thriller            ",56,6.0,"18,594",$15.16M
+894,Cyrano de Bergerac,1990,PG,Jean-Paul Rappeneau,Gérard Depardieu,Anne Brochet,Vincent Perez,Jacques Weber,137,"Comedy, Drama, History            ",79,7.5,"24,600",$15.14M
+895,Halloween: The Curse of Michael Myers,1995,R,Joe Chappelle,Donald Pleasence,Paul Rudd,Marianne Hagan,Mitchell Ryan,87,"Horror, Thriller            ",10,4.7,"38,602",$15.12M
+896,The Adventures of Pinocchio,1996,G,Steve Barron,Martin Landau,Jonathan Taylor Thomas,Geneviève Bujold,Udo Kier,96,"Adventure, Drama, Family            ",none,5.2,"5,978",$15.09M
+897,Toy Soldiers,1991,R,Daniel Petrie Jr.,Sean Astin,Wil Wheaton,Keith Coogan,Andrew Divoff,111,"Action, Drama, Thriller            ",46,6.6,"23,379",$15.07M
+898,Dead Man on Campus,1998,R,Alan Cohn,Tom Everett Scott,Mark-Paul Gosselaar,Poppy Montgomery,Lochlyn Munro,96,Comedy            ,27,6.0,"15,882",$15.06M
+899,Wings of Courage,1995,G,Jean-Jacques Annaud,Craig Sheffer,Elizabeth McGovern,Tom Hulce,Val Kilmer,40,"Adventure, Romance            ",none,6.4,708,$15.05M
+900,Twilight,1998,R,Robert Benton,Paul Newman,Susan Sarandon,Gene Hackman,Reese Witherspoon,94,"Crime, Drama, Mystery            ",none,6.2,"13,248",$15.03M
+901,Child's Play 3,1991,R,Jack Bender,Justin Whalin,Perrey Reeves,Jeremy Sylvers,Travis Fine,90,"Horror, Thriller            ",27,5.1,"42,451",$14.96M
+902,Kiss of Death,1995,R,Barbet Schroeder,David Caruso,Samuel L. Jackson,Nicolas Cage,Helen Hunt,101,"Crime, Drama, Thriller            ",72,5.9,"19,448",$14.94M
+903,The Commitments,1991,R,Alan Parker,Robert Arkins,Michael Aherne,Angeline Ball,Maria Doyle Kennedy,118,"Comedy, Drama, Music            ",73,7.6,"36,118",$14.92M
+904,Indian Summer,1993,PG-13,Mike Binder,Alan Arkin,Matt Craven,Diane Lane,Bill Paxton,97,"Comedy, Drama, Romance            ",51,6.5,"5,704",$14.90M
+905,Flirting with Disaster,1996,R,David O. Russell,Ben Stiller,Patricia Arquette,Téa Leoni,Mary Tyler Moore,92,Comedy            ,81,6.7,"19,091",$14.89M
+906,Election,1999,R,Alexander Payne,Matthew Broderick,Reese Witherspoon,Chris Klein,Jessica Campbell,103,"Comedy, Romance            ",83,7.3,"98,071",$14.88M
+907,Music of the Heart,1999,PG,Wes Craven,Meryl Streep,Cloris Leachman,Henry Dinhofer,Michael Angarano,124,"Drama, Music            ",54,6.8,"12,822",$14.86M
+908,Once Around,1991,R,Lasse Hallström,Richard Dreyfuss,Holly Hunter,Danny Aiello,Laura San Giacomo,115,"Comedy, Drama, Romance            ",none,6.5,"4,823",$14.85M
+909,Eve's Bayou,1997,R,Kasi Lemmons,Samuel L. Jackson,Jurnee Smollett,Meagan Good,Lynn Whitfield,108,Drama            ,78,7.2,"10,471",$14.82M
+910,Threesome,1994,R,Andrew Fleming,Lara Flynn Boyle,Josh Charles,Stephen Baldwin,Alexis Arquette,93,"Comedy, Drama, Romance            ",none,6.3,"13,253",$14.82M
+911,All I Want for Christmas,1991,G,Robert Lieberman,Harley Jane Kozak,Jamey Sheridan,Ethan Embry,Kevin Nealon,92,"Comedy, Family, Romance            ",none,5.9,"5,104",$14.81M
+912,Ladybugs,1992,PG-13,Sidney J. Furie,Rodney Dangerfield,Jackée Harry,Jonathan Brandis,Ilene Graff,90,"Comedy, Sport            ",36,5.4,"9,969",$14.80M
+913,Not Without My Daughter,1991,PG-13,Brian Gilbert,Sally Field,Alfred Molina,Sheila Rosenthal,Roshan Seth,116,"Drama, Thriller            ",57,6.4,"13,630",$14.79M
+914,Fire Birds,1990,PG-13,David Green,Nicolas Cage,Tommy Lee Jones,Sean Young,Bryan Kestner,85,"Action, Adventure            ",31,4.7,"6,691",$14.76M
+915,The Substitute,1996,R,Robert Mandel,Tom Berenger,Raymond Cruz,William Forsythe,Luis Guzmán,114,"Action, Crime, Drama            ",41,6.0,"14,256",$14.75M
+916,School Ties,1992,PG-13,Robert Mandel,Brendan Fraser,Matt Damon,Chris O'Donnell,Randall Batinkoff,106,Drama            ,65,6.9,"25,026",$14.72M
+917,The Sixth Man,1997,PG-13,Randall Miller,Marlon Wayans,Kadeem Hardison,David Paymer,Michael Michele,107,"Comedy, Drama, Fantasy            ",none,5.6,"6,019",$14.71M
+918,City of Joy,1992,PG-13,Roland Joffé,Patrick Swayze,Pauline Collins,Om Puri,Shabana Azmi,132,Drama            ,none,6.5,"5,289",$14.68M
+919,Iron Monkey,1993,PG-13,Woo-Ping Yuen,Rongguang Yu,Donnie Yen,Jean Wang,Sze-Man Tsang,85,"Action, Crime, Drama            ",79,7.5,"16,563",$14.68M
+920,Flight of the Intruder,1991,PG-13,John Milius,Danny Glover,Willem Dafoe,Brad Johnson,Rosanna Arquette,115,"Action, Drama, Thriller            ",none,5.7,"7,238",$14.59M
+921,Iron Monkey 2,1996,R,Lu-Chiang Chao,Lan Jing,Donnie Yen,Billy Chow,Wu Ma,92,Action            ,none,4.6,788,$14.57M
+922,Soldier,1998,R,Paul W.S. Anderson,Kurt Russell,Jason Scott Lee,Jason Isaacs,Connie Nielsen,99,"Action, Drama, Sci-Fi            ",none,6.0,"57,262",$14.57M
+923,Wild at Heart,1990,R,David Lynch,Nicolas Cage,Laura Dern,Willem Dafoe,J.E. Freeman,125,"Comedy, Crime, Drama            ",52,7.2,"94,301",$14.56M
+924,The Chamber,1996,R,James Foley,Chris O'Donnell,Gene Hackman,Faye Dunaway,Robert Prosky,113,"Crime, Drama, Thriller            ",45,6.0,"15,492",$14.55M
+925,The Vanishing,1993,R,George Sluizer,Jeff Bridges,Kiefer Sutherland,Nancy Travis,Sandra Bullock,109,"Drama, Horror, Mystery            ",49,6.3,"25,946",$14.54M
+926,Maximum Risk,1996,R,Ringo Lam,Jean-Claude Van Damme,Natasha Henstridge,Jean-Hugues Anglade,Zach Grenier,101,"Action, Thriller            ",none,5.5,"22,588",$14.50M
+927,In Love and War,1996,PG-13,Richard Attenborough,Sandra Bullock,Chris O'Donnell,Mackenzie Astin,Margot Steinberg,113,"Biography, Drama, Romance            ",none,5.9,"8,801",$14.48M
+928,Snow Falling on Cedars,1999,PG-13,Scott Hicks,Ethan Hawke,Max von Sydow,Yûki Kudô,Reeve Carney,127,"Drama, Mystery, Romance            ",44,6.7,"14,228",$14.38M
+929,Dark City,1998,R,Alex Proyas,Rufus Sewell,Kiefer Sutherland,Jennifer Connelly,William Hurt,100,"Fantasy, Mystery, Sci-Fi            ",66,7.6,"201,172",$14.38M
+930,Memoirs of an Invisible Man,1992,PG-13,John Carpenter,Chevy Chase,Daryl Hannah,Sam Neill,Michael McKean,99,"Comedy, Romance, Sci-Fi            ",48,6.0,"25,428",$14.36M
+931,Rapid Fire,1992,R,Dwight H. Little,Brandon Lee,Powers Boothe,Nick Mancuso,Raymond J. Barry,95,"Action, Crime, Drama            ",none,6.2,"9,742",$14.36M
+932,Tea with Mussolini,1999,PG,Franco Zeffirelli,Maggie Smith,Judi Dench,Joan Plowright,Cher,117,"Comedy, Drama, War            ",53,6.9,"13,560",$14.35M
+933,Excess Baggage,1997,PG-13,Marco Brambilla,Alicia Silverstone,Benicio Del Toro,Christopher Walken,Jack Thompson,101,"Action, Comedy, Crime            ",34,5.3,"13,568",$14.33M
+934,The Messenger: The Story of Joan of Arc,1999,R,Luc Besson,Milla Jovovich,John Malkovich,Rab Affleck,Stéphane Algoud,148,"Adventure, Biography, Drama            ",54,6.4,"67,176",$14.28M
+935,Ernest Scared Stupid,1991,PG,John R. Cherry III,Jim Varney,Eartha Kitt,Austin Nagler,Shay Astar,91,"Comedy, Family, Fantasy            ",38,5.7,"12,002",$14.14M
+936,Cool World,1992,PG-13,Ralph Bakshi,Gabriel Byrne,Kim Basinger,Janni Brenn,Brad Pitt,102,"Animation, Comedy, Fantasy            ",28,4.8,"23,510",$14.11M
+937,Les Misérables,1998,PG-13,Bille August,Liam Neeson,Geoffrey Rush,Uma Thurman,Christopher Adamson,134,"Crime, Drama, Romance            ",65,7.4,"41,466",$14.10M
+938,The Perfect Weapon,1991,R,Mark DiSalle,Jeff Speakman,John Dye,Mako,James Hong,83,"Action, Crime, Drama            ",35,5.9,"4,496",$14.06M
+939,The Arrival,1996,PG-13,David Twohy,Charlie Sheen,Lindsay Crouse,Richard Schiff,Shane,115,"Mystery, Sci-Fi, Thriller            ",56,6.2,"35,836",$14.05M
+940,FairyTale: A True Story,1997,PG,Charles Sturridge,Paul McGann,Florence Hoath,Elizabeth Earl,Harvey Keitel,99,"Drama, Family, Fantasy            ",none,6.5,"6,064",$14.04M
+941,Virus,1999,R,John Bruno,Jamie Lee Curtis,Donald Sutherland,William Baldwin,Joanna Pacula,99,"Action, Horror, Sci-Fi            ",19,5.0,"28,508",$14.01M
+942,In Too Deep,1999,R,Michael Rymer,Lloyd Adams,Philip Akin,Anna Carolina Arias,Karina Arroyave,95,"Crime, Drama, Thriller            ",53,6.2,"6,725",$14.00M
+943,Lord of the Flies,1990,R,Harry Hook,Balthazar Getty,Chris Furrh,Danuel Pipoly,James Badge Dale,90,"Adventure, Drama, Thriller            ",49,6.4,"31,265",$13.99M
+944,Blues Brothers 2000,1998,PG-13,John Landis,Dan Aykroyd,John Goodman,Walter Levine,Tom Davis,123,"Action, Comedy, Crime            ",none,4.9,"33,627",$13.98M
+945,How to Be a Player,1997,R,Lionel C. Martin,Bill Bellamy,Natalie Desselle Reid,Lark Voorhies,Mari Morrow,93,Comedy            ,none,5.3,"9,034",$13.96M
+946,Candyman: Farewell to the Flesh,1995,R,Bill Condon,Tony Todd,Kelly Rowan,Caroline Barclay,Michael Bergeron,95,"Horror, Thriller            ",41,5.2,"13,449",$13.94M
+947,Highlander: The Final Dimension,1994,PG-13,Andrew Morahan,Christopher Lambert,Mario Van Peebles,Deborah Kara Unger,Mako,99,"Action, Fantasy, Romance            ",28,4.4,"21,253",$13.83M
+948,Desperate Measures,1998,R,Barbet Schroeder,Michael Keaton,Andy Garcia,Brian Cox,Marcia Gay Harden,100,"Action, Crime, Drama            ",none,6.1,"17,054",$13.81M
+949,The Man Who Knew Too Little,1997,PG,Jon Amiel,Bill Murray,Joanne Whalley,Peter Gallagher,Richard Wilson,94,"Comedy, Crime, Drama            ",none,6.6,"32,925",$13.80M
+950,Trespass,1992,R,Walter Hill,Bill Paxton,Ice-T,William Sadler,Ice Cube,101,"Action, Thriller            ",54,6.3,"13,081",$13.75M
+951,The Wings of the Dove,1997,R,Iain Softley,Helena Bonham Carter,Linus Roache,Alex Jennings,Charlotte Rampling,102,"Drama, Romance            ",73,7.1,"12,532",$13.72M
+952,The Pagemaster,1994,G,Pixote Hunt,Joe Johnston,Macaulay Culkin,Christopher Lloyd,Kanin Howell,80,"Animation, Adventure, Comedy            ",none,6.1,"23,949",$13.67M
+953,Crooklyn,1994,PG-13,Spike Lee,Alfre Woodard,Delroy Lindo,David Patrick Kelly,Zelda Harris,115,"Comedy, Drama            ",65,7.0,"10,628",$13.64M
+954,The Crush,1993,R,Alan Shapiro,Cary Elwes,Alicia Silverstone,Jennifer Rubin,Kurtwood Smith,89,"Drama, Thriller            ",34,5.8,"20,666",$13.61M
+955,Nixon,1995,R,Oliver Stone,Anthony Hopkins,Joan Allen,Powers Boothe,Ed Harris,192,"Biography, Drama, History            ",66,7.1,"31,363",$13.56M
+956,Trial and Error,1997,PG-13,Jonathan Lynn,Michael Richards,Jeff Daniels,Charlize Theron,Jessica Steen,98,"Comedy, Romance            ",none,5.8,"7,603",$13.55M
+957,Hush,1998,PG-13,Jonathan Darby,Jessica Lange,Gwyneth Paltrow,Johnathon Schaech,Nina Foch,96,"Drama, Thriller            ",18,5.4,"12,465",$13.51M
+958,The Grifters,1990,R,Stephen Frears,Anjelica Huston,John Cusack,Annette Bening,Jan Munroe,110,"Crime, Drama, Thriller            ",86,6.9,"28,466",$13.45M
+959,Secrets & Lies,1996,R,Mike Leigh,Timothy Spall,Brenda Blethyn,Phyllis Logan,Claire Rushbrook,136,"Comedy, Drama            ",91,8.0,"43,874",$13.42M
+960,A Kid in King Arthur's Court,1995,PG,Michael Gottlieb,Thomas Ian Nicholas,Joss Ackland,Art Malik,Paloma Baeza,89,"Adventure, Comedy, Family            ",34,4.7,"6,359",$13.41M
+961,Bullets Over Broadway,1994,R,Woody Allen,John Cusack,Dianne Wiest,Jennifer Tilly,Chazz Palminteri,98,"Comedy, Crime            ",none,7.4,"39,442",$13.38M
+962,The Deep End of the Ocean,1999,PG-13,Ulu Grosbard,Michelle Pfeiffer,Treat Williams,Whoopi Goldberg,Jonathan Jackson,106,Drama            ,45,6.3,"15,495",$13.38M
+963,Mr. Saturday Night,1992,R,Billy Crystal,Billy Crystal,David Paymer,Julie Warner,Helen Hunt,119,"Comedy, Drama            ",none,5.9,"6,116",$13.35M
+964,Lord of Illusions,1995,R,Clive Barker,Scott Bakula,Kevin J. O'Connor,J. Trevor Edmond,Daniel von Bargen,109,"Horror, Mystery, Thriller            ",none,6.0,"18,088",$13.29M
+965,Body of Evidence,1992,R,Uli Edel,Madonna,Willem Dafoe,Joe Mantegna,Anne Archer,99,"Drama, Thriller            ",29,4.5,"15,437",$13.28M
+966,Class Act,1992,PG-13,Randall Miller,Christopher Reid,Christopher Martin,Andre Rosey Brown,Meshach Taylor,98,Comedy            ,49,6.0,"7,729",$13.27M
+967,Lone Star,1996,R,John Sayles,Chris Cooper,Elizabeth Peña,Stephen Mendillo,Stephen J. Lang,135,"Drama, Mystery, Western            ",78,7.4,"30,175",$13.27M
+968,The Mod Squad,1999,R,Scott Silver,Claire Danes,Omar Epps,Giovanni Ribisi,Dennis Farina,92,"Action, Crime, Thriller            ",16,4.3,"9,204",$13.26M
+969,Crazy People,1990,R,Tony Bill,Barry L. Young,Dudley Moore,Daryl Hannah,Paul Reiser,90,"Comedy, Drama            ",42,6.0,"4,693",$13.24M
+970,Enchanted April,1991,PG,Mike Newell,Alfred Molina,Joan Plowright,Miranda Richardson,Polly Walker,95,Drama            ,78,7.3,"6,769",$13.20M
+971,Greedy,1994,PG-13,Jonathan Lynn,Michael J. Fox,Kirk Douglas,Nancy Travis,Olivia d'Abo,113,Comedy            ,none,6.3,"15,323",$13.15M
+972,Rosewood,1997,R,John Singleton,Jon Voight,Ving Rhames,Don Cheadle,Bruce McGill,140,"Action, Drama, History            ",71,7.2,"8,337",$13.10M
+973,American Me,1992,R,Edward James Olmos,Edward James Olmos,William Forsythe,Sal Lopez,Vira Montes,125,"Biography, Crime, Drama            ",66,7.1,"9,613",$13.09M
+974,Ghosts of Mississippi,1996,PG-13,Rob Reiner,Alec Baldwin,James Woods,Whoopi Goldberg,Virginia Madsen,130,"Drama, History            ",none,6.7,"11,365",$13.05M
+975,Clockers,1995,R,Spike Lee,Harvey Keitel,John Turturro,Delroy Lindo,Mekhi Phifer,128,"Crime, Drama, Mystery            ",71,6.9,"22,528",$13.04M
+976,Angela's Ashes,1999,R,Alan Parker,Emily Watson,Robert Carlyle,Joe Breen,Ciaran Owens,145,"Biography, Drama            ",54,7.3,"22,130",$13.04M
+977,Senseless,1998,R,Penelope Spheeris,Marlon Wayans,David Spade,Brad Dourif,Esther Scott,93,"Comedy, Romance            ",36,6.0,"16,796",$13.04M
+978,Man's Best Friend,1993,R,John Lafia,Ally Sheedy,Lance Henriksen,Robert Costanzo,Fredric Lehne,87,"Comedy, Horror, Sci-Fi            ",none,5.2,"4,525",$12.97M
+979,Living Out Loud,1998,R,Richard LaGravenese,Holly Hunter,Danny DeVito,Queen Latifah,Martin Donovan,100,"Comedy, Drama, Romance            ",64,6.6,"4,885",$12.90M
+980,A Far Off Place,1993,PG,Mikael Salomon,Reese Witherspoon,Ethan Embry,Jack Thompson,Sarel Bok,108,"Adventure, Drama, Family            ",none,6.5,"3,628",$12.89M
+981,Black Dog,1998,PG-13,Kevin Hooks,Patrick Swayze,Randy Travis,Meat Loaf,Gabriel Casseus,89,"Action, Crime, Drama            ",none,5.4,"9,424",$12.83M
+982,Marvin's Room,1996,PG-13,Jerry Zaks,Meryl Streep,Leonardo DiCaprio,Diane Keaton,Robert De Niro,98,Drama            ,68,6.7,"28,414",$12.78M
+983,The Associate,1996,PG-13,Donald Petrie,Whoopi Goldberg,Dianne Wiest,Eli Wallach,Tim Daly,114,Comedy            ,none,6.1,"8,573",$12.77M
+984,The Evening Star,1996,PG-13,Robert Harling,Shirley MacLaine,Bill Paxton,Juliette Lewis,Miranda Richardson,129,"Comedy, Drama, Romance            ",none,5.9,"4,731",$12.77M
+985,Weekend at Bernie's II,1993,PG,Robert Klane,Andrew McCarthy,Jonathan Silverman,Terry Kiser,Troy Byer,97,"Adventure, Comedy, Fantasy            ",16,4.8,"13,834",$12.74M
+986,Mr. Nice Guy,1997,PG-13,Sammo Kam-Bo Hung,Jackie Chan,Richard Norton,Miki Lee,Karen McLymont,88,"Action, Adventure, Comedy            ",none,6.2,"27,468",$12.67M
+987,The Spitfire Grill,1996,PG-13,Lee David Zlotoff,Alison Elliott,Ellen Burstyn,Marcia Gay Harden,Will Patton,117,Drama            ,none,7.0,"6,988",$12.64M
+988,Bad Influence,1990,R,Curtis Hanson,Rob Lowe,James Spader,Palmer Lee Todd,Rosalyn Landor,99,"Drama, Thriller            ",63,6.2,"9,967",$12.63M
+989,The Omega Code,1999,PG-13,Robert Marcarelli,Casper Van Dien,Michael York,Catherine Oxenberg,Michael Ironside,100,"Action, Adventure, Fantasy            ",14,3.5,"5,393",$12.61M
+990,Hellraiser III: Hell on Earth,1992,R,Anthony Hickox,Terry Farrell,Doug Bradley,Kevin Bernhardt,Lawrence Mortorff,97,Horror            ,50,5.5,"32,232",$12.53M
+991,Love Jones,1997,R,Theodore Witcher,Larenz Tate,Nia Long,Isaiah Washington,Lisa Nicole Carson,109,"Drama, Romance            ",65,7.3,"5,027",$12.51M
+992,Black Mask,1996,R,Daniel Lee,Jet Li,Ching Wan Lau,Karen Mok,Françoise Yip,99,"Action, Adventure, Comedy            ",none,6.0,"11,837",$12.49M
+993,The Marrying Man,1991,R,Jerry Rees,Kim Basinger,Alec Baldwin,Robert Loggia,Elisabeth Shue,115,"Comedy, Music, Romance            ",none,5.7,"5,833",$12.45M
+994,Life with Mikey,1993,PG,James Lapine,Michael J. Fox,Christina Vidal,Nathan Lane,Cyndi Lauper,91,"Comedy, Family            ",50,5.6,"6,138",$12.44M
+995,Undercover Blues,1993,PG-13,Herbert Ross,Kathleen Turner,Dennis Quaid,Fiona Shaw,Stanley Tucci,90,"Comedy, Crime            ",46,6.0,"9,538",$12.42M
+996,Why Do Fools Fall in Love,1998,R,Gregory Nava,Halle Berry,Vivica A. Fox,Lela Rochon,Larenz Tate,116,"Biography, Drama, Music            ",none,6.3,"4,315",$12.41M
+997,Mr. Wrong,1996,PG-13,Nick Castle,Ellen DeGeneres,Bill Pullman,Joan Cusack,Dean Stockwell,96,Comedy            ,none,3.8,"5,191",$12.35M
+998,Gattaca,1997,PG-13,Andrew Niccol,Ethan Hawke,Uma Thurman,Jude Law,Gore Vidal,106,"Drama, Sci-Fi, Thriller            ",64,7.8,"305,757",$12.34M
+999,A Stranger Among Us,1992,PG-13,Sidney Lumet,Melanie Griffith,Eric Thal,John Pankow,Tracy Pollan,110,"Crime, Drama, Romance            ",none,5.6,"3,949",$12.28M
+1000,True Romance,1993,R,Tony Scott,Christian Slater,Patricia Arquette,Dennis Hopper,Val Kilmer,119,"Crime, Drama, Romance            ",59,7.9,"228,048",$12.28M
+1001,I'll Be Home for Christmas,1998,PG,Arlene Sanford,Jonathan Taylor Thomas,Jessica Biel,Adam LaVorgna,Gary Cole,86,"Comedy, Family            ",none,5.5,"10,799",$12.21M
+1002,Little Big League,1994,PG,Andrew Scheinman,Luke Edwards,Timothy Busfield,John Ashton,Ashley Crow,119,"Comedy, Family, Sport            ",57,6.1,"10,952",$12.21M
+1003,Hideaway,1995,R,Brett Leonard,Jeff Goldblum,Christine Lahti,Alicia Silverstone,Jeremy Sisto,106,"Fantasy, Horror, Thriller            ",none,5.3,"7,019",$12.20M
+1004,Judgment Night,1993,R,Stephen Hopkins,Emilio Estevez,Cuba Gooding Jr.,Denis Leary,Stephen Dorff,110,"Action, Crime, Drama            ",46,6.6,"17,293",$12.14M
+1005,Roommates,1995,PG,Peter Yates,Peter Falk,D.B. Sweeney,Julianne Moore,Ellen Burstyn,108,"Comedy, Drama            ",none,6.4,"1,895",$12.10M
+1006,Bye Bye Love,1995,PG-13,Sam Weisman,Matthew Modine,Randy Quaid,Paul Reiser,Janeane Garofalo,106,"Comedy, Romance            ",none,6.1,"6,366",$12.10M
+1007,Holy Man,1998,PG,Stephen Herek,Eddie Murphy,Jeff Goldblum,Kelly Preston,Robert Loggia,114,"Comedy, Drama            ",41,4.9,"20,270",$12.07M
+1008,Chasing Amy,1997,R,Kevin Smith,Ben Affleck,Joey Lauren Adams,Ethan Suplee,Scott Mosier,113,"Comedy, Drama, Romance            ",71,7.2,"139,082",$12.02M
+1009,In Dreams,1999,R,Neil Jordan,Annette Bening,Robert Downey Jr.,Katie Sagona,Aidan Quinn,100,"Drama, Fantasy, Thriller            ",none,5.5,"13,176",$12.02M
+1010,The King and I,1999,G,Richard Rich,Miranda Richardson,Martin Vidnovic,Christiane Noll,Ian Richardson,88,"Animation, Family, Fantasy            ",29,4.3,"4,153",$11.96M
+1011,Sliding Doors,1998,PG-13,Peter Howitt,Gwyneth Paltrow,John Hannah,John Lynch,Jeanne Tripplehorn,99,"Comedy, Drama, Fantasy            ",59,6.7,"67,948",$11.88M
+1012,Big Night,1996,R,Campbell Scott,Stanley Tucci,Tony Shalhoub,Stanley Tucci,Marc Anthony,109,"Drama, Romance            ",80,7.3,"20,976",$11.88M
+1013,Tales from the Hood,1995,R,Rusty Cundieff,Clarence Williams III,Corbin Bernsen,Joe Torry,De'aundre Bonds,98,"Crime, Drama, Horror            ",none,6.5,"8,679",$11.80M
+1014,3 Ninjas Kick Back,1994,PG,Charles T. Kanganis,Victor Wong,Max Elliott Slade,Sean Fox,J. Evan Bonifant,93,"Action, Comedy, Family            ",39,4.5,"9,437",$11.78M
+1015,Strictly Ballroom,1992,PG,Baz Luhrmann,Paul Mercurio,Tara Morice,Bill Hunter,Pat Thomson,94,"Comedy, Drama, Music            ",72,7.2,"27,991",$11.74M
+1016,Rock-A-Doodle,1991,G,Don Bluth,Gary Goldman,Dan Kuenster,Glen Campbell,Christopher Plummer,77,"Animation, Adventure, Comedy            ",none,6.0,"9,786",$11.66M
+1017,Far from Home: The Adventures of Yellow Dog,1995,PG,Phillip Borsos,Jesse Bradford,Mimi Rogers,Bruce Davison,Tom Bower,81,"Adventure, Family            ",none,6.3,"3,071",$11.64M
+1018,The Adventures of Elmo in Grouchland,1999,G,Gary Halvorson,Kevin Clash,Mandy Patinkin,Vanessa Williams,Sonia Manzano,73,"Adventure, Comedy, Family            ",59,5.7,"3,451",$11.63M
+1019,The Muse,1999,PG-13,Albert Brooks,Albert Brooks,Sharon Stone,Andie MacDowell,Jeff Bridges,97,Comedy            ,56,5.7,"11,040",$11.61M
+1020,So I Married an Axe Murderer,1993,PG-13,Thomas Schlamme,Mike Myers,Nancy Travis,Anthony LaPaglia,Amanda Plummer,93,"Comedy, Romance            ",54,6.4,"39,825",$11.59M
+1021,Graveyard Shift,1990,R,Ralph S. Singleton,David Andrews,Kelly Wolf,Stephen Macht,Andrew Divoff,86,Horror            ,28,4.9,"11,618",$11.58M
+1022,Wing Commander,1999,PG-13,Chris Roberts,Freddie Prinze Jr.,Matthew Lillard,Saffron Burrows,Tchéky Karyo,100,"Action, Adventure, Sci-Fi            ",21,4.3,"16,941",$11.58M
+1023,Henry & June,1990,NC-17,Philip Kaufman,Fred Ward,Uma Thurman,Maria de Medeiros,Richard E. Grant,136,"Biography, Drama            ",62,6.3,"13,443",$11.57M
+1024,Alaska,1996,PG,Fraser C. Heston,Thora Birch,Vincent Kartheiser,Dirk Benedict,Charlton Heston,109,"Adventure, Family            ",none,5.7,"5,551",$11.57M
+1025,The Legend of Drunken Master,1994,R,Chia-Liang Liu,Jackie Chan,Jackie Chan,Ho-Sung Pak,Lung Ti,102,"Action, Comedy            ",74,7.5,"46,501",$11.55M
+1026,Pump Up the Volume,1990,R,Allan Moyle,Christian Slater,Samantha Mathis,Anthony Lucero,Andy Romano,102,"Comedy, Drama, Music            ",77,7.2,"29,292",$11.54M
+1027,Fair Game,1995,R,Andrew Sipes,William Baldwin,Cindy Crawford,Steven Berkoff,Christopher McDonald,91,"Action, Romance, Thriller            ",13,4.3,"13,142",$11.53M
+1028,Boys Don't Cry,1999,R,Kimberly Peirce,Hilary Swank,Chloë Sevigny,Peter Sarsgaard,Brendan Sexton III,118,"Biography, Crime, Drama            ",86,7.5,"98,705",$11.53M
+1029,Shattered,1991,R,Wolfgang Petersen,Tom Berenger,Bob Hoskins,Greta Scacchi,Joanne Whalley,98,"Crime, Drama, Mystery            ",none,6.5,"10,389",$11.51M
+1030,Army of Darkness,1992,R,Sam Raimi,Bruce Campbell,Embeth Davidtz,Marcus Gilbert,Ian Abercrombie,81,"Comedy, Horror            ",59,7.4,"179,868",$11.50M
+1031,Mulholland Falls,1996,R,Lee Tamahori,Nick Nolte,Melanie Griffith,Jennifer Connelly,Chazz Palminteri,107,"Crime, Drama, Mystery            ",51,6.3,"17,761",$11.50M
+1032,The Beautician and the Beast,1997,PG,Ken Kwapis,Fran Drescher,Timothy Dalton,Ian McNeice,Patrick Malahide,105,"Comedy, Romance            ",none,5.4,"9,474",$11.49M
+1033,Turbulence,1997,R,Robert Butler,Ray Liotta,Lauren Holly,Brendan Gleeson,Hector Elizondo,100,"Action, Thriller            ",none,4.9,"11,956",$11.47M
+1034,The Ref,1994,R,Ted Demme,Denis Leary,Judy Davis,Kevin Spacey,Robert J. Steinmiller Jr.,97,"Comedy, Crime, Drama            ",58,6.9,"25,093",$11.44M
+1035,Double Team,1997,R,Hark Tsui,Jean-Claude Van Damme,Dennis Rodman,Mickey Rourke,Paul Freeman,93,"Action, Comedy, Sci-Fi            ",44,4.8,"34,879",$11.44M
+1036,Jennifer 8,1992,R,Bruce Robinson,Andy Garcia,Uma Thurman,Lance Henriksen,Graham Beckel,124,"Crime, Drama, Mystery            ",48,6.3,"17,251",$11.39M
+1037,Cops and Robbersons,1994,PG,Michael Ritchie,Chevy Chase,Jack Palance,Dianne Wiest,Robert Davi,93,"Comedy, Crime, Thriller            ",none,5.2,"6,961",$11.38M
+1038,Thumbelina,1994,G,Don Bluth,Gary Goldman,Jodi Benson,Gary Imhoff,Gino Conforti,86,"Animation, Adventure, Family            ",none,6.2,"17,469",$11.37M
+1039,Opportunity Knocks,1990,PG-13,Donald Petrie,Dana Carvey,Robert Loggia,Todd Graff,Julia Campbell,103,Comedy            ,none,6.0,"3,194",$11.36M
+1040,Balto,1995,G,Simon Wells,Kevin Bacon,Bob Hoskins,Bridget Fonda,Jim Cummings,78,"Animation, Adventure, Drama            ",none,7.1,"44,447",$11.35M
+1041,Career Opportunities,1991,PG-13,Bryan Gordon,Frank Whaley,Jennifer Connelly,Dermot Mulroney,Kieran Mulroney,83,"Comedy, Romance            ",41,5.8,"15,331",$11.34M
+1042,Ready to Wear,1994,R,Robert Altman,Sophia Loren,Julia Roberts,Marcello Mastroianni,Jean-Pierre Cassel,133,"Comedy, Drama            ",48,5.2,"15,320",$11.30M
+1043,Who's the Man?,1993,R,Ted Demme,Ed Lover,Doctor Dré,Badja Djola,Cheryl 'Salt' James,85,"Comedy, Drama, Mystery            ",none,5.3,"8,666",$11.30M
+1044,Manhattan Murder Mystery,1993,PG,Woody Allen,Woody Allen,Diane Keaton,Jerry Adler,Lynn Cohen,104,"Comedy, Mystery            ",71,7.3,"44,533",$11.29M
+1045,One Good Cop,1991,R,Heywood Gould,Michael Keaton,Rene Russo,Anthony LaPaglia,Kevin Conway,114,"Action, Crime, Drama            ",none,5.8,"4,286",$11.28M
+1046,Chill Factor,1999,R,Hugh Johnson,Cuba Gooding Jr.,Skeet Ulrich,Peter Firth,David Paymer,102,"Action, Adventure, Comedy            ",33,5.2,"9,808",$11.23M
+1047,"The Adventures of Priscilla, Queen of the Desert",1994,R,Stephan Elliott,Hugo Weaving,Guy Pearce,Terence Stamp,Rebel Penfold-Russell,104,"Comedy, Music            ",70,7.5,"51,010",$11.22M
+1048,Q&A,1990,R,Sidney Lumet,Nick Nolte,Timothy Hutton,Armand Assante,Patrick O'Neal,132,"Crime, Drama, Thriller            ",66,6.5,"6,343",$11.21M
+1049,Deep Rising,1998,R,Stephen Sommers,Treat Williams,Famke Janssen,Anthony Heald,Kevin J. O'Connor,106,"Action, Adventure, Horror            ",none,6.1,"37,848",$11.20M
