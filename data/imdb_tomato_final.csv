@@ -1,0 +1,101 @@
+,movie_title,release_year,movie_rating,director,star_one,star_two,star_three,star_four,movie_length,genre,imdb_metascore,imdb_stars,imdb_votes,imdb_gross,Opening,Studio,Medium,tomato_score
+0,Home Alone,1990,PG,Chris Columbus,Macaulay Culkin,Joe Pesci,Daniel Stern,John Heard,103,Comedy,63,7.7,"570,049",285.76,NOVEMBER,20th Century Fox,Live action,66
+1,Ghost,1990,PG-13,Jerry Zucker,Patrick Swayze,Demi Moore,Whoopi Goldberg,Tony Goldwyn,127,Drama,52,7.1,"218,885",217.63,JULY,Paramount Pictures,Live action,75
+2,Dances with Wolves,1990,PG-13,Kevin Costner,Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant,181,Adventure,72,8,"266,555",184.21,NOVEMBER,Orion Pictures,Live action,87
+3,Pretty Woman,1990,R,Garry Marshall,Richard Gere,Julia Roberts,Jason Alexander,Laura San Giacomo,119,Comedy,51,7.1,"326,944",178.41,MARCH,Touchstone Pictures,Live action,66
+4,Teenage Mutant Ninja Turtles,1990,PG,Steve Barron,Judith Hoag,Elias Koteas,Josh Pais,David Forman,93,Action,51,6.7,"95,328",135.27,MARCH,New Line Cinema,Live action,41
+5,The Hunt for Red October,1990,PG,John McTiernan,Sean Connery,Alec Baldwin,Scott Glenn,Sam Neill,135,Action,58,7.5,"201,808",122.01,MARCH,Paramount Pictures,Live action,88
+6,Total Recall,1990,R,Paul Verhoeven,Arnold Schwarzenegger,Sharon Stone,Michael Ironside,Rachel Ticotin,113,Action,57,7.5,"332,570",119.39,JUNE,TriStar Pictures,Live action,83
+7,Die Hard 2,1990,R,Renny Harlin,Bruce Willis,William Atherton,Bonnie Bedelia,Reginald VelJohnson,124,Action,67,7.1,"363,020",117.54,JULY,20th Century Fox,Live action,69
+8,Dick Tracy,1990,PG,Warren Beatty,Warren Beatty,Madonna,Al Pacino,Charlie Korsmo,105,Action,68,6.2,"62,607",103.74,JUNE,Touchstone Pictures,Live action,63
+9,Kindergarten Cop,1990,PG-13,Ivan Reitman,Arnold Schwarzenegger,Penelope Ann Miller,Pamela Reed,Linda Hunt,111,Action,61,6.2,"151,216",91.46,DECEMBER,Universal Pictures,Live action,53
+10,Beauty and the Beast,1991,G,Gary Trousdale,Kirk Wise,Paige O'Hara,Robby Benson,Jesse Corti,84,Animation,95,8,"455,430",218.97,NOVEMBER,Walt Disney Pictures,Animation,94
+11,Terminator 2: Judgment Day,1991,R,James Cameron,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick,137,Action,75,8.6,"1,096,253",204.84,JULY,TriStar Pictures,Live action,93
+12,Robin Hood: Prince of Thieves,1991,PG-13,Kevin Reynolds,Kevin Costner,Morgan Freeman,Mary Elizabeth Mastrantonio,Christian Slater,143,Action,51,6.9,"195,402",165.5,JUNE,Warner Bros. Pictures,Live action,51
+13,The Silence of the Lambs,1991,R,Jonathan Demme,Jodie Foster,Anthony Hopkins,Lawrence A. Bonney,Kasi Lemmons,118,Crime,85,8.6,"1,427,792",130.74,FEBRUARY,Orion Pictures,Live action,95
+14,City Slickers,1991,PG-13,Ron Underwood,Billy Crystal,Jack Palance,Daniel Stern,Bruno Kirby,113,Comedy,70,6.8,"58,461",124.03,JUNE,Columbia Pictures,Live action,90
+15,Hook,1991,PG,Steven Spielberg,Dustin Hoffman,Robin Williams,Julia Roberts,Bob Hoskins,142,Adventure,52,6.8,"255,955",119.65,DECEMBER,TriStar Pictures,Live action,29
+16,The Addams Family,1991,PG-13,Barry Sonnenfeld,Anjelica Huston,Raul Julia,Christopher Lloyd,Dan Hedaya,99,Comedy,57,6.9,"160,933",113.5,NOVEMBER,Paramount Pictures,Live action,67
+17,Sleeping with the Enemy,1991,R,Joseph Ruben,Julia Roberts,Patrick Bergin,Kevin Anderson,Elizabeth Lawrence,99,Drama,48,6.2,"59,119",101.6,FEBRUARY,20th Century Fox,Live action,22
+18,Father of the Bride,1991,PG,Charles Shyer,Steve Martin,Diane Keaton,Martin Short,Kimberly Williams-Paisley,105,Comedy,51,6.5,"78,243",89.33,DECEMBER,Touchstone Pictures,Live action,70
+19,The Naked Gun 2½: The Smell of Fear,1991,PG-13,David Zucker,Leslie Nielsen,Priscilla Presley,George Kennedy,O.J. Simpson,85,Comedy,65,6.9,"114,683",86.93,JUNE,Paramount Pictures,Live action,58
+20,Aladdin,1992,G,Ron Clements,John Musker,Scott Weinger,Robin Williams,Linda Larkin,90,Animation,86,8,"420,449",217.35,NOVEMBER,Walt Disney Pictures,Animation,95
+21,Home Alone 2: Lost in New York,1992,PG,Chris Columbus,Macaulay Culkin,Joe Pesci,Daniel Stern,Catherine O'Hara,120,Adventure,46,6.8,"356,369",173.59,NOVEMBER,20th Century Fox,Live action,35
+22,Batman Returns,1992,PG-13,Tim Burton,Michael Keaton,Danny DeVito,Michelle Pfeiffer,Christopher Walken,126,Action,68,7.1,"306,891",162.83,JUNE,Warner Bros. Pictures,Live action,81
+23,Lethal Weapon 3,1992,R,Richard Donner,Mel Gibson,Danny Glover,Joe Pesci,Rene Russo,118,Action,40,6.7,"169,796",144.73,MAY,Warner Bros. Pictures,Live action,58
+24,A Few Good Men,1992,R,Rob Reiner,Tom Cruise,Jack Nicholson,Demi Moore,Kevin Bacon,138,Drama,62,7.7,"265,854",141.34,DECEMBER,Columbia Pictures,Live action,83
+25,Sister Act,1992,PG,Emile Ardolino,Whoopi Goldberg,Maggie Smith,Kathy Najimy,Wendy Makkena,100,Comedy,51,6.5,"100,389",139.61,MAY,Touchstone Pictures,Live action,74
+26,The Bodyguard,1992,R,Mick Jackson,Kevin Costner,Whitney Houston,Gary Kemp,Bill Cobbs,129,Action,39,6.3,"136,460",121.95,NOVEMBER,Warner Bros. Pictures,Live action,38
+27,Wayne's World,1992,PG-13,Penelope Spheeris,Mike Myers,Dana Carvey,Rob Lowe,Tia Carrere,94,Comedy,57,7,"158,754",121.7,FEBRUARY,Paramount Pictures,Live action,79
+28,Basic Instinct,1992,R,Paul Verhoeven,Michael Douglas,Sharon Stone,George Dzundza,Jeanne Tripplehorn,127,Drama,41,7,"201,956",117.73,MARCH,TriStar Pictures,Live action,57
+29,A League of Their Own,1992,PG,Penny Marshall,Tom Hanks,Geena Davis,Lori Petty,Madonna,128,Comedy,69,7.3,"110,464",107.53,JULY,Columbia Pictures,Live action,81
+30,Jurassic Park,1993,PG-13,Steven Spielberg,Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough,127,Action,68,8.2,"986,436",402.45,JUNE,Universal Pictures,Live action,91
+31,Mrs. Doubtfire,1993,PG-13,Chris Columbus,Robin Williams,Sally Field,Pierce Brosnan,Harvey Fierstein,125,Comedy,53,7.1,"269,535",219.2,NOVEMBER,20th Century Fox,Live action,70
+32,The Fugitive,1993,PG-13,Andrew Davis,Harrison Ford,Tommy Lee Jones,Sela Ward,Julianne Moore,130,Action,87,7.8,"296,723",183.88,AUGUST,Warner Bros. Pictures,Live action,96
+33,The Firm,1993,R,Sydney Pollack,Tom Cruise,Jeanne Tripplehorn,Gene Hackman,Hal Holbrook,154,Drama,58,6.8,"136,564",158.35,JULY,Paramount Pictures,Live action,76
+34,Sleepless in Seattle,1993,PG,Nora Ephron,Tom Hanks,Meg Ryan,Ross Malinger,Rita Wilson,105,Comedy,72,6.8,"177,724",126.53,JUNE,TriStar Pictures,Live action,75
+35,Indecent Proposal,1993,R,Adrian Lyne,Robert Redford,Demi Moore,Woody Harrelson,Seymour Cassel,117,Drama,35,6,"72,499",106.61,APRIL,Paramount Pictures,Live action,34
+36,In the Line of Fire,1993,R,Wolfgang Petersen,Clint Eastwood,John Malkovich,Rene Russo,Dylan McDermott,128,Action,74,7.2,"105,248",102.31,JULY,Columbia Pictures,Live action,96
+37,The Pelican Brief,1993,PG-13,Alan J. Pakula,Julia Roberts,Denzel Washington,Sam Shepard,John Heard,141,Crime,50,6.6,"88,805",100.77,DECEMBER,Warner Bros. Pictures,Live action,54
+38,Schindler's List,1993,R,Steven Spielberg,Liam Neeson,Ralph Fiennes,Ben Kingsley,Caroline Goodall,195,Biography,94,9,"1,351,087",96.9,DECEMBER,Universal Pictures,Live action,98
+39,Cliffhanger,1993,R,Renny Harlin,Sylvester Stallone,John Lithgow,Michael Rooker,Janine Turner,113,Action,60,6.5,"131,335",84.05,MAY,TriStar Pictures,Live action,67
+40,The Lion King,1994,G,Roger Allers,Rob Minkoff,Matthew Broderick,Jeremy Irons,James Earl Jones,88,Animation,88,8.5,"1,055,076",422.78,JUNE,Walt Disney Pictures,Animation,93
+41,Forrest Gump,1994,PG-13,Robert Zemeckis,Tom Hanks,Robin Wright,Gary Sinise,Sally Field,142,Drama,82,8.8,"2,068,810",330.25,JULY,Paramount Pictures,Live action,71
+42,True Lies,1994,R,James Cameron,Arnold Schwarzenegger,Jamie Lee Curtis,Tom Arnold,Bill Paxton,141,Action,63,7.3,"260,620",146.28,JULY,20th Century Fox,Live action,70
+43,The Santa Clause,1994,PG,John Pasquin,Tim Allen,Judge Reinhold,Wendy Crewson,Eric Lloyd,97,Comedy,57,6.5,"118,739",144.83,NOVEMBER,Walt Disney Pictures,Live action,73
+44,The Flintstones,1994,PG,Brian Levant,John Goodman,Rick Moranis,Rosie O'Donnell,Halle Berry,91,Comedy,38,5,"82,008",130.51,MAY,Universal Pictures,Live action,21
+45,Dumb and Dumber,1994,PG-13,Peter Farrelly,Bobby Farrelly,Jim Carrey,Jeff Daniels,Lauren Holly,107,Comedy            ,41,7.3,"386,972",127.18,DECEMBER,New Line Cinema,Live action,68
+46,Clear and Present Danger,1994,PG-13,Phillip Noyce,Harrison Ford,Willem Dafoe,Anne Archer,Joaquim de Almeida,141,Action,74,6.9,"101,021",122.19,AUGUST,Paramount Pictures,Live action,80
+47,Speed,1994,R,Jan de Bont,Keanu Reeves,Dennis Hopper,Sandra Bullock,Joe Morton,116,Action,78,7.3,"365,698",121.25,JUNE,20th Century Fox,Live action,94
+48,The Mask,1994,PG-13,Chuck Russell,Jim Carrey,Cameron Diaz,Peter Riegert,Peter Greene,101,Action,56,6.9,"387,910",119.94,JULY,New Line Cinema,Live action,80
+49,Pulp Fiction,1994,R,Quentin Tarantino,John Travolta,Uma Thurman,Samuel L. Jackson,Bruce Willis,154,Crime,94,8.9,"2,043,225",107.93,OCTOBER,Miramax Films,Live action,92
+50,Toy Story,1995,G,John Lasseter,Tom Hanks,Tim Allen,Don Rickles,Jim Varney,81,Animation,95,8.3,"991,685",191.8,NOVEMBER,Walt Disney Pictures,Animation,100
+51,Batman Forever,1995,PG-13,Joel Schumacher,Val Kilmer,Tommy Lee Jones,Jim Carrey,Nicole Kidman,121,Action,51,5.4,"254,459",184.03,JUNE,Warner Bros. Pictures,Live action,39
+52,Apollo 13,1995,PG,Ron Howard,Tom Hanks,Bill Paxton,Kevin Bacon,Gary Sinise,140,Adventure,77,7.7,"296,619",173.84,JUNE,Universal Pictures,Live action,96
+53,Pocahontas,1995,G,Mike Gabriel,Eric Goldberg,Mel Gibson,Linda Hunt,Christian Bale,81,Animation,58,6.7,"188,850",141.6,JUNE,Walt Disney Pictures,Animation,55
+54,Ace Ventura: When Nature Calls,1995,PG-13,Steve Oedekerk,Jim Carrey,Ian McNeice,Simon Callow,Maynard Eziashi,90,Adventure,45,6.4,"219,319",108.39,NOVEMBER,Warner Bros. Pictures,Live action,21
+55,GoldenEye,1995,PG-13,Martin Campbell,Pierce Brosnan,Sean Bean,Izabella Scorupco,Famke Janssen,130,Action,65,7.2,"258,722",106.6,NOVEMBER,United Artists,Live action,80
+56,Jumanji,1995,PG,Joe Johnston,Robin Williams,Kirsten Dunst,Bonnie Hunt,Jonathan Hyde,104,Adventure,39,7,"347,394",100.48,DECEMBER,TriStar Pictures,Live action,52
+57,Casper,1995,PG,Brad Silberling,Bill Pullman,Christina Ricci,Cathy Moriarty,Eric Idle,100,Comedy,49,6.1,"136,380",100.33,MAY,Universal Pictures,Live action/Animation,51
+58,Se7en,1995,R,David Fincher,Morgan Freeman,Brad Pitt,Kevin Spacey,Andrew Kevin Walker,127,Crime,65,8.6,"1,645,175",100.13,SEPTEMBER,New Line Cinema,,82
+59,Die Hard with a Vengeance,1995,R,John McTiernan,Bruce Willis,Jeremy Irons,Samuel L. Jackson,Graham Greene,128,Action,58,7.6,"388,664",100.01,MAY,20th Century Fox,Live action,58
+60,Independence Day,1996,PG-13,Roland Emmerich,Will Smith,Bill Pullman,Jeff Goldblum,Mary McDonnell,145,Action,59,7,"576,567",306.17,JULY,20th Century Fox,Live action,67
+61,Twister,1996,PG-13,Jan de Bont,Helen Hunt,Bill Paxton,Cary Elwes,Jami Gertz,113,Action,68,6.4,"198,092",241.72,MAY,Warner Bros. Pictures,Live action,63
+62,Mission: Impossible,1996,PG-13,Brian De Palma,Tom Cruise,Jon Voight,Emmanuelle Béart,Henry Czerny,110,Action,59,7.1,"427,824",180.98,MAY,Paramount Pictures,Live action,66
+63,Jerry Maguire,1996,R,Cameron Crowe,Tom Cruise,Cuba Gooding Jr.,Renée Zellweger,Kelly Preston,139,Comedy,77,7.3,"268,132",153.95,DECEMBER,TriStar Pictures,Live action,84
+64,Ransom,1996,R,Ron Howard,Mel Gibson,Gary Sinise,Rene Russo,Brawley Nolte,121,Action,60,6.7,"129,513",136.49,NOVEMBER,Touchstone Pictures,Live action,74
+65,101 Dalmatians,1996,G,Stephen Herek,Glenn Close,Jeff Daniels,Joely Richardson,Joan Plowright,103,Adventure,49,5.7,"112,162",136.19,NOVEMBER,Walt Disney Pictures,Live action,41
+66,The Rock,1996,R,Michael Bay,Sean Connery,Nicolas Cage,Ed Harris,John Spencer,136,Action,58,7.4,"339,850",134.07,JUNE,Hollywood Pictures,Live action,68
+67,The Nutty Professor,1996,PG-13,Tom Shadyac,Eddie Murphy,Jada Pinkett Smith,James Coburn,Larry Miller,95,Comedy,62,5.7,"118,058",128.81,JUNE,Universal Pictures,Live action,64
+68,The Birdcage,1996,R,Mike Nichols,Robin Williams,Nathan Lane,Gene Hackman,Dianne Wiest,117,Comedy            ,72,7.2,"91,038",124.06,MARCH,United Artists,Live action,82
+69,A Time to Kill,1996,R,Joel Schumacher,Matthew McConaughey,Sandra Bullock,Samuel L. Jackson,Kevin Spacey,149,Crime,54,7.5,"162,576",108.77,JULY,Warner Bros. Pictures,Live action,68
+70,Titanic,1997,PG-13,James Cameron,Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates,194,Drama,75,7.9,"1,169,765",659.33,DECEMBER,20th Century Fox,Live action,87
+71,Men in Black,1997,PG-13,Barry Sonnenfeld,Tommy Lee Jones,Will Smith,Linda Fiorentino,Vincent D'Onofrio,98,Action,71,7.3,"569,851",250.69,JULY,Columbia Pictures,Live action,91
+72,The Lost World: Jurassic Park,1997,PG-13,Steven Spielberg,Jeff Goldblum,Julianne Moore,Pete Postlethwaite,Vince Vaughn,129,Action,59,6.5,"419,357",229.09,MAY,Universal Pictures,Live action,54
+73,Liar Liar,1997,PG-13,Tom Shadyac,Jim Carrey,Maura Tierney,Amanda Donohoe,Jennifer Tilly,86,Comedy,70,6.9,"310,958",181.41,MARCH,Universal Pictures,Live action,83
+74,Air Force One,1997,R,Wolfgang Petersen,Harrison Ford,Gary Oldman,Glenn Close,Wendy Crewson,124,Action,61,6.5,"197,847",172.96,JULY,Columbia Pictures,Live action,79
+75,As Good as It Gets,1997,PG-13,James L. Brooks,Jack Nicholson,Helen Hunt,Greg Kinnear,Cuba Gooding Jr.,139,Comedy,67,7.7,"300,279",148.48,DECEMBER,TriStar Pictures,Live action,85
+76,Good Will Hunting,1997,R,Gus Van Sant,Robin Williams,Matt Damon,Ben Affleck,Stellan Skarsgård,126,Drama,70,8.3,"965,481",138.43,DECEMBER,Miramax Films,Live action,97
+77,My Best Friend's Wedding,1997,PG-13,P.J. Hogan,Julia Roberts,Dermot Mulroney,Cameron Diaz,Rupert Everett,105,Comedy,50,6.3,"144,124",127.12,JUNE,TriStar Pictures,Live action,73
+78,Tomorrow Never Dies,1997,PG-13,Roger Spottiswoode,Pierce Brosnan,Jonathan Pryce,Michelle Yeoh,Teri Hatcher,119,Action,52,6.5,"196,014",125.33,DECEMBER,United Artists,Live action,56
+79,Face/Off,1997,R,John Woo,John Travolta,Nicolas Cage,Joan Allen,Alessandro Nivola,138,Action,82,7.3,"379,182",112.23,JUNE,Paramount Pictures,Live action,92
+80,Saving Private Ryan,1998,R,Steven Spielberg,Tom Hanks,Matt Damon,Tom Sizemore,Edward Burns,169,Drama,91,8.6,"1,386,912",216.54,JULY,DreamWorks,Live action,94
+81,Armageddon,1998,PG-13,Michael Bay,Bruce Willis,Billy Bob Thornton,Ben Affleck,Liv Tyler,151,Action,42,6.7,"427,691",201.57,JULY,Touchstone Pictures,Live action,37
+82,There's Something About Mary,1998,R,Bobby Farrelly,Peter Farrelly,Cameron Diaz,Matt Dillon,Ben Stiller,119,Comedy,69,7.1,"313,061",176.48,JULY,20th Century Fox,Live action,83
+83,A Bug's Life,1998,G,John Lasseter,Andrew Stanton,Kevin Spacey,David Foley,Julia Louis-Dreyfus,95,Animation,77,7.2,"294,443",162.8,NOVEMBER,Walt Disney Pictures,Animation,92
+84,The Waterboy,1998,PG-13,Frank Coraci,Adam Sandler,Kathy Bates,Henry Winkler,Fairuza Balk,90,Comedy,41,6.1,"166,004",161.49,NOVEMBER,Touchstone Pictures,Live action,33
+85,Doctor Dolittle,1998,PG-13,Betty Thomas,Eddie Murphy,Peter Boyle,Ossie Davis,Oliver Platt,85,Comedy,46,5.4,"97,904",144.16,JUNE,20th Century Fox,,41
+86,Rush Hour,1998,PG-13,Brett Ratner,Jackie Chan,Chris Tucker,Ken Leung,Tom Wilkinson,98,Action,60,7,"270,637",141.15,SEPTEMBER,New Line Cinema,Live action,61
+87,Deep Impact,1998,PG-13,Mimi Leder,Robert Duvall,Téa Leoni,Elijah Wood,Morgan Freeman,120,Action,40,6.2,"180,035",140.46,MAY,Paramount Pictures,Live action,46
+88,Godzilla,1998,PG-13,Roland Emmerich,Matthew Broderick,Jean Reno,Maria Pitillo,Hank Azaria,139,Action,32,5.4,"194,825",136.31,MAY,TriStar Pictures,Live action,16
+89,Patch Adams,1998,PG-13,Tom Shadyac,Robin Williams,Daniel London,Monica Potter,Philip Seymour Hoffman,115,Biography,25,6.8,"114,751",135.03,DECEMBER,Universal Pictures,Live action,22
+90,Star Wars: Episode I - The Phantom Menace,1999,PG,George Lucas,Ewan McGregor,Liam Neeson,Natalie Portman,Jake Lloyd,136,Action,51,6.5,"805,544",474.54,MAY,20th Century Fox,,51
+91,The Sixth Sense,1999,PG-13,M. Night Shyamalan,Bruce Willis,Haley Joel Osment,Toni Collette,Olivia Williams,107,Drama,64,8.2,"991,076",293.51,AUGUST,Hollywood Pictures,Live action,86
+92,Toy Story 2,1999,G,John Lasseter,Ash Brannon,Lee Unkrich,Tom Hanks,Tim Allen,92,Animation,88,7.9,"581,601",245.85,NOVEMBER,Walt Disney Pictures,Animation,100
+93,Austin Powers: The Spy Who Shagged Me,1999,PG-13,Jay Roach,Mike Myers,Heather Graham,Michael York,Robert Wagner,95,Action,59,6.6,"235,354",206.04,JUNE,New Line Cinema,Live action,53
+94,The Matrix,1999,R,Lana Wachowski,Lilly Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,136,Action,73,8.7,"1,906,469",171.48,MARCH,Warner Bros. Pictures,Live action,88
+95,Tarzan,1999,G,Chris Buck,Kevin Lima,Tony Goldwyn,Minnie Driver,Brian Blessed,88,Animation,79,7.3,"228,047",171.09,JUNE,Walt Disney Pictures,Animation,89
+96,Big Daddy,1999,PG-13,Dennis Dugan,Adam Sandler,Joey Lauren Adams,Jon Stewart,Cole Sprouse,93,Comedy,41,6.4,"219,264",163.48,JUNE,Columbia Pictures,Live action,39
+97,The Mummy,1999,PG-13,Stephen Sommers,Brendan Fraser,Rachel Weisz,John Hannah,Arnold Vosloo,124,Action,48,7.1,"431,229",155.25,MAY,Universal Pictures,Live action,61
+98,Runaway Bride,1999,PG,Garry Marshall,Julia Roberts,Richard Gere,Joan Cusack,Hector Elizondo,116,Comedy,39,5.6,"99,600",152.26,JULY,Paramount Pictures,Live action,46
+99,The Blair Witch Project,1999,R,Daniel Myrick,Eduardo Sánchez,Heather Donahue,Michael C. Williams,Joshua Leonard,81,Horror,81,6.5,"263,815",140.54,JULY,Artisan Entertainment,Live action,86
