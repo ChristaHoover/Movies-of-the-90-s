@@ -28,7 +28,7 @@ Whenever I want to go see a film, someone I know wants to look at the Rotten Tom
   - Pandas
   - BeautifulSoup
 
-* Tableau
+- Tableau
 
 ## Issues and Challenges
 * Web scraping three websites
