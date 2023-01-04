@@ -27,7 +27,6 @@ Whenever I want to go see a film, someone I know wants to look at the Rotten Tom
   - Jupyter Notebooks
   - Pandas
   - BeautifulSoup
-
 - Tableau
 
 ## Issues and Challenges
